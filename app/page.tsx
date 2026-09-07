@@ -51,6 +51,7 @@ import {
   atomColor,
 } from '../components/lab/Models';
 import { ElementCard } from '../components/lab/ElementCard';
+
 const compounds = rawCompounds as unknown as Compound[];
 const ids = new Set(compounds.map((c) => c.id)),
   missionIds = new Set(challenges.map((c) => c.id)),
