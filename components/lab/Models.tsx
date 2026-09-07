@@ -1,7 +1,8 @@
 'use client';
 import { useState } from 'react';
-import { bySymbol, type Element } from '@/data/elements';
-import type { Compound } from '@/lib/chemistry';
+import { bySymbol, type Element } from '../../data/elements';
+import type { Compound } from '../../lib/chemistry';
+
 export const atomColor = (s: string) =>
   ({
     H: '#e3eaf8',
@@ -14,8 +15,10 @@ export const atomColor = (s: string) =>
     Ca: '#ffd4a2',
     P: '#ffc391',
   })[s] || '#bde9e3';
+
 type Point = [string, number, number];
 type Graph = { points: Point[]; bonds: number[][] };
+
 const graphs: Record<string, Graph> = {
   H2: {
     points: [
