@@ -1,0 +1,6772 @@
+[
+  {
+    "id": "hydrogen",
+    "name": "Hydrogen",
+    "commonName": "Hydrogen gas",
+    "formula": "H2",
+    "counts": {
+      "H": 2
+    },
+    "description": "Stars contain huge amounts of hydrogen.",
+    "uses": [
+      "Stars contain huge amounts of hydrogen."
+    ],
+    "funFact": "Hydrogen is the lightest gas.",
+    "category": "Elemental molecule",
+    "level": 1,
+    "rarity": "Common",
+    "hazardous": true,
+    "cid": 783,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/783"
+  },
+  {
+    "id": "oxygen",
+    "name": "Oxygen",
+    "commonName": "Oxygen gas",
+    "formula": "O2",
+    "counts": {
+      "O": 2
+    },
+    "description": "Animals use oxygen from the air to stay alive.",
+    "uses": [
+      "Animals use oxygen from the air to stay alive."
+    ],
+    "funFact": "About one fifth of dry air is oxygen.",
+    "category": "Elemental molecule",
+    "level": 1,
+    "rarity": "Common",
+    "hazardous": true,
+    "cid": 977,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/977"
+  },
+  {
+    "id": "nitrogen",
+    "name": "Nitrogen",
+    "commonName": "Nitrogen gas",
+    "formula": "N2",
+    "counts": {
+      "N": 2
+    },
+    "description": "Most of the air around you is nitrogen.",
+    "uses": [
+      "Most of the air around you is nitrogen."
+    ],
+    "funFact": "Its two atoms share a strong triple bond.",
+    "category": "Elemental molecule",
+    "level": 1,
+    "rarity": "Common",
+    "hazardous": true,
+    "cid": 947,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/947"
+  },
+  {
+    "id": "chlorine",
+    "name": "Chlorine",
+    "commonName": "",
+    "formula": "Cl2",
+    "counts": {
+      "Cl": 2
+    },
+    "description": "Scientists use chlorine to help treat drinking water.",
+    "uses": [
+      "Scientists use chlorine to help treat drinking water."
+    ],
+    "funFact": "A molecule can contain just one kind of element.",
+    "category": "Elemental molecule",
+    "level": 1,
+    "rarity": "Common",
+    "hazardous": true,
+    "cid": 24526,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24526"
+  },
+  {
+    "id": "fluorine",
+    "name": "Fluorine",
+    "commonName": "",
+    "formula": "F2",
+    "counts": {
+      "F": 2
+    },
+    "description": "It is studied in special laboratories.",
+    "uses": [
+      "It is studied in special laboratories."
+    ],
+    "funFact": "A molecule can contain just one kind of element.",
+    "category": "Elemental molecule",
+    "level": 1,
+    "rarity": "Common",
+    "hazardous": true,
+    "cid": 24524,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24524"
+  },
+  {
+    "id": "bromine",
+    "name": "Bromine",
+    "commonName": "",
+    "formula": "Br2",
+    "counts": {
+      "Br": 2
+    },
+    "description": "It is used to make other useful chemicals.",
+    "uses": [
+      "It is used to make other useful chemicals."
+    ],
+    "funFact": "Bromine is one of two elements liquid at room temperature.",
+    "category": "Elemental molecule",
+    "level": 1,
+    "rarity": "Common",
+    "hazardous": true,
+    "cid": 24408,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24408"
+  },
+  {
+    "id": "iodine",
+    "name": "Iodine",
+    "commonName": "",
+    "formula": "I2",
+    "counts": {
+      "I": 2
+    },
+    "description": "Iodine compounds help our bodies work.",
+    "uses": [
+      "Iodine compounds help our bodies work."
+    ],
+    "funFact": "Solid iodine can give off purple vapor.",
+    "category": "Elemental molecule",
+    "level": 1,
+    "rarity": "Common",
+    "hazardous": true,
+    "cid": 807,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/807"
+  },
+  {
+    "id": "water",
+    "name": "Water",
+    "commonName": "Water",
+    "formula": "H2O",
+    "counts": {
+      "H": 2,
+      "O": 1
+    },
+    "description": "Water fills oceans and helps almost every living thing survive.",
+    "uses": [
+      "Water fills oceans and helps almost every living thing survive."
+    ],
+    "funFact": "Ice floats on liquid water.",
+    "category": "Molecular compound",
+    "level": 1,
+    "rarity": "Common",
+    "hazardous": false,
+    "cid": 962,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/962"
+  },
+  {
+    "id": "carbon-dioxide",
+    "name": "Carbon dioxide",
+    "commonName": "",
+    "formula": "CO2",
+    "counts": {
+      "C": 1,
+      "O": 2
+    },
+    "description": "Plants use carbon dioxide to help make their food.",
+    "uses": [
+      "Plants use carbon dioxide to help make their food."
+    ],
+    "funFact": "The bubbles in fizzy drinks contain this gas.",
+    "category": "Molecular compound",
+    "level": 1,
+    "rarity": "Common",
+    "hazardous": true,
+    "cid": 280,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/280"
+  },
+  {
+    "id": "sodium-chloride",
+    "name": "Sodium chloride",
+    "commonName": "Table salt · Halite",
+    "formula": "NaCl",
+    "counts": {
+      "Na": 1,
+      "Cl": 1
+    },
+    "description": "This salt is found in seawater and salt crystals.",
+    "uses": [
+      "This salt is found in seawater and salt crystals."
+    ],
+    "funFact": "Its ions make repeating crystals. Halite is its mineral name.",
+    "category": "Ionic compound",
+    "level": 1,
+    "rarity": "Common",
+    "hazardous": false,
+    "cid": 5234,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5234"
+  },
+  {
+    "id": "ammonia",
+    "name": "Ammonia",
+    "commonName": "",
+    "formula": "NH3",
+    "counts": {
+      "N": 1,
+      "H": 3
+    },
+    "description": "It is used to make plant fertilizers.",
+    "uses": [
+      "It is used to make plant fertilizers."
+    ],
+    "funFact": "2 different elements appear in this formula, with 4 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 1,
+    "rarity": "Common",
+    "hazardous": true,
+    "cid": 222,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/222"
+  },
+  {
+    "id": "methane",
+    "name": "Methane",
+    "commonName": "",
+    "formula": "CH4",
+    "counts": {
+      "C": 1,
+      "H": 4
+    },
+    "description": "It is a main part of natural gas.",
+    "uses": [
+      "It is a main part of natural gas."
+    ],
+    "funFact": "2 different elements appear in this formula, with 5 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 1,
+    "rarity": "Common",
+    "hazardous": true,
+    "cid": 297,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/297"
+  },
+  {
+    "id": "hydrogen-peroxide",
+    "name": "Hydrogen peroxide",
+    "commonName": "",
+    "formula": "H2O2",
+    "counts": {
+      "H": 2,
+      "O": 2
+    },
+    "description": "It is found in some disinfectants.",
+    "uses": [
+      "It is found in some disinfectants."
+    ],
+    "funFact": "One extra oxygen per molecule makes it different from water.",
+    "category": "Molecular compound",
+    "level": 1,
+    "rarity": "Common",
+    "hazardous": true,
+    "cid": 784,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/784"
+  },
+  {
+    "id": "sodium-bicarbonate",
+    "name": "Sodium bicarbonate",
+    "commonName": "Baking soda",
+    "formula": "NaHCO3",
+    "counts": {
+      "Na": 1,
+      "H": 1,
+      "C": 1,
+      "O": 3
+    },
+    "description": "Baking soda is used in baking.",
+    "uses": [
+      "Baking soda is used in baking."
+    ],
+    "funFact": "4 different elements appear in this formula, with 6 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 1,
+    "rarity": "Common",
+    "hazardous": false,
+    "cid": 516892,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/516892"
+  },
+  {
+    "id": "calcium-carbonate",
+    "name": "Calcium carbonate",
+    "commonName": "Calcite · Chalk",
+    "formula": "CaCO3",
+    "counts": {
+      "Ca": 1,
+      "C": 1,
+      "O": 3
+    },
+    "description": "Limestone, chalk, and many seashells contain it.",
+    "uses": [
+      "Limestone, chalk, and many seashells contain it."
+    ],
+    "funFact": "Some caves have beautiful calcite crystals.",
+    "category": "Ionic compound",
+    "level": 1,
+    "rarity": "Common",
+    "hazardous": false,
+    "cid": 10112,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/10112"
+  },
+  {
+    "id": "silicon-dioxide",
+    "name": "Silicon dioxide",
+    "commonName": "Silica · Quartz",
+    "formula": "SiO2",
+    "counts": {
+      "Si": 1,
+      "O": 2
+    },
+    "description": "Quartz and much beach sand contain it.",
+    "uses": [
+      "Quartz and much beach sand contain it."
+    ],
+    "funFact": "Quartz has a giant network of bonded atoms, not separate SiO2 molecules.",
+    "category": "Network solid",
+    "level": 1,
+    "rarity": "Common",
+    "hazardous": true,
+    "cid": 24261,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24261"
+  },
+  {
+    "id": "magnesium-oxide",
+    "name": "Magnesium oxide",
+    "commonName": "",
+    "formula": "MgO",
+    "counts": {
+      "Mg": 1,
+      "O": 1
+    },
+    "description": "It lines some very hot industrial furnaces.",
+    "uses": [
+      "It lines some very hot industrial furnaces."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 1,
+    "rarity": "Common",
+    "hazardous": true,
+    "cid": 14792,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/14792"
+  },
+  {
+    "id": "calcium-oxide",
+    "name": "Calcium oxide",
+    "commonName": "",
+    "formula": "CaO",
+    "counts": {
+      "Ca": 1,
+      "O": 1
+    },
+    "description": "It is used in making cement.",
+    "uses": [
+      "It is used in making cement."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 1,
+    "rarity": "Common",
+    "hazardous": true,
+    "cid": 14778,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/14778"
+  },
+  {
+    "id": "iron-iii-oxide",
+    "name": "Iron(III) oxide",
+    "commonName": "Hematite",
+    "formula": "Fe2O3",
+    "counts": {
+      "Fe": 2,
+      "O": 3
+    },
+    "description": "It occurs in hematite and is related to rusty materials.",
+    "uses": [
+      "It occurs in hematite and is related to rusty materials."
+    ],
+    "funFact": "Real rust is a mixture, often containing water and iron oxyhydroxides.",
+    "category": "Ionic compound",
+    "level": 1,
+    "rarity": "Common",
+    "hazardous": true,
+    "cid": 518696,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/518696"
+  },
+  {
+    "id": "carbon-monoxide",
+    "name": "Carbon monoxide",
+    "commonName": "",
+    "formula": "CO",
+    "counts": {
+      "C": 1,
+      "O": 1
+    },
+    "description": "This dangerous gas can occur when fuels burn incompletely.",
+    "uses": [
+      "This dangerous gas can occur when fuels burn incompletely."
+    ],
+    "funFact": "It has no color or smell and is dangerous to breathe.",
+    "category": "Molecular compound",
+    "level": 1,
+    "rarity": "Common",
+    "hazardous": true,
+    "cid": 281,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/281"
+  },
+  {
+    "id": "sodium-carbonate",
+    "name": "Sodium carbonate",
+    "commonName": "Washing soda",
+    "formula": "Na2CO3",
+    "counts": {
+      "Na": 2,
+      "C": 1,
+      "O": 3
+    },
+    "description": "It is used in glassmaking and cleaners.",
+    "uses": [
+      "It is used in glassmaking and cleaners."
+    ],
+    "funFact": "3 different elements appear in this formula, with 6 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 10340,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/10340"
+  },
+  {
+    "id": "potassium-chloride",
+    "name": "Potassium chloride",
+    "commonName": "",
+    "formula": "KCl",
+    "counts": {
+      "K": 1,
+      "Cl": 1
+    },
+    "description": "It occurs in minerals and fertilizers.",
+    "uses": [
+      "It occurs in minerals and fertilizers."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 4873,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/4873"
+  },
+  {
+    "id": "potassium-iodide",
+    "name": "Potassium iodide",
+    "commonName": "",
+    "formula": "KI",
+    "counts": {
+      "K": 1,
+      "I": 1
+    },
+    "description": "Small amounts can supply iodine in iodized salt.",
+    "uses": [
+      "Small amounts can supply iodine in iodized salt."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 4875,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/4875"
+  },
+  {
+    "id": "potassium-bromide",
+    "name": "Potassium bromide",
+    "commonName": "",
+    "formula": "KBr",
+    "counts": {
+      "K": 1,
+      "Br": 1
+    },
+    "description": "It has been used in photography.",
+    "uses": [
+      "It has been used in photography."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 253877,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/253877"
+  },
+  {
+    "id": "calcium-chloride",
+    "name": "Calcium chloride",
+    "commonName": "",
+    "formula": "CaCl2",
+    "counts": {
+      "Ca": 1,
+      "Cl": 2
+    },
+    "description": "It helps keep some roads free of ice.",
+    "uses": [
+      "It helps keep some roads free of ice."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 5284359,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5284359"
+  },
+  {
+    "id": "magnesium-chloride",
+    "name": "Magnesium chloride",
+    "commonName": "",
+    "formula": "MgCl2",
+    "counts": {
+      "Mg": 1,
+      "Cl": 2
+    },
+    "description": "It is found in seawater.",
+    "uses": [
+      "It is found in seawater."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 5360315,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5360315"
+  },
+  {
+    "id": "magnesium-sulfate",
+    "name": "Magnesium sulfate",
+    "commonName": "",
+    "formula": "MgSO4",
+    "counts": {
+      "Mg": 1,
+      "S": 1,
+      "O": 4
+    },
+    "description": "It occurs in minerals and plant nutrients.",
+    "uses": [
+      "It occurs in minerals and plant nutrients."
+    ],
+    "funFact": "3 different elements appear in this formula, with 6 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 24083,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24083"
+  },
+  {
+    "id": "sodium-sulfate",
+    "name": "Sodium sulfate",
+    "commonName": "",
+    "formula": "Na2SO4",
+    "counts": {
+      "Na": 2,
+      "S": 1,
+      "O": 4
+    },
+    "description": "It is used in some detergents and glassmaking.",
+    "uses": [
+      "It is used in some detergents and glassmaking."
+    ],
+    "funFact": "3 different elements appear in this formula, with 7 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 24436,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24436"
+  },
+  {
+    "id": "potassium-sulfate",
+    "name": "Potassium sulfate",
+    "commonName": "",
+    "formula": "K2SO4",
+    "counts": {
+      "K": 2,
+      "S": 1,
+      "O": 4
+    },
+    "description": "It supplies nutrients in fertilizers.",
+    "uses": [
+      "It supplies nutrients in fertilizers."
+    ],
+    "funFact": "3 different elements appear in this formula, with 7 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 24507,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24507"
+  },
+  {
+    "id": "calcium-sulfate",
+    "name": "Calcium sulfate",
+    "commonName": "",
+    "formula": "CaSO4",
+    "counts": {
+      "Ca": 1,
+      "S": 1,
+      "O": 4
+    },
+    "description": "It is used in building materials.",
+    "uses": [
+      "It is used in building materials."
+    ],
+    "funFact": "3 different elements appear in this formula, with 6 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 24497,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24497"
+  },
+  {
+    "id": "copper-ii-sulfate",
+    "name": "Copper(II) sulfate",
+    "commonName": "",
+    "formula": "CuSO4",
+    "counts": {
+      "Cu": 1,
+      "S": 1,
+      "O": 4
+    },
+    "description": "Its water-containing crystals are often blue.",
+    "uses": [
+      "Its water-containing crystals are often blue."
+    ],
+    "funFact": "3 different elements appear in this formula, with 6 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 24462,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24462"
+  },
+  {
+    "id": "iron-ii-sulfate",
+    "name": "Iron(II) sulfate",
+    "commonName": "",
+    "formula": "FeSO4",
+    "counts": {
+      "Fe": 1,
+      "S": 1,
+      "O": 4
+    },
+    "description": "It is used in some iron supplements and fertilizers.",
+    "uses": [
+      "It is used in some iron supplements and fertilizers."
+    ],
+    "funFact": "3 different elements appear in this formula, with 6 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 24393,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24393"
+  },
+  {
+    "id": "iron-iii-sulfate",
+    "name": "Iron(III) sulfate",
+    "commonName": "",
+    "formula": "Fe2(SO4)3",
+    "counts": {
+      "Fe": 2,
+      "S": 3,
+      "O": 12
+    },
+    "description": "It is used in water treatment.",
+    "uses": [
+      "It is used in water treatment."
+    ],
+    "funFact": "3 different elements appear in this formula, with 17 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 24826,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24826"
+  },
+  {
+    "id": "zinc-sulfate",
+    "name": "Zinc sulfate",
+    "commonName": "",
+    "formula": "ZnSO4",
+    "counts": {
+      "Zn": 1,
+      "S": 1,
+      "O": 4
+    },
+    "description": "It supplies zinc in some fertilizers.",
+    "uses": [
+      "It supplies zinc in some fertilizers."
+    ],
+    "funFact": "3 different elements appear in this formula, with 6 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 24424,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24424"
+  },
+  {
+    "id": "aluminum-sulfate",
+    "name": "Aluminum sulfate",
+    "commonName": "",
+    "formula": "Al2(SO4)3",
+    "counts": {
+      "Al": 2,
+      "S": 3,
+      "O": 12
+    },
+    "description": "It helps remove tiny particles during water treatment.",
+    "uses": [
+      "It helps remove tiny particles during water treatment."
+    ],
+    "funFact": "3 different elements appear in this formula, with 17 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 24850,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24850"
+  },
+  {
+    "id": "sodium-nitrate",
+    "name": "Sodium nitrate",
+    "commonName": "",
+    "formula": "NaNO3",
+    "counts": {
+      "Na": 1,
+      "N": 1,
+      "O": 3
+    },
+    "description": "It occurs in mineral deposits and fertilizers.",
+    "uses": [
+      "It occurs in mineral deposits and fertilizers."
+    ],
+    "funFact": "3 different elements appear in this formula, with 5 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 24268,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24268"
+  },
+  {
+    "id": "potassium-nitrate",
+    "name": "Potassium nitrate",
+    "commonName": "",
+    "formula": "KNO3",
+    "counts": {
+      "K": 1,
+      "N": 1,
+      "O": 3
+    },
+    "description": "It is used in some fertilizers.",
+    "uses": [
+      "It is used in some fertilizers."
+    ],
+    "funFact": "3 different elements appear in this formula, with 5 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 24434,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24434"
+  },
+  {
+    "id": "calcium-nitrate",
+    "name": "Calcium nitrate",
+    "commonName": "",
+    "formula": "Ca(NO3)2",
+    "counts": {
+      "Ca": 1,
+      "N": 2,
+      "O": 6
+    },
+    "description": "It supplies nutrients to plants.",
+    "uses": [
+      "It supplies nutrients to plants."
+    ],
+    "funFact": "3 different elements appear in this formula, with 9 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 24963,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24963"
+  },
+  {
+    "id": "silver-nitrate",
+    "name": "Silver nitrate",
+    "commonName": "",
+    "formula": "AgNO3",
+    "counts": {
+      "Ag": 1,
+      "N": 1,
+      "O": 3
+    },
+    "description": "It is used in laboratory analysis.",
+    "uses": [
+      "It is used in laboratory analysis."
+    ],
+    "funFact": "3 different elements appear in this formula, with 5 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 24470,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24470"
+  },
+  {
+    "id": "ammonium-nitrate",
+    "name": "Ammonium nitrate",
+    "commonName": "",
+    "formula": "NH4NO3",
+    "counts": {
+      "N": 2,
+      "H": 4,
+      "O": 3
+    },
+    "description": "It is used in some fertilizers.",
+    "uses": [
+      "It is used in some fertilizers."
+    ],
+    "funFact": "3 different elements appear in this formula, with 9 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 22985,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/22985"
+  },
+  {
+    "id": "ammonium-chloride",
+    "name": "Ammonium chloride",
+    "commonName": "",
+    "formula": "NH4Cl",
+    "counts": {
+      "N": 1,
+      "H": 4,
+      "Cl": 1
+    },
+    "description": "It is used in some batteries.",
+    "uses": [
+      "It is used in some batteries."
+    ],
+    "funFact": "3 different elements appear in this formula, with 6 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 25517,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/25517"
+  },
+  {
+    "id": "sodium-hydroxide",
+    "name": "Sodium hydroxide",
+    "commonName": "",
+    "formula": "NaOH",
+    "counts": {
+      "Na": 1,
+      "O": 1,
+      "H": 1
+    },
+    "description": "Industry uses it to make soap and paper.",
+    "uses": [
+      "Industry uses it to make soap and paper."
+    ],
+    "funFact": "3 different elements appear in this formula, with 3 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 14798,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/14798"
+  },
+  {
+    "id": "potassium-hydroxide",
+    "name": "Potassium hydroxide",
+    "commonName": "",
+    "formula": "KOH",
+    "counts": {
+      "K": 1,
+      "O": 1,
+      "H": 1
+    },
+    "description": "It is used in some batteries.",
+    "uses": [
+      "It is used in some batteries."
+    ],
+    "funFact": "3 different elements appear in this formula, with 3 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 14797,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/14797"
+  },
+  {
+    "id": "calcium-hydroxide",
+    "name": "Calcium hydroxide",
+    "commonName": "",
+    "formula": "Ca(OH)2",
+    "counts": {
+      "Ca": 1,
+      "O": 2,
+      "H": 2
+    },
+    "description": "It is used in mortar and water treatment.",
+    "uses": [
+      "It is used in mortar and water treatment."
+    ],
+    "funFact": "3 different elements appear in this formula, with 5 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 6093208,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/6093208"
+  },
+  {
+    "id": "magnesium-hydroxide",
+    "name": "Magnesium hydroxide",
+    "commonName": "",
+    "formula": "Mg(OH)2",
+    "counts": {
+      "Mg": 1,
+      "O": 2,
+      "H": 2
+    },
+    "description": "It is found in some antacid medicines.",
+    "uses": [
+      "It is found in some antacid medicines."
+    ],
+    "funFact": "3 different elements appear in this formula, with 5 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 73981,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/73981"
+  },
+  {
+    "id": "aluminum-hydroxide",
+    "name": "Aluminum hydroxide",
+    "commonName": "",
+    "formula": "Al(OH)3",
+    "counts": {
+      "Al": 1,
+      "O": 3,
+      "H": 3
+    },
+    "description": "It occurs in minerals and some antacids.",
+    "uses": [
+      "It occurs in minerals and some antacids."
+    ],
+    "funFact": "3 different elements appear in this formula, with 7 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 10176082,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/10176082"
+  },
+  {
+    "id": "hydrogen-chloride",
+    "name": "Hydrogen chloride",
+    "commonName": "",
+    "formula": "HCl",
+    "counts": {
+      "H": 1,
+      "Cl": 1
+    },
+    "description": "Dissolved in water it forms hydrochloric acid.",
+    "uses": [
+      "Dissolved in water it forms hydrochloric acid."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 313,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/313"
+  },
+  {
+    "id": "hydrogen-fluoride",
+    "name": "Hydrogen fluoride",
+    "commonName": "",
+    "formula": "HF",
+    "counts": {
+      "H": 1,
+      "F": 1
+    },
+    "description": "It is used only with special care in industry.",
+    "uses": [
+      "It is used only with special care in industry."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 14917,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/14917"
+  },
+  {
+    "id": "hydrogen-bromide",
+    "name": "Hydrogen bromide",
+    "commonName": "",
+    "formula": "HBr",
+    "counts": {
+      "H": 1,
+      "Br": 1
+    },
+    "description": "It is used to make other chemicals.",
+    "uses": [
+      "It is used to make other chemicals."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 260,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/260"
+  },
+  {
+    "id": "hydrogen-iodide",
+    "name": "Hydrogen iodide",
+    "commonName": "",
+    "formula": "HI",
+    "counts": {
+      "H": 1,
+      "I": 1
+    },
+    "description": "It is studied in laboratories.",
+    "uses": [
+      "It is studied in laboratories."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 24841,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24841"
+  },
+  {
+    "id": "sulfuric-acid",
+    "name": "Sulfuric acid",
+    "commonName": "",
+    "formula": "H2SO4",
+    "counts": {
+      "H": 2,
+      "S": 1,
+      "O": 4
+    },
+    "description": "It is used in some vehicle batteries.",
+    "uses": [
+      "It is used in some vehicle batteries."
+    ],
+    "funFact": "3 different elements appear in this formula, with 7 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 1118,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/1118"
+  },
+  {
+    "id": "nitric-acid",
+    "name": "Nitric acid",
+    "commonName": "",
+    "formula": "HNO3",
+    "counts": {
+      "H": 1,
+      "N": 1,
+      "O": 3
+    },
+    "description": "It is used to make fertilizers.",
+    "uses": [
+      "It is used to make fertilizers."
+    ],
+    "funFact": "3 different elements appear in this formula, with 5 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 944,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/944"
+  },
+  {
+    "id": "phosphoric-acid",
+    "name": "Phosphoric acid",
+    "commonName": "",
+    "formula": "H3PO4",
+    "counts": {
+      "H": 3,
+      "P": 1,
+      "O": 4
+    },
+    "description": "It is used in fertilizer production.",
+    "uses": [
+      "It is used in fertilizer production."
+    ],
+    "funFact": "3 different elements appear in this formula, with 8 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 1004,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/1004"
+  },
+  {
+    "id": "carbonic-acid",
+    "name": "Carbonic acid",
+    "commonName": "",
+    "formula": "H2CO3",
+    "counts": {
+      "H": 2,
+      "C": 1,
+      "O": 3
+    },
+    "description": "Small amounts form when carbon dioxide dissolves in water.",
+    "uses": [
+      "Small amounts form when carbon dioxide dissolves in water."
+    ],
+    "funFact": "3 different elements appear in this formula, with 6 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 767,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/767"
+  },
+  {
+    "id": "hydrogen-sulfide",
+    "name": "Hydrogen sulfide",
+    "commonName": "",
+    "formula": "H2S",
+    "counts": {
+      "H": 2,
+      "S": 1
+    },
+    "description": "It occurs in some volcanic gases.",
+    "uses": [
+      "It occurs in some volcanic gases."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 402,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/402"
+  },
+  {
+    "id": "sulfur-dioxide",
+    "name": "Sulfur dioxide",
+    "commonName": "",
+    "formula": "SO2",
+    "counts": {
+      "S": 1,
+      "O": 2
+    },
+    "description": "It occurs in volcanic gases.",
+    "uses": [
+      "It occurs in volcanic gases."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 1119,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/1119"
+  },
+  {
+    "id": "sulfur-trioxide",
+    "name": "Sulfur trioxide",
+    "commonName": "",
+    "formula": "SO3",
+    "counts": {
+      "S": 1,
+      "O": 3
+    },
+    "description": "Industry uses it in making sulfuric acid.",
+    "uses": [
+      "Industry uses it in making sulfuric acid."
+    ],
+    "funFact": "2 different elements appear in this formula, with 4 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 24682,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24682"
+  },
+  {
+    "id": "nitric-oxide",
+    "name": "Nitric oxide",
+    "commonName": "",
+    "formula": "NO",
+    "counts": {
+      "N": 1,
+      "O": 1
+    },
+    "description": "Tiny amounts act as signals inside our bodies.",
+    "uses": [
+      "Tiny amounts act as signals inside our bodies."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 145068,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/145068"
+  },
+  {
+    "id": "nitrogen-dioxide",
+    "name": "Nitrogen dioxide",
+    "commonName": "",
+    "formula": "NO2",
+    "counts": {
+      "N": 1,
+      "O": 2
+    },
+    "description": "It can occur in polluted air.",
+    "uses": [
+      "It can occur in polluted air."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 3032552,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/3032552"
+  },
+  {
+    "id": "nitrous-oxide",
+    "name": "Nitrous oxide",
+    "commonName": "",
+    "formula": "N2O",
+    "counts": {
+      "N": 2,
+      "O": 1
+    },
+    "description": "Dentists sometimes use it with oxygen under medical supervision.",
+    "uses": [
+      "Dentists sometimes use it with oxygen under medical supervision."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 948,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/948"
+  },
+  {
+    "id": "dinitrogen-trioxide",
+    "name": "Dinitrogen trioxide",
+    "commonName": "",
+    "formula": "N2O3",
+    "counts": {
+      "N": 2,
+      "O": 3
+    },
+    "description": "Scientists study this unstable nitrogen oxide.",
+    "uses": [
+      "Scientists study this unstable nitrogen oxide."
+    ],
+    "funFact": "2 different elements appear in this formula, with 5 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 61526,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/61526"
+  },
+  {
+    "id": "dinitrogen-pentoxide",
+    "name": "Dinitrogen pentoxide",
+    "commonName": "",
+    "formula": "N2O5",
+    "counts": {
+      "N": 2,
+      "O": 5
+    },
+    "description": "It is studied in atmospheric chemistry.",
+    "uses": [
+      "It is studied in atmospheric chemistry."
+    ],
+    "funFact": "2 different elements appear in this formula, with 7 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 66242,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/66242"
+  },
+  {
+    "id": "phosphorus-pentoxide",
+    "name": "Phosphorus pentoxide",
+    "commonName": "",
+    "formula": "P4O10",
+    "counts": {
+      "P": 4,
+      "O": 10
+    },
+    "description": "It is studied in chemical laboratories.",
+    "uses": [
+      "It is studied in chemical laboratories."
+    ],
+    "funFact": "The name often uses an empirical formula, P2O5; this molecular form is P4O10.",
+    "category": "Molecular compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 14812,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/14812"
+  },
+  {
+    "id": "phosphorus-trichloride",
+    "name": "Phosphorus trichloride",
+    "commonName": "",
+    "formula": "PCl3",
+    "counts": {
+      "P": 1,
+      "Cl": 3
+    },
+    "description": "Industry uses it to make other substances.",
+    "uses": [
+      "Industry uses it to make other substances."
+    ],
+    "funFact": "2 different elements appear in this formula, with 4 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 24387,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24387"
+  },
+  {
+    "id": "phosphorus-pentachloride",
+    "name": "Phosphorus pentachloride",
+    "commonName": "",
+    "formula": "PCl5",
+    "counts": {
+      "P": 1,
+      "Cl": 5
+    },
+    "description": "It is used in specialist chemistry.",
+    "uses": [
+      "It is used in specialist chemistry."
+    ],
+    "funFact": "2 different elements appear in this formula, with 6 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 24819,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24819"
+  },
+  {
+    "id": "sulfur-hexafluoride",
+    "name": "Sulfur hexafluoride",
+    "commonName": "",
+    "formula": "SF6",
+    "counts": {
+      "S": 1,
+      "F": 6
+    },
+    "description": "It is used as electrical insulation in special equipment.",
+    "uses": [
+      "It is used as electrical insulation in special equipment."
+    ],
+    "funFact": "It is a powerful greenhouse gas.",
+    "category": "Molecular compound",
+    "level": 2,
+    "rarity": "Uncommon",
+    "hazardous": true,
+    "cid": 17358,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/17358"
+  },
+  {
+    "id": "ethane",
+    "name": "Ethane",
+    "commonName": "",
+    "formula": "C2H6",
+    "counts": {
+      "C": 2,
+      "H": 6
+    },
+    "description": "It is found in natural gas.",
+    "uses": [
+      "It is found in natural gas."
+    ],
+    "funFact": "2 different elements appear in this formula, with 8 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 6324,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/6324"
+  },
+  {
+    "id": "propane",
+    "name": "Propane",
+    "commonName": "",
+    "formula": "C3H8",
+    "counts": {
+      "C": 3,
+      "H": 8
+    },
+    "description": "It is a fuel stored by trained adults.",
+    "uses": [
+      "It is a fuel stored by trained adults."
+    ],
+    "funFact": "2 different elements appear in this formula, with 11 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 6334,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/6334"
+  },
+  {
+    "id": "butane",
+    "name": "Butane",
+    "commonName": "",
+    "formula": "C4H10",
+    "counts": {
+      "C": 4,
+      "H": 10
+    },
+    "description": "It is used as a fuel.",
+    "uses": [
+      "It is used as a fuel."
+    ],
+    "funFact": "2 different elements appear in this formula, with 14 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 7843,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/7843"
+  },
+  {
+    "id": "pentane",
+    "name": "Pentane",
+    "commonName": "",
+    "formula": "C5H12",
+    "counts": {
+      "C": 5,
+      "H": 12
+    },
+    "description": "It is found in petroleum.",
+    "uses": [
+      "It is found in petroleum."
+    ],
+    "funFact": "2 different elements appear in this formula, with 17 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 8003,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/8003"
+  },
+  {
+    "id": "hexane",
+    "name": "Hexane",
+    "commonName": "",
+    "formula": "C6H14",
+    "counts": {
+      "C": 6,
+      "H": 14
+    },
+    "description": "It is used as an industrial solvent.",
+    "uses": [
+      "It is used as an industrial solvent."
+    ],
+    "funFact": "2 different elements appear in this formula, with 20 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 8058,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/8058"
+  },
+  {
+    "id": "heptane",
+    "name": "Heptane",
+    "commonName": "",
+    "formula": "C7H16",
+    "counts": {
+      "C": 7,
+      "H": 16
+    },
+    "description": "It is found in petroleum.",
+    "uses": [
+      "It is found in petroleum."
+    ],
+    "funFact": "2 different elements appear in this formula, with 23 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 8900,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/8900"
+  },
+  {
+    "id": "octane",
+    "name": "Octane",
+    "commonName": "",
+    "formula": "C8H18",
+    "counts": {
+      "C": 8,
+      "H": 18
+    },
+    "description": "It is one of many molecules related to gasoline.",
+    "uses": [
+      "It is one of many molecules related to gasoline."
+    ],
+    "funFact": "2 different elements appear in this formula, with 26 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 356,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/356"
+  },
+  {
+    "id": "ethene",
+    "name": "Ethene",
+    "commonName": "",
+    "formula": "C2H4",
+    "counts": {
+      "C": 2,
+      "H": 4
+    },
+    "description": "Plants use it as a signal for ripening fruit.",
+    "uses": [
+      "Plants use it as a signal for ripening fruit."
+    ],
+    "funFact": "2 different elements appear in this formula, with 6 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 6325,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/6325"
+  },
+  {
+    "id": "propene",
+    "name": "Propene",
+    "commonName": "",
+    "formula": "C3H6",
+    "counts": {
+      "C": 3,
+      "H": 6
+    },
+    "description": "It is used to make polypropylene plastic.",
+    "uses": [
+      "It is used to make polypropylene plastic."
+    ],
+    "funFact": "2 different elements appear in this formula, with 9 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 8252,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/8252"
+  },
+  {
+    "id": "ethyne",
+    "name": "Ethyne",
+    "commonName": "acetylene",
+    "formula": "C2H2",
+    "counts": {
+      "C": 2,
+      "H": 2
+    },
+    "description": "Trained workers use it in specialist equipment.",
+    "uses": [
+      "Trained workers use it in specialist equipment."
+    ],
+    "funFact": "2 different elements appear in this formula, with 4 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 6326,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/6326"
+  },
+  {
+    "id": "benzene",
+    "name": "Benzene",
+    "commonName": "",
+    "formula": "C6H6",
+    "counts": {
+      "C": 6,
+      "H": 6
+    },
+    "description": "It is an industrial starting material.",
+    "uses": [
+      "It is an industrial starting material."
+    ],
+    "funFact": "2 different elements appear in this formula, with 12 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 241,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/241"
+  },
+  {
+    "id": "methanol",
+    "name": "Methanol",
+    "commonName": "",
+    "formula": "CH3OH",
+    "counts": {
+      "C": 1,
+      "H": 4,
+      "O": 1
+    },
+    "description": "It is a poisonous industrial solvent.",
+    "uses": [
+      "It is a poisonous industrial solvent."
+    ],
+    "funFact": "3 different elements appear in this formula, with 6 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 887,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/887"
+  },
+  {
+    "id": "ethanol",
+    "name": "Ethanol",
+    "commonName": "",
+    "formula": "C2H5OH",
+    "counts": {
+      "C": 2,
+      "H": 6,
+      "O": 1
+    },
+    "description": "It is found in some disinfectants.",
+    "uses": [
+      "It is found in some disinfectants."
+    ],
+    "funFact": "Dimethyl ether has the same atom counts with different connections.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 702,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/702"
+  },
+  {
+    "id": "1-propanol",
+    "name": "1-Propanol",
+    "commonName": "Propanol",
+    "formula": "C3H8O",
+    "counts": {
+      "C": 3,
+      "H": 8,
+      "O": 1
+    },
+    "description": "It is used as a solvent.",
+    "uses": [
+      "It is used as a solvent."
+    ],
+    "funFact": "3 different elements appear in this formula, with 12 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 1031,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/1031"
+  },
+  {
+    "id": "ethylene-glycol",
+    "name": "Ethylene glycol",
+    "commonName": "",
+    "formula": "C2H6O2",
+    "counts": {
+      "C": 2,
+      "H": 6,
+      "O": 2
+    },
+    "description": "It is used in engine coolants and is poisonous.",
+    "uses": [
+      "It is used in engine coolants and is poisonous."
+    ],
+    "funFact": "3 different elements appear in this formula, with 10 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 174,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/174"
+  },
+  {
+    "id": "glycerol",
+    "name": "Glycerol",
+    "commonName": "Glycerin",
+    "formula": "C3H8O3",
+    "counts": {
+      "C": 3,
+      "H": 8,
+      "O": 3
+    },
+    "description": "It helps some soaps and lotions hold moisture.",
+    "uses": [
+      "It helps some soaps and lotions hold moisture."
+    ],
+    "funFact": "3 different elements appear in this formula, with 14 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": false,
+    "cid": 753,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/753"
+  },
+  {
+    "id": "formaldehyde",
+    "name": "Formaldehyde",
+    "commonName": "",
+    "formula": "CH2O",
+    "counts": {
+      "C": 1,
+      "H": 2,
+      "O": 1
+    },
+    "description": "It is used to make some industrial materials.",
+    "uses": [
+      "It is used to make some industrial materials."
+    ],
+    "funFact": "3 different elements appear in this formula, with 4 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 712,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/712"
+  },
+  {
+    "id": "acetaldehyde",
+    "name": "Acetaldehyde",
+    "commonName": "",
+    "formula": "CH3CHO",
+    "counts": {
+      "C": 2,
+      "H": 4,
+      "O": 1
+    },
+    "description": "Small amounts occur in ripe fruit.",
+    "uses": [
+      "Small amounts occur in ripe fruit."
+    ],
+    "funFact": "3 different elements appear in this formula, with 7 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 177,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/177"
+  },
+  {
+    "id": "acetic-acid",
+    "name": "Acetic acid",
+    "commonName": "",
+    "formula": "CH3COOH",
+    "counts": {
+      "C": 2,
+      "H": 4,
+      "O": 2
+    },
+    "description": "Dilute acetic acid gives vinegar its sour character.",
+    "uses": [
+      "Dilute acetic acid gives vinegar its sour character."
+    ],
+    "funFact": "3 different elements appear in this formula, with 8 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 176,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/176"
+  },
+  {
+    "id": "formic-acid",
+    "name": "Formic acid",
+    "commonName": "",
+    "formula": "HCOOH",
+    "counts": {
+      "H": 2,
+      "C": 1,
+      "O": 2
+    },
+    "description": "Some ants use this substance.",
+    "uses": [
+      "Some ants use this substance."
+    ],
+    "funFact": "3 different elements appear in this formula, with 5 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 284,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/284"
+  },
+  {
+    "id": "acetone",
+    "name": "Acetone",
+    "commonName": "",
+    "formula": "C3H6O",
+    "counts": {
+      "C": 3,
+      "H": 6,
+      "O": 1
+    },
+    "description": "It is found in some nail-polish removers.",
+    "uses": [
+      "It is found in some nail-polish removers."
+    ],
+    "funFact": "3 different elements appear in this formula, with 10 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 180,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/180"
+  },
+  {
+    "id": "glucose",
+    "name": "Glucose",
+    "commonName": "",
+    "formula": "C6H12O6",
+    "counts": {
+      "C": 6,
+      "H": 12,
+      "O": 6
+    },
+    "description": "Living things use this sugar for energy.",
+    "uses": [
+      "Living things use this sugar for energy."
+    ],
+    "funFact": "Plants make sugars using energy from sunlight.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": false,
+    "cid": 5793,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5793"
+  },
+  {
+    "id": "fructose",
+    "name": "Fructose",
+    "commonName": "",
+    "formula": "C6H12O6",
+    "counts": {
+      "C": 6,
+      "H": 12,
+      "O": 6
+    },
+    "description": "It occurs in fruit and honey.",
+    "uses": [
+      "It occurs in fruit and honey."
+    ],
+    "funFact": "It has the same atom counts as glucose but a different structure.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": false,
+    "cid": 2723872,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/2723872"
+  },
+  {
+    "id": "sucrose",
+    "name": "Sucrose",
+    "commonName": "Table sugar",
+    "formula": "C12H22O11",
+    "counts": {
+      "C": 12,
+      "H": 22,
+      "O": 11
+    },
+    "description": "It is found in sugar cane and sugar beets.",
+    "uses": [
+      "It is found in sugar cane and sugar beets."
+    ],
+    "funFact": "It joins one glucose unit and one fructose unit.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": false,
+    "cid": 5988,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5988"
+  },
+  {
+    "id": "lactose",
+    "name": "Lactose",
+    "commonName": "Milk sugar",
+    "formula": "C12H22O11",
+    "counts": {
+      "C": 12,
+      "H": 22,
+      "O": 11
+    },
+    "description": "This sugar occurs in milk.",
+    "uses": [
+      "This sugar occurs in milk."
+    ],
+    "funFact": "It joins one glucose unit and one galactose unit.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": false,
+    "cid": 6134,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/6134"
+  },
+  {
+    "id": "maltose",
+    "name": "Maltose",
+    "commonName": "",
+    "formula": "C12H22O11",
+    "counts": {
+      "C": 12,
+      "H": 22,
+      "O": 11
+    },
+    "description": "It can form when starch breaks into smaller pieces.",
+    "uses": [
+      "It can form when starch breaks into smaller pieces."
+    ],
+    "funFact": "It contains two joined glucose units.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": false,
+    "cid": 439186,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/439186"
+  },
+  {
+    "id": "citric-acid",
+    "name": "Citric acid",
+    "commonName": "",
+    "formula": "C6H8O7",
+    "counts": {
+      "C": 6,
+      "H": 8,
+      "O": 7
+    },
+    "description": "It gives lemons and other citrus fruits a sour taste.",
+    "uses": [
+      "It gives lemons and other citrus fruits a sour taste."
+    ],
+    "funFact": "3 different elements appear in this formula, with 21 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 311,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/311"
+  },
+  {
+    "id": "lactic-acid",
+    "name": "Lactic acid",
+    "commonName": "",
+    "formula": "C3H6O3",
+    "counts": {
+      "C": 3,
+      "H": 6,
+      "O": 3
+    },
+    "description": "It is part of the chemistry of yogurt.",
+    "uses": [
+      "It is part of the chemistry of yogurt."
+    ],
+    "funFact": "3 different elements appear in this formula, with 12 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 612,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/612"
+  },
+  {
+    "id": "tartaric-acid",
+    "name": "Tartaric acid",
+    "commonName": "",
+    "formula": "C4H6O6",
+    "counts": {
+      "C": 4,
+      "H": 6,
+      "O": 6
+    },
+    "description": "It occurs in grapes.",
+    "uses": [
+      "It occurs in grapes."
+    ],
+    "funFact": "3 different elements appear in this formula, with 16 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 444305,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/444305"
+  },
+  {
+    "id": "succinic-acid",
+    "name": "Succinic acid",
+    "commonName": "",
+    "formula": "C4H6O4",
+    "counts": {
+      "C": 4,
+      "H": 6,
+      "O": 4
+    },
+    "description": "Living cells use it in energy chemistry.",
+    "uses": [
+      "Living cells use it in energy chemistry."
+    ],
+    "funFact": "3 different elements appear in this formula, with 14 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 1110,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/1110"
+  },
+  {
+    "id": "oxalic-acid",
+    "name": "Oxalic acid",
+    "commonName": "",
+    "formula": "C2H2O4",
+    "counts": {
+      "C": 2,
+      "H": 2,
+      "O": 4
+    },
+    "description": "It occurs in some plants.",
+    "uses": [
+      "It occurs in some plants."
+    ],
+    "funFact": "3 different elements appear in this formula, with 8 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 971,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/971"
+  },
+  {
+    "id": "malonic-acid",
+    "name": "Malonic acid",
+    "commonName": "",
+    "formula": "C3H4O4",
+    "counts": {
+      "C": 3,
+      "H": 4,
+      "O": 4
+    },
+    "description": "Scientists use it to build other molecules.",
+    "uses": [
+      "Scientists use it to build other molecules."
+    ],
+    "funFact": "3 different elements appear in this formula, with 11 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 867,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/867"
+  },
+  {
+    "id": "benzoic-acid",
+    "name": "Benzoic acid",
+    "commonName": "",
+    "formula": "C7H6O2",
+    "counts": {
+      "C": 7,
+      "H": 6,
+      "O": 2
+    },
+    "description": "It is used in some food-preservation systems.",
+    "uses": [
+      "It is used in some food-preservation systems."
+    ],
+    "funFact": "3 different elements appear in this formula, with 15 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 243,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/243"
+  },
+  {
+    "id": "acetaminophen",
+    "name": "Acetaminophen",
+    "commonName": "",
+    "formula": "C8H9NO2",
+    "counts": {
+      "C": 8,
+      "H": 9,
+      "N": 1,
+      "O": 2
+    },
+    "description": "It is a medicine given only by a trusted adult as directed.",
+    "uses": [
+      "It is a medicine given only by a trusted adult as directed."
+    ],
+    "funFact": "4 different elements appear in this formula, with 20 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 1983,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/1983"
+  },
+  {
+    "id": "aspirin",
+    "name": "Aspirin",
+    "commonName": "",
+    "formula": "C9H8O4",
+    "counts": {
+      "C": 9,
+      "H": 8,
+      "O": 4
+    },
+    "description": "It is a medicine used under appropriate medical guidance.",
+    "uses": [
+      "It is a medicine used under appropriate medical guidance."
+    ],
+    "funFact": "3 different elements appear in this formula, with 21 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 2244,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/2244"
+  },
+  {
+    "id": "caffeine",
+    "name": "Caffeine",
+    "commonName": "",
+    "formula": "C8H10N4O2",
+    "counts": {
+      "C": 8,
+      "H": 10,
+      "N": 4,
+      "O": 2
+    },
+    "description": "It occurs in coffee and tea.",
+    "uses": [
+      "It occurs in coffee and tea."
+    ],
+    "funFact": "4 different elements appear in this formula, with 24 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 2519,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/2519"
+  },
+  {
+    "id": "nicotine",
+    "name": "Nicotine",
+    "commonName": "",
+    "formula": "C10H14N2",
+    "counts": {
+      "C": 10,
+      "H": 14,
+      "N": 2
+    },
+    "description": "It occurs in tobacco plants and is addictive and poisonous.",
+    "uses": [
+      "It occurs in tobacco plants and is addictive and poisonous."
+    ],
+    "funFact": "3 different elements appear in this formula, with 26 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 89594,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/89594"
+  },
+  {
+    "id": "epinephrine",
+    "name": "Epinephrine",
+    "commonName": "",
+    "formula": "C9H13NO3",
+    "counts": {
+      "C": 9,
+      "H": 13,
+      "N": 1,
+      "O": 3
+    },
+    "description": "Your body makes it as a signal during excitement.",
+    "uses": [
+      "Your body makes it as a signal during excitement."
+    ],
+    "funFact": "4 different elements appear in this formula, with 26 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 5816,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5816"
+  },
+  {
+    "id": "dopamine",
+    "name": "Dopamine",
+    "commonName": "",
+    "formula": "C8H11NO2",
+    "counts": {
+      "C": 8,
+      "H": 11,
+      "N": 1,
+      "O": 2
+    },
+    "description": "It carries signals between some nerve cells.",
+    "uses": [
+      "It carries signals between some nerve cells."
+    ],
+    "funFact": "4 different elements appear in this formula, with 22 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 681,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/681"
+  },
+  {
+    "id": "serotonin",
+    "name": "Serotonin",
+    "commonName": "",
+    "formula": "C10H12N2O",
+    "counts": {
+      "C": 10,
+      "H": 12,
+      "N": 2,
+      "O": 1
+    },
+    "description": "It helps carry signals in your body.",
+    "uses": [
+      "It helps carry signals in your body."
+    ],
+    "funFact": "4 different elements appear in this formula, with 25 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 5202,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5202"
+  },
+  {
+    "id": "glutamic-acid",
+    "name": "Glutamic acid",
+    "commonName": "",
+    "formula": "C5H9NO4",
+    "counts": {
+      "C": 5,
+      "H": 9,
+      "N": 1,
+      "O": 4
+    },
+    "description": "It is an amino acid used to build proteins.",
+    "uses": [
+      "It is an amino acid used to build proteins."
+    ],
+    "funFact": "4 different elements appear in this formula, with 19 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 33032,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/33032"
+  },
+  {
+    "id": "glycine",
+    "name": "Glycine",
+    "commonName": "",
+    "formula": "C2H5NO2",
+    "counts": {
+      "C": 2,
+      "H": 5,
+      "N": 1,
+      "O": 2
+    },
+    "description": "It is the smallest common protein-building amino acid.",
+    "uses": [
+      "It is the smallest common protein-building amino acid."
+    ],
+    "funFact": "4 different elements appear in this formula, with 10 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": false,
+    "cid": 750,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/750"
+  },
+  {
+    "id": "alanine",
+    "name": "Alanine",
+    "commonName": "",
+    "formula": "C3H7NO2",
+    "counts": {
+      "C": 3,
+      "H": 7,
+      "N": 1,
+      "O": 2
+    },
+    "description": "It is one of the building blocks of proteins.",
+    "uses": [
+      "It is one of the building blocks of proteins."
+    ],
+    "funFact": "4 different elements appear in this formula, with 13 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": false,
+    "cid": 5950,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5950"
+  },
+  {
+    "id": "leucine",
+    "name": "Leucine",
+    "commonName": "",
+    "formula": "C6H13NO2",
+    "counts": {
+      "C": 6,
+      "H": 13,
+      "N": 1,
+      "O": 2
+    },
+    "description": "Your body gets this amino acid from food proteins.",
+    "uses": [
+      "Your body gets this amino acid from food proteins."
+    ],
+    "funFact": "4 different elements appear in this formula, with 22 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": false,
+    "cid": 6106,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/6106"
+  },
+  {
+    "id": "calcium-sulfate-dihydrate",
+    "name": "Calcium sulfate dihydrate",
+    "commonName": "Gypsum",
+    "formula": "CaSO4·2H2O",
+    "counts": {
+      "Ca": 1,
+      "S": 1,
+      "O": 6,
+      "H": 4
+    },
+    "description": "Gypsum is used in drywall and plaster products.",
+    "uses": [
+      "Gypsum is used in drywall and plaster products."
+    ],
+    "funFact": "Two water molecules accompany each calcium sulfate formula unit.",
+    "category": "Ionic compound",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": false,
+    "cid": 24928,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24928"
+  },
+  {
+    "id": "magnesite",
+    "name": "Magnesite",
+    "commonName": "",
+    "formula": "MgCO3",
+    "counts": {
+      "Mg": 1,
+      "C": 1,
+      "O": 3
+    },
+    "description": "It is a magnesium mineral.",
+    "uses": [
+      "It is a magnesium mineral."
+    ],
+    "funFact": "3 different elements appear in this formula, with 5 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 11029,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/11029"
+  },
+  {
+    "id": "iron-ii-iii-oxide",
+    "name": "Iron(II,III) oxide",
+    "commonName": "Magnetite",
+    "formula": "Fe3O4",
+    "counts": {
+      "Fe": 3,
+      "O": 4
+    },
+    "description": "Some of this iron mineral is naturally magnetic.",
+    "uses": [
+      "Some of this iron mineral is naturally magnetic."
+    ],
+    "funFact": "2 different elements appear in this formula, with 7 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "source": "https://www.ncbi.nlm.nih.gov/mesh/68052203"
+  },
+  {
+    "id": "aluminum-oxide",
+    "name": "Aluminum oxide",
+    "commonName": "corundum",
+    "formula": "Al2O3",
+    "counts": {
+      "Al": 2,
+      "O": 3
+    },
+    "description": "Ruby and sapphire are varieties of corundum.",
+    "uses": [
+      "Ruby and sapphire are varieties of corundum."
+    ],
+    "funFact": "2 different elements appear in this formula, with 5 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 9989226,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/9989226"
+  },
+  {
+    "id": "titanium-dioxide",
+    "name": "Titanium dioxide",
+    "commonName": "",
+    "formula": "TiO2",
+    "counts": {
+      "Ti": 1,
+      "O": 2
+    },
+    "description": "It is used as a white pigment in many paints.",
+    "uses": [
+      "It is used as a white pigment in many paints."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 26042,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/26042"
+  },
+  {
+    "id": "zinc-oxide",
+    "name": "Zinc oxide",
+    "commonName": "",
+    "formula": "ZnO",
+    "counts": {
+      "Zn": 1,
+      "O": 1
+    },
+    "description": "It is found in some sunscreens.",
+    "uses": [
+      "It is found in some sunscreens."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 3007857,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/3007857"
+  },
+  {
+    "id": "copper-i-oxide",
+    "name": "Copper(I) oxide",
+    "commonName": "",
+    "formula": "Cu2O",
+    "counts": {
+      "Cu": 2,
+      "O": 1
+    },
+    "description": "It occurs in the red mineral cuprite.",
+    "uses": [
+      "It occurs in the red mineral cuprite."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 18346908,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/18346908"
+  },
+  {
+    "id": "copper-ii-oxide",
+    "name": "Copper(II) oxide",
+    "commonName": "",
+    "formula": "CuO",
+    "counts": {
+      "Cu": 1,
+      "O": 1
+    },
+    "description": "It occurs in the dark mineral tenorite.",
+    "uses": [
+      "It occurs in the dark mineral tenorite."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 164827,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/164827"
+  },
+  {
+    "id": "manganese-dioxide",
+    "name": "Manganese dioxide",
+    "commonName": "",
+    "formula": "MnO2",
+    "counts": {
+      "Mn": 1,
+      "O": 2
+    },
+    "description": "It is used in some batteries.",
+    "uses": [
+      "It is used in some batteries."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 14801,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/14801"
+  },
+  {
+    "id": "lead-ii-oxide",
+    "name": "Lead(II) oxide",
+    "commonName": "",
+    "formula": "PbO",
+    "counts": {
+      "Pb": 1,
+      "O": 1
+    },
+    "description": "It is used in specialist industrial materials.",
+    "uses": [
+      "It is used in specialist industrial materials."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 14827,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/14827"
+  },
+  {
+    "id": "tin-iv-oxide",
+    "name": "Tin(IV) oxide",
+    "commonName": "",
+    "formula": "SnO2",
+    "counts": {
+      "Sn": 1,
+      "O": 2
+    },
+    "description": "Cassiterite is an important source of tin.",
+    "uses": [
+      "Cassiterite is an important source of tin."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 16747781,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/16747781"
+  },
+  {
+    "id": "chromium-iii-oxide",
+    "name": "Chromium(III) oxide",
+    "commonName": "",
+    "formula": "Cr2O3",
+    "counts": {
+      "Cr": 2,
+      "O": 3
+    },
+    "description": "It is used as a green pigment.",
+    "uses": [
+      "It is used as a green pigment."
+    ],
+    "funFact": "2 different elements appear in this formula, with 5 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 517277,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/517277"
+  },
+  {
+    "id": "tricalcium-phosphate",
+    "name": "Tricalcium phosphate",
+    "commonName": "",
+    "formula": "Ca3(PO4)2",
+    "counts": {
+      "Ca": 3,
+      "P": 2,
+      "O": 8
+    },
+    "description": "It is used in mineral and ceramic materials.",
+    "uses": [
+      "It is used in mineral and ceramic materials."
+    ],
+    "funFact": "3 different elements appear in this formula, with 13 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 24456,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24456"
+  },
+  {
+    "id": "trisodium-phosphate",
+    "name": "Trisodium phosphate",
+    "commonName": "",
+    "formula": "Na3PO4",
+    "counts": {
+      "Na": 3,
+      "P": 1,
+      "O": 4
+    },
+    "description": "It is used in some industrial cleaners.",
+    "uses": [
+      "It is used in some industrial cleaners."
+    ],
+    "funFact": "3 different elements appear in this formula, with 8 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 24243,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24243"
+  },
+  {
+    "id": "tripotassium-phosphate",
+    "name": "Tripotassium phosphate",
+    "commonName": "",
+    "formula": "K3PO4",
+    "counts": {
+      "K": 3,
+      "P": 1,
+      "O": 4
+    },
+    "description": "It is used in specialized industrial chemistry.",
+    "uses": [
+      "It is used in specialized industrial chemistry."
+    ],
+    "funFact": "3 different elements appear in this formula, with 8 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 62657,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/62657"
+  },
+  {
+    "id": "magnesium-phosphate",
+    "name": "Magnesium phosphate",
+    "commonName": "",
+    "formula": "Mg3(PO4)2",
+    "counts": {
+      "Mg": 3,
+      "P": 2,
+      "O": 8
+    },
+    "description": "It occurs in mineral chemistry.",
+    "uses": [
+      "It occurs in mineral chemistry."
+    ],
+    "funFact": "3 different elements appear in this formula, with 13 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 24439,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24439"
+  },
+  {
+    "id": "calcium-fluoride",
+    "name": "Calcium fluoride",
+    "commonName": "",
+    "formula": "CaF2",
+    "counts": {
+      "Ca": 1,
+      "F": 2
+    },
+    "description": "It occurs in the colorful mineral fluorite.",
+    "uses": [
+      "It occurs in the colorful mineral fluorite."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 84512,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/84512"
+  },
+  {
+    "id": "sodium-fluoride",
+    "name": "Sodium fluoride",
+    "commonName": "",
+    "formula": "NaF",
+    "counts": {
+      "Na": 1,
+      "F": 1
+    },
+    "description": "Tiny controlled amounts are used in some toothpastes.",
+    "uses": [
+      "Tiny controlled amounts are used in some toothpastes."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 5235,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5235"
+  },
+  {
+    "id": "lithium-fluoride",
+    "name": "Lithium fluoride",
+    "commonName": "",
+    "formula": "LiF",
+    "counts": {
+      "Li": 1,
+      "F": 1
+    },
+    "description": "It is used in special optical materials.",
+    "uses": [
+      "It is used in special optical materials."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 224478,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/224478"
+  },
+  {
+    "id": "magnesium-fluoride",
+    "name": "Magnesium fluoride",
+    "commonName": "",
+    "formula": "MgF2",
+    "counts": {
+      "Mg": 1,
+      "F": 2
+    },
+    "description": "It is used in coatings that reduce reflections on lenses.",
+    "uses": [
+      "It is used in coatings that reduce reflections on lenses."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 24546,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24546"
+  },
+  {
+    "id": "aluminum-fluoride",
+    "name": "Aluminum fluoride",
+    "commonName": "",
+    "formula": "AlF3",
+    "counts": {
+      "Al": 1,
+      "F": 3
+    },
+    "description": "It is used in aluminum production.",
+    "uses": [
+      "It is used in aluminum production."
+    ],
+    "funFact": "2 different elements appear in this formula, with 4 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 2124,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/2124"
+  },
+  {
+    "id": "iron-ii-sulfide",
+    "name": "Iron(II) sulfide",
+    "commonName": "",
+    "formula": "FeS",
+    "counts": {
+      "Fe": 1,
+      "S": 1
+    },
+    "description": "It occurs in mineral chemistry.",
+    "uses": [
+      "It occurs in mineral chemistry."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 14828,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/14828"
+  },
+  {
+    "id": "iron-disulfide",
+    "name": "Iron disulfide",
+    "commonName": "pyrite",
+    "formula": "FeS2",
+    "counts": {
+      "Fe": 1,
+      "S": 2
+    },
+    "description": "Pyrite is called fools gold because of its shiny color.",
+    "uses": [
+      "Pyrite is called fools gold because of its shiny color."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 14788,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/14788"
+  },
+  {
+    "id": "zinc-sulfide",
+    "name": "Zinc sulfide",
+    "commonName": "",
+    "formula": "ZnS",
+    "counts": {
+      "Zn": 1,
+      "S": 1
+    },
+    "description": "Sphalerite is an important source of zinc.",
+    "uses": [
+      "Sphalerite is an important source of zinc."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 9833931,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/9833931"
+  },
+  {
+    "id": "lead-sulfide",
+    "name": "Lead sulfide",
+    "commonName": "",
+    "formula": "PbS",
+    "counts": {
+      "Pb": 1,
+      "S": 1
+    },
+    "description": "Galena is a lead mineral with shiny crystals.",
+    "uses": [
+      "Galena is a lead mineral with shiny crystals."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 14819,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/14819"
+  },
+  {
+    "id": "copper-ii-sulfide",
+    "name": "Copper(II) sulfide",
+    "commonName": "",
+    "formula": "CuS",
+    "counts": {
+      "Cu": 1,
+      "S": 1
+    },
+    "description": "Covellite is a deep blue copper mineral.",
+    "uses": [
+      "Covellite is a deep blue copper mineral."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 165914,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/165914"
+  },
+  {
+    "id": "potassium-permanganate",
+    "name": "Potassium permanganate",
+    "commonName": "",
+    "formula": "KMnO4",
+    "counts": {
+      "K": 1,
+      "Mn": 1,
+      "O": 4
+    },
+    "description": "Its solutions have a strong purple color.",
+    "uses": [
+      "Its solutions have a strong purple color."
+    ],
+    "funFact": "3 different elements appear in this formula, with 6 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 516875,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/516875"
+  },
+  {
+    "id": "potassium-dichromate",
+    "name": "Potassium dichromate",
+    "commonName": "",
+    "formula": "K2Cr2O7",
+    "counts": {
+      "K": 2,
+      "Cr": 2,
+      "O": 7
+    },
+    "description": "Its crystals are orange.",
+    "uses": [
+      "Its crystals are orange."
+    ],
+    "funFact": "3 different elements appear in this formula, with 11 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 24502,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24502"
+  },
+  {
+    "id": "sodium-dichromate",
+    "name": "Sodium dichromate",
+    "commonName": "",
+    "formula": "Na2Cr2O7",
+    "counts": {
+      "Na": 2,
+      "Cr": 2,
+      "O": 7
+    },
+    "description": "It is an industrial chromium compound.",
+    "uses": [
+      "It is an industrial chromium compound."
+    ],
+    "funFact": "3 different elements appear in this formula, with 11 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 25408,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/25408"
+  },
+  {
+    "id": "potassium-chromate",
+    "name": "Potassium chromate",
+    "commonName": "",
+    "formula": "K2CrO4",
+    "counts": {
+      "K": 2,
+      "Cr": 1,
+      "O": 4
+    },
+    "description": "Its crystals are yellow.",
+    "uses": [
+      "Its crystals are yellow."
+    ],
+    "funFact": "3 different elements appear in this formula, with 7 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 24597,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24597"
+  },
+  {
+    "id": "sodium-chromate",
+    "name": "Sodium chromate",
+    "commonName": "",
+    "formula": "Na2CrO4",
+    "counts": {
+      "Na": 2,
+      "Cr": 1,
+      "O": 4
+    },
+    "description": "It is an industrial chromium compound.",
+    "uses": [
+      "It is an industrial chromium compound."
+    ],
+    "funFact": "3 different elements appear in this formula, with 7 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 24488,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24488"
+  },
+  {
+    "id": "copper-ii-chloride",
+    "name": "Copper(II) chloride",
+    "commonName": "",
+    "formula": "CuCl2",
+    "counts": {
+      "Cu": 1,
+      "Cl": 2
+    },
+    "description": "It is used in specialist chemistry.",
+    "uses": [
+      "It is used in specialist chemistry."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 24014,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24014"
+  },
+  {
+    "id": "copper-i-chloride",
+    "name": "Copper(I) chloride",
+    "commonName": "",
+    "formula": "CuCl",
+    "counts": {
+      "Cu": 1,
+      "Cl": 1
+    },
+    "description": "It is studied in laboratories.",
+    "uses": [
+      "It is studied in laboratories."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 62652,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/62652"
+  },
+  {
+    "id": "iron-ii-chloride",
+    "name": "Iron(II) chloride",
+    "commonName": "",
+    "formula": "FeCl2",
+    "counts": {
+      "Fe": 1,
+      "Cl": 2
+    },
+    "description": "It is used in water-treatment chemistry.",
+    "uses": [
+      "It is used in water-treatment chemistry."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 24458,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24458"
+  },
+  {
+    "id": "iron-iii-chloride",
+    "name": "Iron(III) chloride",
+    "commonName": "",
+    "formula": "FeCl3",
+    "counts": {
+      "Fe": 1,
+      "Cl": 3
+    },
+    "description": "It helps treat water in industrial systems.",
+    "uses": [
+      "It helps treat water in industrial systems."
+    ],
+    "funFact": "2 different elements appear in this formula, with 4 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 24380,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24380"
+  },
+  {
+    "id": "zinc-chloride",
+    "name": "Zinc chloride",
+    "commonName": "",
+    "formula": "ZnCl2",
+    "counts": {
+      "Zn": 1,
+      "Cl": 2
+    },
+    "description": "It is used in some batteries.",
+    "uses": [
+      "It is used in some batteries."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 5727,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5727"
+  },
+  {
+    "id": "aluminum-chloride",
+    "name": "Aluminum chloride",
+    "commonName": "",
+    "formula": "AlCl3",
+    "counts": {
+      "Al": 1,
+      "Cl": 3
+    },
+    "description": "It helps chemists make other substances.",
+    "uses": [
+      "It helps chemists make other substances."
+    ],
+    "funFact": "2 different elements appear in this formula, with 4 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 24012,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24012"
+  },
+  {
+    "id": "silver-chloride",
+    "name": "Silver chloride",
+    "commonName": "",
+    "formula": "AgCl",
+    "counts": {
+      "Ag": 1,
+      "Cl": 1
+    },
+    "description": "It has been used in photography because light can change it.",
+    "uses": [
+      "It has been used in photography because light can change it."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 24561,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24561"
+  },
+  {
+    "id": "silver-bromide",
+    "name": "Silver bromide",
+    "commonName": "",
+    "formula": "AgBr",
+    "counts": {
+      "Ag": 1,
+      "Br": 1
+    },
+    "description": "It is used in photographic materials.",
+    "uses": [
+      "It is used in photographic materials."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 66199,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/66199"
+  },
+  {
+    "id": "silver-iodide",
+    "name": "Silver iodide",
+    "commonName": "",
+    "formula": "AgI",
+    "counts": {
+      "Ag": 1,
+      "I": 1
+    },
+    "description": "It is used in specialist weather research.",
+    "uses": [
+      "It is used in specialist weather research."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 24563,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24563"
+  },
+  {
+    "id": "lead-ii-chloride",
+    "name": "Lead(II) chloride",
+    "commonName": "",
+    "formula": "PbCl2",
+    "counts": {
+      "Pb": 1,
+      "Cl": 2
+    },
+    "description": "It is studied in laboratories.",
+    "uses": [
+      "It is studied in laboratories."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 24459,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24459"
+  },
+  {
+    "id": "tin-ii-chloride",
+    "name": "Tin(II) chloride",
+    "commonName": "",
+    "formula": "SnCl2",
+    "counts": {
+      "Sn": 1,
+      "Cl": 2
+    },
+    "description": "It is used in metal-treatment chemistry.",
+    "uses": [
+      "It is used in metal-treatment chemistry."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 24479,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24479"
+  },
+  {
+    "id": "tin-iv-chloride",
+    "name": "Tin(IV) chloride",
+    "commonName": "",
+    "formula": "SnCl4",
+    "counts": {
+      "Sn": 1,
+      "Cl": 4
+    },
+    "description": "It is used in chemical manufacturing.",
+    "uses": [
+      "It is used in chemical manufacturing."
+    ],
+    "funFact": "2 different elements appear in this formula, with 5 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 24287,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24287"
+  },
+  {
+    "id": "cobalt-ii-chloride",
+    "name": "Cobalt(II) chloride",
+    "commonName": "",
+    "formula": "CoCl2",
+    "counts": {
+      "Co": 1,
+      "Cl": 2
+    },
+    "description": "It has been used in moisture indicators.",
+    "uses": [
+      "It has been used in moisture indicators."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 3032536,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/3032536"
+  },
+  {
+    "id": "nickel-ii-chloride",
+    "name": "Nickel(II) chloride",
+    "commonName": "",
+    "formula": "NiCl2",
+    "counts": {
+      "Ni": 1,
+      "Cl": 2
+    },
+    "description": "It is used in metal plating.",
+    "uses": [
+      "It is used in metal plating."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 24385,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24385"
+  },
+  {
+    "id": "manganese-ii-chloride",
+    "name": "Manganese(II) chloride",
+    "commonName": "",
+    "formula": "MnCl2",
+    "counts": {
+      "Mn": 1,
+      "Cl": 2
+    },
+    "description": "It is used in specialist chemistry.",
+    "uses": [
+      "It is used in specialist chemistry."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 24480,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24480"
+  },
+  {
+    "id": "ozone",
+    "name": "Ozone",
+    "commonName": "",
+    "formula": "O3",
+    "counts": {
+      "O": 3
+    },
+    "description": "The upper atmosphere absorbs ultraviolet light with help from ozone.",
+    "uses": [
+      "The upper atmosphere absorbs ultraviolet light with help from ozone."
+    ],
+    "funFact": "A molecule can contain just one kind of element.",
+    "category": "Elemental molecule",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 24823,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24823"
+  },
+  {
+    "id": "dinitrogen-tetroxide",
+    "name": "Dinitrogen tetroxide",
+    "commonName": "",
+    "formula": "N2O4",
+    "counts": {
+      "N": 2,
+      "O": 4
+    },
+    "description": "Scientists study this gas alongside nitrogen dioxide.",
+    "uses": [
+      "Scientists study this gas alongside nitrogen dioxide."
+    ],
+    "funFact": "2 different elements appear in this formula, with 6 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 25352,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/25352"
+  },
+  {
+    "id": "sulfur",
+    "name": "Sulfur",
+    "commonName": "",
+    "formula": "S8",
+    "counts": {
+      "S": 8
+    },
+    "description": "Sulfur occurs around some volcanoes.",
+    "uses": [
+      "Sulfur occurs around some volcanoes."
+    ],
+    "funFact": "A molecule can contain just one kind of element.",
+    "category": "Elemental molecule",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 66348,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/66348"
+  },
+  {
+    "id": "white-phosphorus",
+    "name": "White phosphorus",
+    "commonName": "",
+    "formula": "P4",
+    "counts": {
+      "P": 4
+    },
+    "description": "This form of phosphorus is studied only with special safety equipment.",
+    "uses": [
+      "This form of phosphorus is studied only with special safety equipment."
+    ],
+    "funFact": "A molecule can contain just one kind of element.",
+    "category": "Elemental molecule",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 123286,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/123286"
+  },
+  {
+    "id": "magnesium-sulfate-heptahydrate",
+    "name": "Magnesium sulfate heptahydrate",
+    "commonName": "Epsom salt",
+    "formula": "MgSO4·7H2O",
+    "counts": {
+      "Mg": 1,
+      "S": 1,
+      "O": 11,
+      "H": 14
+    },
+    "description": "Epsom salt is this water-containing crystal.",
+    "uses": [
+      "Epsom salt is this water-containing crystal."
+    ],
+    "funFact": "The dot marks water molecules included in the crystal.",
+    "category": "Ionic compound",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 24843,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24843"
+  },
+  {
+    "id": "copper-ii-sulfate-pentahydrate",
+    "name": "Copper(II) sulfate pentahydrate",
+    "commonName": "",
+    "formula": "CuSO4·5H2O",
+    "counts": {
+      "Cu": 1,
+      "S": 1,
+      "O": 9,
+      "H": 10
+    },
+    "description": "This is a familiar blue laboratory crystal.",
+    "uses": [
+      "This is a familiar blue laboratory crystal."
+    ],
+    "funFact": "The dot marks water molecules included in the crystal.",
+    "category": "Ionic compound",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 24463,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24463"
+  },
+  {
+    "id": "sodium-carbonate-decahydrate",
+    "name": "Sodium carbonate decahydrate",
+    "commonName": "",
+    "formula": "Na2CO3·10H2O",
+    "counts": {
+      "Na": 2,
+      "C": 1,
+      "O": 13,
+      "H": 20
+    },
+    "description": "This water-containing crystal is a form of washing soda.",
+    "uses": [
+      "This water-containing crystal is a form of washing soda."
+    ],
+    "funFact": "The dot marks water molecules included in the crystal.",
+    "category": "Ionic compound",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 151402,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/151402"
+  },
+  {
+    "id": "dolomite",
+    "name": "Dolomite",
+    "commonName": "",
+    "formula": "CaMg(CO3)2",
+    "counts": {
+      "Ca": 1,
+      "Mg": 1,
+      "C": 2,
+      "O": 6
+    },
+    "description": "This mineral makes up some mountain rocks.",
+    "uses": [
+      "This mineral makes up some mountain rocks."
+    ],
+    "funFact": "4 different elements appear in this formula, with 10 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 61833,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/61833"
+  },
+  {
+    "id": "potassium-feldspar",
+    "name": "Potassium feldspar",
+    "commonName": "",
+    "formula": "KAlSi3O8",
+    "counts": {
+      "K": 1,
+      "Al": 1,
+      "Si": 3,
+      "O": 8
+    },
+    "description": "This mineral is common in rocks.",
+    "uses": [
+      "This mineral is common in rocks."
+    ],
+    "funFact": "4 different elements appear in this formula, with 13 atoms in one formula unit.",
+    "category": "Network solid",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 3080680,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/3080680"
+  },
+  {
+    "id": "albite",
+    "name": "Albite",
+    "commonName": "",
+    "formula": "NaAlSi3O8",
+    "counts": {
+      "Na": 1,
+      "Al": 1,
+      "Si": 3,
+      "O": 8
+    },
+    "description": "Albite belongs to the feldspar family of minerals.",
+    "uses": [
+      "Albite belongs to the feldspar family of minerals."
+    ],
+    "funFact": "4 different elements appear in this formula, with 13 atoms in one formula unit.",
+    "category": "Network solid",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "source": "https://www.handbookofmineralogy.org/pdfs/albite.pdf"
+  },
+  {
+    "id": "anorthite",
+    "name": "Anorthite",
+    "commonName": "",
+    "formula": "CaAl2Si2O8",
+    "counts": {
+      "Ca": 1,
+      "Al": 2,
+      "Si": 2,
+      "O": 8
+    },
+    "description": "This feldspar occurs in some Moon rocks.",
+    "uses": [
+      "This feldspar occurs in some Moon rocks."
+    ],
+    "funFact": "4 different elements appear in this formula, with 13 atoms in one formula unit.",
+    "category": "Network solid",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 56843091,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/56843091"
+  },
+  {
+    "id": "forsterite",
+    "name": "Forsterite",
+    "commonName": "",
+    "formula": "Mg2SiO4",
+    "counts": {
+      "Mg": 2,
+      "Si": 1,
+      "O": 4
+    },
+    "description": "This mineral belongs to the olivine family.",
+    "uses": [
+      "This mineral belongs to the olivine family."
+    ],
+    "funFact": "3 different elements appear in this formula, with 7 atoms in one formula unit.",
+    "category": "Network solid",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 66225,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/66225"
+  },
+  {
+    "id": "fayalite",
+    "name": "Fayalite",
+    "commonName": "",
+    "formula": "Fe2SiO4",
+    "counts": {
+      "Fe": 2,
+      "Si": 1,
+      "O": 4
+    },
+    "description": "This mineral is an iron-rich olivine.",
+    "uses": [
+      "This mineral is an iron-rich olivine."
+    ],
+    "funFact": "3 different elements appear in this formula, with 7 atoms in one formula unit.",
+    "category": "Network solid",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 15863737,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/15863737"
+  },
+  {
+    "id": "zircon",
+    "name": "Zircon",
+    "commonName": "",
+    "formula": "ZrSiO4",
+    "counts": {
+      "Zr": 1,
+      "Si": 1,
+      "O": 4
+    },
+    "description": "Some zircon crystals are billions of years old.",
+    "uses": [
+      "Some zircon crystals are billions of years old."
+    ],
+    "funFact": "3 different elements appear in this formula, with 6 atoms in one formula unit.",
+    "category": "Network solid",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 61775,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/61775"
+  },
+  {
+    "id": "beryl",
+    "name": "Beryl",
+    "commonName": "",
+    "formula": "Be3Al2Si6O18",
+    "counts": {
+      "Be": 3,
+      "Al": 2,
+      "Si": 6,
+      "O": 18
+    },
+    "description": "Emerald and aquamarine are varieties of beryl.",
+    "uses": [
+      "Emerald and aquamarine are varieties of beryl."
+    ],
+    "funFact": "4 different elements appear in this formula, with 29 atoms in one formula unit.",
+    "category": "Network solid",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 14767,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/14767"
+  },
+  {
+    "id": "kaolinite",
+    "name": "Kaolinite",
+    "commonName": "",
+    "formula": "Al2Si2O5(OH)4",
+    "counts": {
+      "Al": 2,
+      "Si": 2,
+      "O": 9,
+      "H": 4
+    },
+    "description": "This mineral occurs in clay used for ceramics.",
+    "uses": [
+      "This mineral occurs in clay used for ceramics."
+    ],
+    "funFact": "4 different elements appear in this formula, with 17 atoms in one formula unit.",
+    "category": "Network solid",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 71300855,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/71300855"
+  },
+  {
+    "id": "talc",
+    "name": "Talc",
+    "commonName": "",
+    "formula": "Mg3Si4O10(OH)2",
+    "counts": {
+      "Mg": 3,
+      "Si": 4,
+      "O": 12,
+      "H": 2
+    },
+    "description": "Talc is the softest mineral on the Mohs hardness scale.",
+    "uses": [
+      "Talc is the softest mineral on the Mohs hardness scale."
+    ],
+    "funFact": "4 different elements appear in this formula, with 21 atoms in one formula unit.",
+    "category": "Network solid",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 165411828,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/165411828"
+  },
+  {
+    "id": "wollastonite",
+    "name": "Wollastonite",
+    "commonName": "",
+    "formula": "CaSiO3",
+    "counts": {
+      "Ca": 1,
+      "Si": 1,
+      "O": 3
+    },
+    "description": "This mineral is used in ceramics.",
+    "uses": [
+      "This mineral is used in ceramics."
+    ],
+    "funFact": "3 different elements appear in this formula, with 5 atoms in one formula unit.",
+    "category": "Network solid",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 26370,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/26370"
+  },
+  {
+    "id": "barium-sulfate",
+    "name": "Barium sulfate",
+    "commonName": "",
+    "formula": "BaSO4",
+    "counts": {
+      "Ba": 1,
+      "S": 1,
+      "O": 4
+    },
+    "description": "Barite is a dense mineral used in industry.",
+    "uses": [
+      "Barite is a dense mineral used in industry."
+    ],
+    "funFact": "3 different elements appear in this formula, with 6 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 24414,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24414"
+  },
+  {
+    "id": "strontium-sulfate",
+    "name": "Strontium sulfate",
+    "commonName": "",
+    "formula": "SrSO4",
+    "counts": {
+      "Sr": 1,
+      "S": 1,
+      "O": 4
+    },
+    "description": "This mineral is also called celestine.",
+    "uses": [
+      "This mineral is also called celestine."
+    ],
+    "funFact": "3 different elements appear in this formula, with 6 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 3084026,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/3084026"
+  },
+  {
+    "id": "barium-carbonate",
+    "name": "Barium carbonate",
+    "commonName": "",
+    "formula": "BaCO3",
+    "counts": {
+      "Ba": 1,
+      "C": 1,
+      "O": 3
+    },
+    "description": "This mineral is also called witherite.",
+    "uses": [
+      "This mineral is also called witherite."
+    ],
+    "funFact": "3 different elements appear in this formula, with 5 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 10563,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/10563"
+  },
+  {
+    "id": "strontium-carbonate",
+    "name": "Strontium carbonate",
+    "commonName": "",
+    "formula": "SrCO3",
+    "counts": {
+      "Sr": 1,
+      "C": 1,
+      "O": 3
+    },
+    "description": "This occurs as the mineral strontianite.",
+    "uses": [
+      "This occurs as the mineral strontianite."
+    ],
+    "funFact": "3 different elements appear in this formula, with 5 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 15407,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/15407"
+  },
+  {
+    "id": "lithium-carbonate",
+    "name": "Lithium carbonate",
+    "commonName": "",
+    "formula": "Li2CO3",
+    "counts": {
+      "Li": 2,
+      "C": 1,
+      "O": 3
+    },
+    "description": "It is used in glass and ceramic manufacturing.",
+    "uses": [
+      "It is used in glass and ceramic manufacturing."
+    ],
+    "funFact": "3 different elements appear in this formula, with 6 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 11125,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/11125"
+  },
+  {
+    "id": "zinc-carbonate",
+    "name": "Zinc carbonate",
+    "commonName": "",
+    "formula": "ZnCO3",
+    "counts": {
+      "Zn": 1,
+      "C": 1,
+      "O": 3
+    },
+    "description": "It occurs in the mineral smithsonite.",
+    "uses": [
+      "It occurs in the mineral smithsonite."
+    ],
+    "funFact": "3 different elements appear in this formula, with 5 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 19005,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/19005"
+  },
+  {
+    "id": "manganese-carbonate",
+    "name": "Manganese carbonate",
+    "commonName": "",
+    "formula": "MnCO3",
+    "counts": {
+      "Mn": 1,
+      "C": 1,
+      "O": 3
+    },
+    "description": "It occurs in the pink mineral rhodochrosite.",
+    "uses": [
+      "It occurs in the pink mineral rhodochrosite."
+    ],
+    "funFact": "3 different elements appear in this formula, with 5 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 11726,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/11726"
+  },
+  {
+    "id": "iron-ii-carbonate",
+    "name": "Iron(II) carbonate",
+    "commonName": "",
+    "formula": "FeCO3",
+    "counts": {
+      "Fe": 1,
+      "C": 1,
+      "O": 3
+    },
+    "description": "It occurs in the mineral siderite.",
+    "uses": [
+      "It occurs in the mineral siderite."
+    ],
+    "funFact": "3 different elements appear in this formula, with 5 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 11248,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/11248"
+  },
+  {
+    "id": "copper-carbonate-hydroxide",
+    "name": "Copper carbonate hydroxide",
+    "commonName": "",
+    "formula": "Cu2CO3(OH)2",
+    "counts": {
+      "Cu": 2,
+      "C": 1,
+      "O": 5,
+      "H": 2
+    },
+    "description": "Green malachite is this copper mineral.",
+    "uses": [
+      "Green malachite is this copper mineral."
+    ],
+    "funFact": "4 different elements appear in this formula, with 10 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 25503,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/25503"
+  },
+  {
+    "id": "azurite",
+    "name": "Azurite",
+    "commonName": "",
+    "formula": "Cu3(CO3)2(OH)2",
+    "counts": {
+      "Cu": 3,
+      "C": 2,
+      "O": 8,
+      "H": 2
+    },
+    "description": "This copper mineral is deep blue.",
+    "uses": [
+      "This copper mineral is deep blue."
+    ],
+    "funFact": "4 different elements appear in this formula, with 15 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 9884557,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/9884557"
+  },
+  {
+    "id": "hydroxyapatite",
+    "name": "Hydroxyapatite",
+    "commonName": "",
+    "formula": "Ca5(PO4)3OH",
+    "counts": {
+      "Ca": 5,
+      "P": 3,
+      "O": 13,
+      "H": 1
+    },
+    "description": "A related mineral makes bones and teeth hard.",
+    "uses": [
+      "A related mineral makes bones and teeth hard."
+    ],
+    "funFact": "4 different elements appear in this formula, with 22 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 14781,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/14781"
+  },
+  {
+    "id": "fluorapatite",
+    "name": "Fluorapatite",
+    "commonName": "",
+    "formula": "Ca5(PO4)3F",
+    "counts": {
+      "Ca": 5,
+      "P": 3,
+      "O": 12,
+      "F": 1
+    },
+    "description": "This mineral is related to tooth enamel's mineral.",
+    "uses": [
+      "This mineral is related to tooth enamel's mineral."
+    ],
+    "funFact": "4 different elements appear in this formula, with 21 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 10207414,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/10207414"
+  },
+  {
+    "id": "silver-sulfide",
+    "name": "Silver sulfide",
+    "commonName": "",
+    "formula": "Ag2S",
+    "counts": {
+      "Ag": 2,
+      "S": 1
+    },
+    "description": "This forms part of silver tarnish.",
+    "uses": [
+      "This forms part of silver tarnish."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 166738,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/166738"
+  },
+  {
+    "id": "copper-i-sulfide",
+    "name": "Copper(I) sulfide",
+    "commonName": "",
+    "formula": "Cu2S",
+    "counts": {
+      "Cu": 2,
+      "S": 1
+    },
+    "description": "It occurs in the copper ore chalcocite.",
+    "uses": [
+      "It occurs in the copper ore chalcocite."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 10130093,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/10130093"
+  },
+  {
+    "id": "molybdenum-disulfide",
+    "name": "Molybdenum disulfide",
+    "commonName": "",
+    "formula": "MoS2",
+    "counts": {
+      "Mo": 1,
+      "S": 2
+    },
+    "description": "Its slippery layers make it useful as a lubricant.",
+    "uses": [
+      "Its slippery layers make it useful as a lubricant."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 14823,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/14823"
+  },
+  {
+    "id": "tungsten-disulfide",
+    "name": "Tungsten disulfide",
+    "commonName": "",
+    "formula": "WS2",
+    "counts": {
+      "W": 1,
+      "S": 2
+    },
+    "description": "Its thin layers are studied in materials science.",
+    "uses": [
+      "Its thin layers are studied in materials science."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 82938,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/82938"
+  },
+  {
+    "id": "lithium-chloride",
+    "name": "Lithium chloride",
+    "commonName": "",
+    "formula": "LiCl",
+    "counts": {
+      "Li": 1,
+      "Cl": 1
+    },
+    "description": "It is used in specialist industrial chemistry.",
+    "uses": [
+      "It is used in specialist industrial chemistry."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 433294,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/433294"
+  },
+  {
+    "id": "lithium-bromide",
+    "name": "Lithium bromide",
+    "commonName": "",
+    "formula": "LiBr",
+    "counts": {
+      "Li": 1,
+      "Br": 1
+    },
+    "description": "It is used in some cooling systems.",
+    "uses": [
+      "It is used in some cooling systems."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 82050,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/82050"
+  },
+  {
+    "id": "lithium-iodide",
+    "name": "Lithium iodide",
+    "commonName": "",
+    "formula": "LiI",
+    "counts": {
+      "Li": 1,
+      "I": 1
+    },
+    "description": "It is used in specialist batteries.",
+    "uses": [
+      "It is used in specialist batteries."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 66321,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/66321"
+  },
+  {
+    "id": "sodium-bromide",
+    "name": "Sodium bromide",
+    "commonName": "",
+    "formula": "NaBr",
+    "counts": {
+      "Na": 1,
+      "Br": 1
+    },
+    "description": "It is used in chemical manufacturing.",
+    "uses": [
+      "It is used in chemical manufacturing."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 253881,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/253881"
+  },
+  {
+    "id": "sodium-iodide",
+    "name": "Sodium iodide",
+    "commonName": "",
+    "formula": "NaI",
+    "counts": {
+      "Na": 1,
+      "I": 1
+    },
+    "description": "Special crystals are used in radiation detectors.",
+    "uses": [
+      "Special crystals are used in radiation detectors."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 5238,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5238"
+  },
+  {
+    "id": "potassium-fluoride",
+    "name": "Potassium fluoride",
+    "commonName": "",
+    "formula": "KF",
+    "counts": {
+      "K": 1,
+      "F": 1
+    },
+    "description": "It is used in laboratory chemistry.",
+    "uses": [
+      "It is used in laboratory chemistry."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 522689,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/522689"
+  },
+  {
+    "id": "rubidium-chloride",
+    "name": "Rubidium chloride",
+    "commonName": "",
+    "formula": "RbCl",
+    "counts": {
+      "Rb": 1,
+      "Cl": 1
+    },
+    "description": "It is used in scientific research.",
+    "uses": [
+      "It is used in scientific research."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 62683,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/62683"
+  },
+  {
+    "id": "cesium-chloride",
+    "name": "Cesium chloride",
+    "commonName": "",
+    "formula": "CsCl",
+    "counts": {
+      "Cs": 1,
+      "Cl": 1
+    },
+    "description": "It is used in scientific research.",
+    "uses": [
+      "It is used in scientific research."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 24293,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24293"
+  },
+  {
+    "id": "strontium-chloride",
+    "name": "Strontium chloride",
+    "commonName": "",
+    "formula": "SrCl2",
+    "counts": {
+      "Sr": 1,
+      "Cl": 2
+    },
+    "description": "It is used in specialist chemistry.",
+    "uses": [
+      "It is used in specialist chemistry."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 5362485,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5362485"
+  },
+  {
+    "id": "barium-chloride",
+    "name": "Barium chloride",
+    "commonName": "",
+    "formula": "BaCl2",
+    "counts": {
+      "Ba": 1,
+      "Cl": 2
+    },
+    "description": "It is used in laboratory tests.",
+    "uses": [
+      "It is used in laboratory tests."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 25204,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/25204"
+  },
+  {
+    "id": "calcium-bromide",
+    "name": "Calcium bromide",
+    "commonName": "",
+    "formula": "CaBr2",
+    "counts": {
+      "Ca": 1,
+      "Br": 2
+    },
+    "description": "It is used in industrial fluids.",
+    "uses": [
+      "It is used in industrial fluids."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 5360316,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5360316"
+  },
+  {
+    "id": "magnesium-bromide",
+    "name": "Magnesium bromide",
+    "commonName": "",
+    "formula": "MgBr2",
+    "counts": {
+      "Mg": 1,
+      "Br": 2
+    },
+    "description": "It is used in chemistry research.",
+    "uses": [
+      "It is used in chemistry research."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 82241,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/82241"
+  },
+  {
+    "id": "calcium-iodide",
+    "name": "Calcium iodide",
+    "commonName": "",
+    "formula": "CaI2",
+    "counts": {
+      "Ca": 1,
+      "I": 2
+    },
+    "description": "It is studied in laboratories.",
+    "uses": [
+      "It is studied in laboratories."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 5462722,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5462722"
+  },
+  {
+    "id": "magnesium-iodide",
+    "name": "Magnesium iodide",
+    "commonName": "",
+    "formula": "MgI2",
+    "counts": {
+      "Mg": 1,
+      "I": 2
+    },
+    "description": "It is used in specialist chemistry.",
+    "uses": [
+      "It is used in specialist chemistry."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 66322,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/66322"
+  },
+  {
+    "id": "sodium-sulfide",
+    "name": "Sodium sulfide",
+    "commonName": "",
+    "formula": "Na2S",
+    "counts": {
+      "Na": 2,
+      "S": 1
+    },
+    "description": "It is used in industrial manufacturing.",
+    "uses": [
+      "It is used in industrial manufacturing."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "source": "https://janaf.nist.gov/tables/Na-032.html"
+  },
+  {
+    "id": "potassium-sulfide",
+    "name": "Potassium sulfide",
+    "commonName": "",
+    "formula": "K2S",
+    "counts": {
+      "K": 2,
+      "S": 1
+    },
+    "description": "It is studied in chemical laboratories.",
+    "uses": [
+      "It is studied in chemical laboratories."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 162263,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/162263"
+  },
+  {
+    "id": "sodium-sulfite",
+    "name": "Sodium sulfite",
+    "commonName": "",
+    "formula": "Na2SO3",
+    "counts": {
+      "Na": 2,
+      "S": 1,
+      "O": 3
+    },
+    "description": "It is used in paper production.",
+    "uses": [
+      "It is used in paper production."
+    ],
+    "funFact": "3 different elements appear in this formula, with 6 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 24437,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24437"
+  },
+  {
+    "id": "sodium-thiosulfate",
+    "name": "Sodium thiosulfate",
+    "commonName": "",
+    "formula": "Na2S2O3",
+    "counts": {
+      "Na": 2,
+      "S": 2,
+      "O": 3
+    },
+    "description": "It is used in water testing and photography.",
+    "uses": [
+      "It is used in water testing and photography."
+    ],
+    "funFact": "3 different elements appear in this formula, with 7 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 24477,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24477"
+  },
+  {
+    "id": "sodium-thiosulfate-pentahydrate",
+    "name": "Sodium thiosulfate pentahydrate",
+    "commonName": "",
+    "formula": "Na2S2O3·5H2O",
+    "counts": {
+      "Na": 2,
+      "S": 2,
+      "O": 8,
+      "H": 10
+    },
+    "description": "This water-containing crystal is used in photography.",
+    "uses": [
+      "This water-containing crystal is used in photography."
+    ],
+    "funFact": "The dot marks water molecules included in the crystal.",
+    "category": "Ionic compound",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 61475,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/61475"
+  },
+  {
+    "id": "sodium-hydrogen-sulfate",
+    "name": "Sodium hydrogen sulfate",
+    "commonName": "",
+    "formula": "NaHSO4",
+    "counts": {
+      "Na": 1,
+      "H": 1,
+      "S": 1,
+      "O": 4
+    },
+    "description": "It is used in some water-treatment products.",
+    "uses": [
+      "It is used in some water-treatment products."
+    ],
+    "funFact": "4 different elements appear in this formula, with 7 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 516919,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/516919"
+  },
+  {
+    "id": "sodium-hydrogen-sulfite",
+    "name": "Sodium hydrogen sulfite",
+    "commonName": "",
+    "formula": "NaHSO3",
+    "counts": {
+      "Na": 1,
+      "H": 1,
+      "S": 1,
+      "O": 3
+    },
+    "description": "It is used in industrial chemistry.",
+    "uses": [
+      "It is used in industrial chemistry."
+    ],
+    "funFact": "4 different elements appear in this formula, with 6 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 23665763,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/23665763"
+  },
+  {
+    "id": "sodium-metabisulfite",
+    "name": "Sodium metabisulfite",
+    "commonName": "",
+    "formula": "Na2S2O5",
+    "counts": {
+      "Na": 2,
+      "S": 2,
+      "O": 5
+    },
+    "description": "It is used in some preservation processes.",
+    "uses": [
+      "It is used in some preservation processes."
+    ],
+    "funFact": "3 different elements appear in this formula, with 9 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 656671,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/656671"
+  },
+  {
+    "id": "potassium-bicarbonate",
+    "name": "Potassium bicarbonate",
+    "commonName": "",
+    "formula": "KHCO3",
+    "counts": {
+      "K": 1,
+      "H": 1,
+      "C": 1,
+      "O": 3
+    },
+    "description": "It is used in some fire-extinguishing powders.",
+    "uses": [
+      "It is used in some fire-extinguishing powders."
+    ],
+    "funFact": "4 different elements appear in this formula, with 6 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 516893,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/516893"
+  },
+  {
+    "id": "potassium-carbonate",
+    "name": "Potassium carbonate",
+    "commonName": "",
+    "formula": "K2CO3",
+    "counts": {
+      "K": 2,
+      "C": 1,
+      "O": 3
+    },
+    "description": "Potash is used in glassmaking.",
+    "uses": [
+      "Potash is used in glassmaking."
+    ],
+    "funFact": "3 different elements appear in this formula, with 6 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 11430,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/11430"
+  },
+  {
+    "id": "disodium-hydrogen-phosphate",
+    "name": "Disodium hydrogen phosphate",
+    "commonName": "",
+    "formula": "Na2HPO4",
+    "counts": {
+      "Na": 2,
+      "H": 1,
+      "P": 1,
+      "O": 4
+    },
+    "description": "It helps control acidity in some products.",
+    "uses": [
+      "It helps control acidity in some products."
+    ],
+    "funFact": "4 different elements appear in this formula, with 8 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 24203,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24203"
+  },
+  {
+    "id": "sodium-dihydrogen-phosphate",
+    "name": "Sodium dihydrogen phosphate",
+    "commonName": "",
+    "formula": "NaH2PO4",
+    "counts": {
+      "Na": 1,
+      "H": 2,
+      "P": 1,
+      "O": 4
+    },
+    "description": "It is used in some chemical buffers.",
+    "uses": [
+      "It is used in some chemical buffers."
+    ],
+    "funFact": "4 different elements appear in this formula, with 8 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 23672064,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/23672064"
+  },
+  {
+    "id": "potassium-dihydrogen-phosphate",
+    "name": "Potassium dihydrogen phosphate",
+    "commonName": "",
+    "formula": "KH2PO4",
+    "counts": {
+      "K": 1,
+      "H": 2,
+      "P": 1,
+      "O": 4
+    },
+    "description": "It supplies nutrients to plants.",
+    "uses": [
+      "It supplies nutrients to plants."
+    ],
+    "funFact": "4 different elements appear in this formula, with 8 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 516951,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/516951"
+  },
+  {
+    "id": "dipotassium-hydrogen-phosphate",
+    "name": "Dipotassium hydrogen phosphate",
+    "commonName": "",
+    "formula": "K2HPO4",
+    "counts": {
+      "K": 2,
+      "H": 1,
+      "P": 1,
+      "O": 4
+    },
+    "description": "It helps keep acidity steady in laboratory buffers.",
+    "uses": [
+      "It helps keep acidity steady in laboratory buffers."
+    ],
+    "funFact": "4 different elements appear in this formula, with 8 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 24450,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24450"
+  },
+  {
+    "id": "ammonium-sulfate",
+    "name": "Ammonium sulfate",
+    "commonName": "",
+    "formula": "(NH4)2SO4",
+    "counts": {
+      "N": 2,
+      "H": 8,
+      "S": 1,
+      "O": 4
+    },
+    "description": "It is used in fertilizer.",
+    "uses": [
+      "It is used in fertilizer."
+    ],
+    "funFact": "4 different elements appear in this formula, with 15 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 6097028,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/6097028"
+  },
+  {
+    "id": "ammonium-carbonate",
+    "name": "Ammonium carbonate",
+    "commonName": "",
+    "formula": "(NH4)2CO3",
+    "counts": {
+      "N": 2,
+      "H": 8,
+      "C": 1,
+      "O": 3
+    },
+    "description": "It is used in specialist manufacturing.",
+    "uses": [
+      "It is used in specialist manufacturing."
+    ],
+    "funFact": "4 different elements appear in this formula, with 14 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 517111,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/517111"
+  },
+  {
+    "id": "ammonium-bicarbonate",
+    "name": "Ammonium bicarbonate",
+    "commonName": "",
+    "formula": "NH4HCO3",
+    "counts": {
+      "N": 1,
+      "H": 5,
+      "C": 1,
+      "O": 3
+    },
+    "description": "It is used in some commercial baking.",
+    "uses": [
+      "It is used in some commercial baking."
+    ],
+    "funFact": "4 different elements appear in this formula, with 10 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 14013,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/14013"
+  },
+  {
+    "id": "ammonium-dihydrogen-phosphate",
+    "name": "Ammonium dihydrogen phosphate",
+    "commonName": "",
+    "formula": "NH4H2PO4",
+    "counts": {
+      "N": 1,
+      "H": 6,
+      "P": 1,
+      "O": 4
+    },
+    "description": "It is used in fertilizers.",
+    "uses": [
+      "It is used in fertilizers."
+    ],
+    "funFact": "4 different elements appear in this formula, with 12 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 24402,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24402"
+  },
+  {
+    "id": "diammonium-hydrogen-phosphate",
+    "name": "Diammonium hydrogen phosphate",
+    "commonName": "",
+    "formula": "(NH4)2HPO4",
+    "counts": {
+      "N": 2,
+      "H": 9,
+      "P": 1,
+      "O": 4
+    },
+    "description": "It is used in fertilizers.",
+    "uses": [
+      "It is used in fertilizers."
+    ],
+    "funFact": "4 different elements appear in this formula, with 16 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 24540,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24540"
+  },
+  {
+    "id": "boric-acid",
+    "name": "Boric acid",
+    "commonName": "",
+    "formula": "H3BO3",
+    "counts": {
+      "H": 3,
+      "B": 1,
+      "O": 3
+    },
+    "description": "It occurs in some minerals and industrial products.",
+    "uses": [
+      "It occurs in some minerals and industrial products."
+    ],
+    "funFact": "3 different elements appear in this formula, with 7 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 7628,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/7628"
+  },
+  {
+    "id": "sodium-tetraborate-decahydrate",
+    "name": "Sodium tetraborate decahydrate",
+    "commonName": "Borax",
+    "formula": "Na2B4O7·10H2O",
+    "counts": {
+      "Na": 2,
+      "B": 4,
+      "O": 17,
+      "H": 20
+    },
+    "description": "Borax is found in mineral deposits and cleaners.",
+    "uses": [
+      "Borax is found in mineral deposits and cleaners."
+    ],
+    "funFact": "The dot marks water molecules included in the crystal.",
+    "category": "Ionic compound",
+    "level": 4,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 16211214,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/16211214"
+  },
+  {
+    "id": "boron-trioxide",
+    "name": "Boron trioxide",
+    "commonName": "",
+    "formula": "B2O3",
+    "counts": {
+      "B": 2,
+      "O": 3
+    },
+    "description": "It is used in special glasses.",
+    "uses": [
+      "It is used in special glasses."
+    ],
+    "funFact": "2 different elements appear in this formula, with 5 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 518682,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/518682"
+  },
+  {
+    "id": "silicon-carbide",
+    "name": "Silicon carbide",
+    "commonName": "",
+    "formula": "SiC",
+    "counts": {
+      "Si": 1,
+      "C": 1
+    },
+    "description": "It is used in tough cutting and grinding materials.",
+    "uses": [
+      "It is used in tough cutting and grinding materials."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one formula unit.",
+    "category": "Network solid",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 9863,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/9863"
+  },
+  {
+    "id": "boron-nitride",
+    "name": "Boron nitride",
+    "commonName": "",
+    "formula": "BN",
+    "counts": {
+      "B": 1,
+      "N": 1
+    },
+    "description": "Different atom arrangements make this material soft or very hard.",
+    "uses": [
+      "Different atom arrangements make this material soft or very hard."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one formula unit.",
+    "category": "Network solid",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 66227,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/66227"
+  },
+  {
+    "id": "tungsten-carbide",
+    "name": "Tungsten carbide",
+    "commonName": "",
+    "formula": "WC",
+    "counts": {
+      "W": 1,
+      "C": 1
+    },
+    "description": "It is used in strong cutting tools.",
+    "uses": [
+      "It is used in strong cutting tools."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one formula unit.",
+    "category": "Network solid",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 2724274,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/2724274"
+  },
+  {
+    "id": "tungsten-trioxide",
+    "name": "Tungsten trioxide",
+    "commonName": "",
+    "formula": "WO3",
+    "counts": {
+      "W": 1,
+      "O": 3
+    },
+    "description": "It is studied in smart-window materials.",
+    "uses": [
+      "It is studied in smart-window materials."
+    ],
+    "funFact": "2 different elements appear in this formula, with 4 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 14811,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/14811"
+  },
+  {
+    "id": "vanadium-pentoxide",
+    "name": "Vanadium pentoxide",
+    "commonName": "",
+    "formula": "V2O5",
+    "counts": {
+      "V": 2,
+      "O": 5
+    },
+    "description": "It helps some industrial chemical processes as a catalyst.",
+    "uses": [
+      "It helps some industrial chemical processes as a catalyst."
+    ],
+    "funFact": "2 different elements appear in this formula, with 7 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 14814,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/14814"
+  },
+  {
+    "id": "molybdenum-trioxide",
+    "name": "Molybdenum trioxide",
+    "commonName": "",
+    "formula": "MoO3",
+    "counts": {
+      "Mo": 1,
+      "O": 3
+    },
+    "description": "It is used in materials manufacturing.",
+    "uses": [
+      "It is used in materials manufacturing."
+    ],
+    "funFact": "2 different elements appear in this formula, with 4 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 14802,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/14802"
+  },
+  {
+    "id": "nickel-ii-oxide",
+    "name": "Nickel(II) oxide",
+    "commonName": "",
+    "formula": "NiO",
+    "counts": {
+      "Ni": 1,
+      "O": 1
+    },
+    "description": "It is used in ceramics and materials research.",
+    "uses": [
+      "It is used in ceramics and materials research."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 179931,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/179931"
+  },
+  {
+    "id": "cobalt-ii-oxide",
+    "name": "Cobalt(II) oxide",
+    "commonName": "",
+    "formula": "CoO",
+    "counts": {
+      "Co": 1,
+      "O": 1
+    },
+    "description": "It is used in pigments and ceramics.",
+    "uses": [
+      "It is used in pigments and ceramics."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 14786,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/14786"
+  },
+  {
+    "id": "cobalt-ii-iii-oxide",
+    "name": "Cobalt(II,III) oxide",
+    "commonName": "",
+    "formula": "Co3O4",
+    "counts": {
+      "Co": 3,
+      "O": 4
+    },
+    "description": "It is used in materials research.",
+    "uses": [
+      "It is used in materials research."
+    ],
+    "funFact": "2 different elements appear in this formula, with 7 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 6432046,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/6432046"
+  },
+  {
+    "id": "chromium-trioxide",
+    "name": "Chromium trioxide",
+    "commonName": "",
+    "formula": "CrO3",
+    "counts": {
+      "Cr": 1,
+      "O": 3
+    },
+    "description": "It is used only with strict industrial controls.",
+    "uses": [
+      "It is used only with strict industrial controls."
+    ],
+    "funFact": "2 different elements appear in this formula, with 4 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 14915,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/14915"
+  },
+  {
+    "id": "manganese-ii-iii-oxide",
+    "name": "Manganese(II,III) oxide",
+    "commonName": "",
+    "formula": "Mn3O4",
+    "counts": {
+      "Mn": 3,
+      "O": 4
+    },
+    "description": "It occurs as the mineral hausmannite.",
+    "uses": [
+      "It occurs as the mineral hausmannite."
+    ],
+    "funFact": "2 different elements appear in this formula, with 7 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 90479253,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/90479253"
+  },
+  {
+    "id": "tin-ii-oxide",
+    "name": "Tin(II) oxide",
+    "commonName": "",
+    "formula": "SnO",
+    "counts": {
+      "Sn": 1,
+      "O": 1
+    },
+    "description": "It is studied in materials science.",
+    "uses": [
+      "It is studied in materials science."
+    ],
+    "funFact": "2 different elements appear in this formula, with 2 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 88989,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/88989"
+  },
+  {
+    "id": "lead-iv-oxide",
+    "name": "Lead(IV) oxide",
+    "commonName": "",
+    "formula": "PbO2",
+    "counts": {
+      "Pb": 1,
+      "O": 2
+    },
+    "description": "It is used in lead-acid batteries.",
+    "uses": [
+      "It is used in lead-acid batteries."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 14793,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/14793"
+  },
+  {
+    "id": "silver-i-oxide",
+    "name": "Silver(I) oxide",
+    "commonName": "",
+    "formula": "Ag2O",
+    "counts": {
+      "Ag": 2,
+      "O": 1
+    },
+    "description": "It is used in some small batteries.",
+    "uses": [
+      "It is used in some small batteries."
+    ],
+    "funFact": "2 different elements appear in this formula, with 3 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 9794626,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/9794626"
+  },
+  {
+    "id": "copper-ii-nitrate",
+    "name": "Copper(II) nitrate",
+    "commonName": "",
+    "formula": "Cu(NO3)2",
+    "counts": {
+      "Cu": 1,
+      "N": 2,
+      "O": 6
+    },
+    "description": "It is used in laboratory chemistry.",
+    "uses": [
+      "It is used in laboratory chemistry."
+    ],
+    "funFact": "3 different elements appear in this formula, with 9 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 18616,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/18616"
+  },
+  {
+    "id": "zinc-nitrate",
+    "name": "Zinc nitrate",
+    "commonName": "",
+    "formula": "Zn(NO3)2",
+    "counts": {
+      "Zn": 1,
+      "N": 2,
+      "O": 6
+    },
+    "description": "It is used in specialist chemistry.",
+    "uses": [
+      "It is used in specialist chemistry."
+    ],
+    "funFact": "3 different elements appear in this formula, with 9 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 24518,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24518"
+  },
+  {
+    "id": "magnesium-nitrate",
+    "name": "Magnesium nitrate",
+    "commonName": "",
+    "formula": "Mg(NO3)2",
+    "counts": {
+      "Mg": 1,
+      "N": 2,
+      "O": 6
+    },
+    "description": "It is used in some fertilizers.",
+    "uses": [
+      "It is used in some fertilizers."
+    ],
+    "funFact": "3 different elements appear in this formula, with 9 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 25212,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/25212"
+  },
+  {
+    "id": "barium-nitrate",
+    "name": "Barium nitrate",
+    "commonName": "",
+    "formula": "Ba(NO3)2",
+    "counts": {
+      "Ba": 1,
+      "N": 2,
+      "O": 6
+    },
+    "description": "It is used in industrial chemistry.",
+    "uses": [
+      "It is used in industrial chemistry."
+    ],
+    "funFact": "3 different elements appear in this formula, with 9 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 24798,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24798"
+  },
+  {
+    "id": "lead-ii-nitrate",
+    "name": "Lead(II) nitrate",
+    "commonName": "",
+    "formula": "Pb(NO3)2",
+    "counts": {
+      "Pb": 1,
+      "N": 2,
+      "O": 6
+    },
+    "description": "It is studied in laboratories.",
+    "uses": [
+      "It is studied in laboratories."
+    ],
+    "funFact": "3 different elements appear in this formula, with 9 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 24924,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24924"
+  },
+  {
+    "id": "iron-iii-nitrate",
+    "name": "Iron(III) nitrate",
+    "commonName": "",
+    "formula": "Fe(NO3)3",
+    "counts": {
+      "Fe": 1,
+      "N": 3,
+      "O": 9
+    },
+    "description": "It is used in chemical research.",
+    "uses": [
+      "It is used in chemical research."
+    ],
+    "funFact": "3 different elements appear in this formula, with 13 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 25251,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/25251"
+  },
+  {
+    "id": "cobalt-ii-sulfate",
+    "name": "Cobalt(II) sulfate",
+    "commonName": "",
+    "formula": "CoSO4",
+    "counts": {
+      "Co": 1,
+      "S": 1,
+      "O": 4
+    },
+    "description": "It is used in industrial materials.",
+    "uses": [
+      "It is used in industrial materials."
+    ],
+    "funFact": "3 different elements appear in this formula, with 6 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 24965,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24965"
+  },
+  {
+    "id": "nickel-ii-sulfate",
+    "name": "Nickel(II) sulfate",
+    "commonName": "",
+    "formula": "NiSO4",
+    "counts": {
+      "Ni": 1,
+      "S": 1,
+      "O": 4
+    },
+    "description": "It is used in metal plating.",
+    "uses": [
+      "It is used in metal plating."
+    ],
+    "funFact": "3 different elements appear in this formula, with 6 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 24586,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24586"
+  },
+  {
+    "id": "manganese-ii-sulfate",
+    "name": "Manganese(II) sulfate",
+    "commonName": "",
+    "formula": "MnSO4",
+    "counts": {
+      "Mn": 1,
+      "S": 1,
+      "O": 4
+    },
+    "description": "It supplies manganese in some fertilizers.",
+    "uses": [
+      "It supplies manganese in some fertilizers."
+    ],
+    "funFact": "3 different elements appear in this formula, with 6 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 24580,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24580"
+  },
+  {
+    "id": "chromium-iii-chloride",
+    "name": "Chromium(III) chloride",
+    "commonName": "",
+    "formula": "CrCl3",
+    "counts": {
+      "Cr": 1,
+      "Cl": 3
+    },
+    "description": "It is used in specialist chemistry.",
+    "uses": [
+      "It is used in specialist chemistry."
+    ],
+    "funFact": "2 different elements appear in this formula, with 4 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 5,
+    "rarity": "Advanced",
+    "hazardous": true,
+    "cid": 24808,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/24808"
+  },
+  {
+    "id": "urea",
+    "name": "Urea",
+    "commonName": "",
+    "formula": "CH4N2O",
+    "counts": {
+      "C": 1,
+      "H": 4,
+      "N": 2,
+      "O": 1
+    },
+    "description": "Your body uses urea to help remove extra nitrogen.",
+    "uses": [
+      "Your body uses urea to help remove extra nitrogen."
+    ],
+    "funFact": "4 different elements appear in this formula, with 8 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 1176,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/1176"
+  },
+  {
+    "id": "ascorbic-acid",
+    "name": "Ascorbic acid",
+    "commonName": "Vitamin C",
+    "formula": "C6H8O6",
+    "counts": {
+      "C": 6,
+      "H": 8,
+      "O": 6
+    },
+    "description": "Vitamin C is found in many fruits and vegetables.",
+    "uses": [
+      "Vitamin C is found in many fruits and vegetables."
+    ],
+    "funFact": "3 different elements appear in this formula, with 20 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": false,
+    "cid": 54670067,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/54670067"
+  },
+  {
+    "id": "vanillin",
+    "name": "Vanillin",
+    "commonName": "",
+    "formula": "C8H8O3",
+    "counts": {
+      "C": 8,
+      "H": 8,
+      "O": 3
+    },
+    "description": "It helps give vanilla its familiar smell.",
+    "uses": [
+      "It helps give vanilla its familiar smell."
+    ],
+    "funFact": "3 different elements appear in this formula, with 19 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 1183,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/1183"
+  },
+  {
+    "id": "limonene",
+    "name": "Limonene",
+    "commonName": "",
+    "formula": "C10H16",
+    "counts": {
+      "C": 10,
+      "H": 16
+    },
+    "description": "It gives citrus peels some of their smell.",
+    "uses": [
+      "It gives citrus peels some of their smell."
+    ],
+    "funFact": "2 different elements appear in this formula, with 26 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 22311,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/22311"
+  },
+  {
+    "id": "alpha-pinene",
+    "name": "Alpha-pinene",
+    "commonName": "",
+    "formula": "C10H16",
+    "counts": {
+      "C": 10,
+      "H": 16
+    },
+    "description": "It occurs in pine trees.",
+    "uses": [
+      "It occurs in pine trees."
+    ],
+    "funFact": "2 different elements appear in this formula, with 26 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 6654,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/6654"
+  },
+  {
+    "id": "menthol",
+    "name": "Menthol",
+    "commonName": "",
+    "formula": "C10H20O",
+    "counts": {
+      "C": 10,
+      "H": 20,
+      "O": 1
+    },
+    "description": "It gives mint products a cooling sensation.",
+    "uses": [
+      "It gives mint products a cooling sensation."
+    ],
+    "funFact": "3 different elements appear in this formula, with 31 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 1254,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/1254"
+  },
+  {
+    "id": "cinnamaldehyde",
+    "name": "Cinnamaldehyde",
+    "commonName": "",
+    "formula": "C9H8O",
+    "counts": {
+      "C": 9,
+      "H": 8,
+      "O": 1
+    },
+    "description": "It helps give cinnamon its smell.",
+    "uses": [
+      "It helps give cinnamon its smell."
+    ],
+    "funFact": "3 different elements appear in this formula, with 18 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 637511,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/637511"
+  },
+  {
+    "id": "glutaric-acid",
+    "name": "Glutaric acid",
+    "commonName": "",
+    "formula": "C5H8O4",
+    "counts": {
+      "C": 5,
+      "H": 8,
+      "O": 4
+    },
+    "description": "It is used in polymer chemistry.",
+    "uses": [
+      "It is used in polymer chemistry."
+    ],
+    "funFact": "3 different elements appear in this formula, with 17 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 743,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/743"
+  },
+  {
+    "id": "adipic-acid",
+    "name": "Adipic acid",
+    "commonName": "",
+    "formula": "C6H10O4",
+    "counts": {
+      "C": 6,
+      "H": 10,
+      "O": 4
+    },
+    "description": "It is used to make some kinds of nylon.",
+    "uses": [
+      "It is used to make some kinds of nylon."
+    ],
+    "funFact": "3 different elements appear in this formula, with 20 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 196,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/196"
+  },
+  {
+    "id": "salicylic-acid",
+    "name": "Salicylic acid",
+    "commonName": "",
+    "formula": "C7H6O3",
+    "counts": {
+      "C": 7,
+      "H": 6,
+      "O": 3
+    },
+    "description": "It is used in some skin-care products.",
+    "uses": [
+      "It is used in some skin-care products."
+    ],
+    "funFact": "3 different elements appear in this formula, with 16 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 338,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/338"
+  },
+  {
+    "id": "methyl-benzoate",
+    "name": "Methyl benzoate",
+    "commonName": "",
+    "formula": "C8H8O2",
+    "counts": {
+      "C": 8,
+      "H": 8,
+      "O": 2
+    },
+    "description": "It is used in fragrance chemistry.",
+    "uses": [
+      "It is used in fragrance chemistry."
+    ],
+    "funFact": "3 different elements appear in this formula, with 18 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 7150,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/7150"
+  },
+  {
+    "id": "ethyl-acetate",
+    "name": "Ethyl acetate",
+    "commonName": "",
+    "formula": "C4H8O2",
+    "counts": {
+      "C": 4,
+      "H": 8,
+      "O": 2
+    },
+    "description": "It is used in some glues and solvents.",
+    "uses": [
+      "It is used in some glues and solvents."
+    ],
+    "funFact": "3 different elements appear in this formula, with 14 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 8857,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/8857"
+  },
+  {
+    "id": "butyric-acid",
+    "name": "Butyric acid",
+    "commonName": "",
+    "formula": "C4H8O2",
+    "counts": {
+      "C": 4,
+      "H": 8,
+      "O": 2
+    },
+    "description": "It occurs in small amounts in butter.",
+    "uses": [
+      "It occurs in small amounts in butter."
+    ],
+    "funFact": "3 different elements appear in this formula, with 14 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 264,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/264"
+  },
+  {
+    "id": "propionic-acid",
+    "name": "Propionic acid",
+    "commonName": "",
+    "formula": "C3H6O2",
+    "counts": {
+      "C": 3,
+      "H": 6,
+      "O": 2
+    },
+    "description": "It is used in some food-preservation systems.",
+    "uses": [
+      "It is used in some food-preservation systems."
+    ],
+    "funFact": "3 different elements appear in this formula, with 11 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 1032,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/1032"
+  },
+  {
+    "id": "sodium-benzoate",
+    "name": "Sodium benzoate",
+    "commonName": "",
+    "formula": "C7H5NaO2",
+    "counts": {
+      "C": 7,
+      "H": 5,
+      "Na": 1,
+      "O": 2
+    },
+    "description": "It is used as a preservative in some foods.",
+    "uses": [
+      "It is used as a preservative in some foods."
+    ],
+    "funFact": "4 different elements appear in this formula, with 15 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 517055,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/517055"
+  },
+  {
+    "id": "potassium-sorbate",
+    "name": "Potassium sorbate",
+    "commonName": "",
+    "formula": "C6H7KO2",
+    "counts": {
+      "C": 6,
+      "H": 7,
+      "K": 1,
+      "O": 2
+    },
+    "description": "It helps preserve some foods.",
+    "uses": [
+      "It helps preserve some foods."
+    ],
+    "funFact": "4 different elements appear in this formula, with 16 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 23676745,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/23676745"
+  },
+  {
+    "id": "sorbic-acid",
+    "name": "Sorbic acid",
+    "commonName": "",
+    "formula": "C6H8O2",
+    "counts": {
+      "C": 6,
+      "H": 8,
+      "O": 2
+    },
+    "description": "It is used in some food-preservation systems.",
+    "uses": [
+      "It is used in some food-preservation systems."
+    ],
+    "funFact": "3 different elements appear in this formula, with 16 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 643460,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/643460"
+  },
+  {
+    "id": "trisodium-citrate",
+    "name": "Trisodium citrate",
+    "commonName": "",
+    "formula": "C6H5Na3O7",
+    "counts": {
+      "C": 6,
+      "H": 5,
+      "Na": 3,
+      "O": 7
+    },
+    "description": "It helps control acidity in some foods.",
+    "uses": [
+      "It helps control acidity in some foods."
+    ],
+    "funFact": "4 different elements appear in this formula, with 21 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 6224,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/6224"
+  },
+  {
+    "id": "potassium-hydrogen-tartrate",
+    "name": "Potassium hydrogen tartrate",
+    "commonName": "Cream of tartar",
+    "formula": "C4H5KO6",
+    "counts": {
+      "C": 4,
+      "H": 5,
+      "K": 1,
+      "O": 6
+    },
+    "description": "Cream of tartar is used in baking.",
+    "uses": [
+      "Cream of tartar is used in baking."
+    ],
+    "funFact": "4 different elements appear in this formula, with 16 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 23666342,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/23666342"
+  },
+  {
+    "id": "sodium-acetate",
+    "name": "Sodium acetate",
+    "commonName": "",
+    "formula": "C2H3NaO2",
+    "counts": {
+      "C": 2,
+      "H": 3,
+      "Na": 1,
+      "O": 2
+    },
+    "description": "Its hydrated form is used in some reusable hand warmers.",
+    "uses": [
+      "Its hydrated form is used in some reusable hand warmers."
+    ],
+    "funFact": "4 different elements appear in this formula, with 8 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 31372,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/31372"
+  },
+  {
+    "id": "calcium-acetate",
+    "name": "Calcium acetate",
+    "commonName": "",
+    "formula": "Ca(C2H3O2)2",
+    "counts": {
+      "Ca": 1,
+      "C": 4,
+      "H": 6,
+      "O": 4
+    },
+    "description": "It is used in specialist manufacturing.",
+    "uses": [
+      "It is used in specialist manufacturing."
+    ],
+    "funFact": "4 different elements appear in this formula, with 15 atoms in one formula unit.",
+    "category": "Ionic compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 6116,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/6116"
+  },
+  {
+    "id": "taurine",
+    "name": "Taurine",
+    "commonName": "",
+    "formula": "C2H7NO3S",
+    "counts": {
+      "C": 2,
+      "H": 7,
+      "N": 1,
+      "O": 3,
+      "S": 1
+    },
+    "description": "It occurs naturally in the body.",
+    "uses": [
+      "It occurs naturally in the body."
+    ],
+    "funFact": "5 different elements appear in this formula, with 14 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 1123,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/1123"
+  },
+  {
+    "id": "serine",
+    "name": "Serine",
+    "commonName": "",
+    "formula": "C3H7NO3",
+    "counts": {
+      "C": 3,
+      "H": 7,
+      "N": 1,
+      "O": 3
+    },
+    "description": "It is an amino acid used in proteins.",
+    "uses": [
+      "It is an amino acid used in proteins."
+    ],
+    "funFact": "4 different elements appear in this formula, with 14 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": false,
+    "cid": 5951,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5951"
+  },
+  {
+    "id": "cysteine",
+    "name": "Cysteine",
+    "commonName": "",
+    "formula": "C3H7NO2S",
+    "counts": {
+      "C": 3,
+      "H": 7,
+      "N": 1,
+      "O": 2,
+      "S": 1
+    },
+    "description": "Its sulfur helps some proteins hold their shape.",
+    "uses": [
+      "Its sulfur helps some proteins hold their shape."
+    ],
+    "funFact": "5 different elements appear in this formula, with 14 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 5862,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5862"
+  },
+  {
+    "id": "methionine",
+    "name": "Methionine",
+    "commonName": "",
+    "formula": "C5H11NO2S",
+    "counts": {
+      "C": 5,
+      "H": 11,
+      "N": 1,
+      "O": 2,
+      "S": 1
+    },
+    "description": "It is an amino acid obtained from food.",
+    "uses": [
+      "It is an amino acid obtained from food."
+    ],
+    "funFact": "5 different elements appear in this formula, with 20 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 6137,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/6137"
+  },
+  {
+    "id": "valine",
+    "name": "Valine",
+    "commonName": "",
+    "formula": "C5H11NO2",
+    "counts": {
+      "C": 5,
+      "H": 11,
+      "N": 1,
+      "O": 2
+    },
+    "description": "Your body obtains this amino acid from food proteins.",
+    "uses": [
+      "Your body obtains this amino acid from food proteins."
+    ],
+    "funFact": "4 different elements appear in this formula, with 19 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 6287,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/6287"
+  },
+  {
+    "id": "isoleucine",
+    "name": "Isoleucine",
+    "commonName": "",
+    "formula": "C6H13NO2",
+    "counts": {
+      "C": 6,
+      "H": 13,
+      "N": 1,
+      "O": 2
+    },
+    "description": "It is an amino acid in proteins.",
+    "uses": [
+      "It is an amino acid in proteins."
+    ],
+    "funFact": "4 different elements appear in this formula, with 22 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": false,
+    "cid": 6306,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/6306"
+  },
+  {
+    "id": "lysine",
+    "name": "Lysine",
+    "commonName": "",
+    "formula": "C6H14N2O2",
+    "counts": {
+      "C": 6,
+      "H": 14,
+      "N": 2,
+      "O": 2
+    },
+    "description": "It is an amino acid from food proteins.",
+    "uses": [
+      "It is an amino acid from food proteins."
+    ],
+    "funFact": "4 different elements appear in this formula, with 24 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 5962,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5962"
+  },
+  {
+    "id": "arginine",
+    "name": "Arginine",
+    "commonName": "",
+    "formula": "C6H14N4O2",
+    "counts": {
+      "C": 6,
+      "H": 14,
+      "N": 4,
+      "O": 2
+    },
+    "description": "It is an amino acid used by your body.",
+    "uses": [
+      "It is an amino acid used by your body."
+    ],
+    "funFact": "4 different elements appear in this formula, with 26 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 6322,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/6322"
+  },
+  {
+    "id": "histidine",
+    "name": "Histidine",
+    "commonName": "",
+    "formula": "C6H9N3O2",
+    "counts": {
+      "C": 6,
+      "H": 9,
+      "N": 3,
+      "O": 2
+    },
+    "description": "It is an amino acid in proteins.",
+    "uses": [
+      "It is an amino acid in proteins."
+    ],
+    "funFact": "4 different elements appear in this formula, with 20 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 6274,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/6274"
+  },
+  {
+    "id": "phenylalanine",
+    "name": "Phenylalanine",
+    "commonName": "",
+    "formula": "C9H11NO2",
+    "counts": {
+      "C": 9,
+      "H": 11,
+      "N": 1,
+      "O": 2
+    },
+    "description": "It is an amino acid found in food.",
+    "uses": [
+      "It is an amino acid found in food."
+    ],
+    "funFact": "4 different elements appear in this formula, with 23 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 6140,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/6140"
+  },
+  {
+    "id": "tyrosine",
+    "name": "Tyrosine",
+    "commonName": "",
+    "formula": "C9H11NO3",
+    "counts": {
+      "C": 9,
+      "H": 11,
+      "N": 1,
+      "O": 3
+    },
+    "description": "Your body uses it to make proteins and some messengers.",
+    "uses": [
+      "Your body uses it to make proteins and some messengers."
+    ],
+    "funFact": "4 different elements appear in this formula, with 24 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 6057,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/6057"
+  },
+  {
+    "id": "tryptophan",
+    "name": "Tryptophan",
+    "commonName": "",
+    "formula": "C11H12N2O2",
+    "counts": {
+      "C": 11,
+      "H": 12,
+      "N": 2,
+      "O": 2
+    },
+    "description": "It is an amino acid found in many foods.",
+    "uses": [
+      "It is an amino acid found in many foods."
+    ],
+    "funFact": "4 different elements appear in this formula, with 27 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 6305,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/6305"
+  },
+  {
+    "id": "aspartic-acid",
+    "name": "Aspartic acid",
+    "commonName": "",
+    "formula": "C4H7NO4",
+    "counts": {
+      "C": 4,
+      "H": 7,
+      "N": 1,
+      "O": 4
+    },
+    "description": "It is an amino acid in proteins.",
+    "uses": [
+      "It is an amino acid in proteins."
+    ],
+    "funFact": "4 different elements appear in this formula, with 16 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 5960,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5960"
+  },
+  {
+    "id": "asparagine",
+    "name": "Asparagine",
+    "commonName": "",
+    "formula": "C4H8N2O3",
+    "counts": {
+      "C": 4,
+      "H": 8,
+      "N": 2,
+      "O": 3
+    },
+    "description": "This amino acid was first found in asparagus juice.",
+    "uses": [
+      "This amino acid was first found in asparagus juice."
+    ],
+    "funFact": "4 different elements appear in this formula, with 17 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 6267,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/6267"
+  },
+  {
+    "id": "glutamine",
+    "name": "Glutamine",
+    "commonName": "",
+    "formula": "C5H10N2O3",
+    "counts": {
+      "C": 5,
+      "H": 10,
+      "N": 2,
+      "O": 3
+    },
+    "description": "It helps move nitrogen around the body.",
+    "uses": [
+      "It helps move nitrogen around the body."
+    ],
+    "funFact": "4 different elements appear in this formula, with 20 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 5961,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5961"
+  },
+  {
+    "id": "proline",
+    "name": "Proline",
+    "commonName": "",
+    "formula": "C5H9NO2",
+    "counts": {
+      "C": 5,
+      "H": 9,
+      "N": 1,
+      "O": 2
+    },
+    "description": "It is an amino acid in collagen.",
+    "uses": [
+      "It is an amino acid in collagen."
+    ],
+    "funFact": "4 different elements appear in this formula, with 17 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": false,
+    "cid": 145742,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/145742"
+  },
+  {
+    "id": "threonine",
+    "name": "Threonine",
+    "commonName": "",
+    "formula": "C4H9NO3",
+    "counts": {
+      "C": 4,
+      "H": 9,
+      "N": 1,
+      "O": 3
+    },
+    "description": "It is an amino acid obtained from food.",
+    "uses": [
+      "It is an amino acid obtained from food."
+    ],
+    "funFact": "4 different elements appear in this formula, with 17 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 6288,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/6288"
+  },
+  {
+    "id": "adenine",
+    "name": "Adenine",
+    "commonName": "",
+    "formula": "C5H5N5",
+    "counts": {
+      "C": 5,
+      "H": 5,
+      "N": 5
+    },
+    "description": "This DNA building block pairs with thymine.",
+    "uses": [
+      "This DNA building block pairs with thymine."
+    ],
+    "funFact": "3 different elements appear in this formula, with 15 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 190,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/190"
+  },
+  {
+    "id": "guanine",
+    "name": "Guanine",
+    "commonName": "",
+    "formula": "C5H5N5O",
+    "counts": {
+      "C": 5,
+      "H": 5,
+      "N": 5,
+      "O": 1
+    },
+    "description": "This DNA building block pairs with cytosine.",
+    "uses": [
+      "This DNA building block pairs with cytosine."
+    ],
+    "funFact": "4 different elements appear in this formula, with 16 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 135398634,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/135398634"
+  },
+  {
+    "id": "cytosine",
+    "name": "Cytosine",
+    "commonName": "",
+    "formula": "C4H5N3O",
+    "counts": {
+      "C": 4,
+      "H": 5,
+      "N": 3,
+      "O": 1
+    },
+    "description": "This is one of the building blocks of DNA.",
+    "uses": [
+      "This is one of the building blocks of DNA."
+    ],
+    "funFact": "4 different elements appear in this formula, with 13 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 597,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/597"
+  },
+  {
+    "id": "thymine",
+    "name": "Thymine",
+    "commonName": "",
+    "formula": "C5H6N2O2",
+    "counts": {
+      "C": 5,
+      "H": 6,
+      "N": 2,
+      "O": 2
+    },
+    "description": "This is one of the building blocks of DNA.",
+    "uses": [
+      "This is one of the building blocks of DNA."
+    ],
+    "funFact": "4 different elements appear in this formula, with 15 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 1135,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/1135"
+  },
+  {
+    "id": "uracil",
+    "name": "Uracil",
+    "commonName": "",
+    "formula": "C4H4N2O2",
+    "counts": {
+      "C": 4,
+      "H": 4,
+      "N": 2,
+      "O": 2
+    },
+    "description": "This is a building block of RNA.",
+    "uses": [
+      "This is a building block of RNA."
+    ],
+    "funFact": "4 different elements appear in this formula, with 12 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 1174,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/1174"
+  },
+  {
+    "id": "ribose",
+    "name": "Ribose",
+    "commonName": "",
+    "formula": "C5H10O5",
+    "counts": {
+      "C": 5,
+      "H": 10,
+      "O": 5
+    },
+    "description": "This sugar is part of RNA.",
+    "uses": [
+      "This sugar is part of RNA."
+    ],
+    "funFact": "3 different elements appear in this formula, with 20 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": false,
+    "cid": 10975657,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/10975657"
+  },
+  {
+    "id": "2-deoxyribose",
+    "name": "2-Deoxyribose",
+    "commonName": "",
+    "formula": "C5H10O4",
+    "counts": {
+      "C": 5,
+      "H": 10,
+      "O": 4
+    },
+    "description": "This sugar is part of DNA.",
+    "uses": [
+      "This sugar is part of DNA."
+    ],
+    "funFact": "3 different elements appear in this formula, with 19 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": false,
+    "cid": 5460005,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5460005"
+  },
+  {
+    "id": "sorbitol",
+    "name": "Sorbitol",
+    "commonName": "",
+    "formula": "C6H14O6",
+    "counts": {
+      "C": 6,
+      "H": 14,
+      "O": 6
+    },
+    "description": "It occurs in some fruit and sugar-free products.",
+    "uses": [
+      "It occurs in some fruit and sugar-free products."
+    ],
+    "funFact": "3 different elements appear in this formula, with 26 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": false,
+    "cid": 5780,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5780"
+  },
+  {
+    "id": "xylitol",
+    "name": "Xylitol",
+    "commonName": "",
+    "formula": "C5H12O5",
+    "counts": {
+      "C": 5,
+      "H": 12,
+      "O": 5
+    },
+    "description": "It is used in some sugar-free products and is dangerous for dogs.",
+    "uses": [
+      "It is used in some sugar-free products and is dangerous for dogs."
+    ],
+    "funFact": "3 different elements appear in this formula, with 22 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 6912,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/6912"
+  },
+  {
+    "id": "erythritol",
+    "name": "Erythritol",
+    "commonName": "",
+    "formula": "C4H10O4",
+    "counts": {
+      "C": 4,
+      "H": 10,
+      "O": 4
+    },
+    "description": "It is used in some sweetened foods.",
+    "uses": [
+      "It is used in some sweetened foods."
+    ],
+    "funFact": "3 different elements appear in this formula, with 18 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": false,
+    "cid": 222285,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/222285"
+  },
+  {
+    "id": "mannitol",
+    "name": "Mannitol",
+    "commonName": "",
+    "formula": "C6H14O6",
+    "counts": {
+      "C": 6,
+      "H": 14,
+      "O": 6
+    },
+    "description": "It occurs in plants and is used in medicine.",
+    "uses": [
+      "It occurs in plants and is used in medicine."
+    ],
+    "funFact": "3 different elements appear in this formula, with 26 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": false,
+    "cid": 6251,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/6251"
+  },
+  {
+    "id": "stearic-acid",
+    "name": "Stearic acid",
+    "commonName": "",
+    "formula": "C18H36O2",
+    "counts": {
+      "C": 18,
+      "H": 36,
+      "O": 2
+    },
+    "description": "It occurs in fats and is used in some candles.",
+    "uses": [
+      "It occurs in fats and is used in some candles."
+    ],
+    "funFact": "3 different elements appear in this formula, with 56 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 5281,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5281"
+  },
+  {
+    "id": "palmitic-acid",
+    "name": "Palmitic acid",
+    "commonName": "",
+    "formula": "C16H32O2",
+    "counts": {
+      "C": 16,
+      "H": 32,
+      "O": 2
+    },
+    "description": "It is found in many natural fats.",
+    "uses": [
+      "It is found in many natural fats."
+    ],
+    "funFact": "3 different elements appear in this formula, with 50 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 985,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/985"
+  },
+  {
+    "id": "oleic-acid",
+    "name": "Oleic acid",
+    "commonName": "",
+    "formula": "C18H34O2",
+    "counts": {
+      "C": 18,
+      "H": 34,
+      "O": 2
+    },
+    "description": "It is a major fatty acid in olive oil.",
+    "uses": [
+      "It is a major fatty acid in olive oil."
+    ],
+    "funFact": "3 different elements appear in this formula, with 54 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 445639,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/445639"
+  },
+  {
+    "id": "linoleic-acid",
+    "name": "Linoleic acid",
+    "commonName": "",
+    "formula": "C18H32O2",
+    "counts": {
+      "C": 18,
+      "H": 32,
+      "O": 2
+    },
+    "description": "It is found in many plant oils.",
+    "uses": [
+      "It is found in many plant oils."
+    ],
+    "funFact": "3 different elements appear in this formula, with 52 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 5280450,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5280450"
+  },
+  {
+    "id": "cholesterol",
+    "name": "Cholesterol",
+    "commonName": "",
+    "formula": "C27H46O",
+    "counts": {
+      "C": 27,
+      "H": 46,
+      "O": 1
+    },
+    "description": "It is part of animal cell membranes.",
+    "uses": [
+      "It is part of animal cell membranes."
+    ],
+    "funFact": "3 different elements appear in this formula, with 74 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 5997,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/5997"
+  },
+  {
+    "id": "isobutane",
+    "name": "Isobutane",
+    "commonName": "",
+    "formula": "C4H10",
+    "counts": {
+      "C": 4,
+      "H": 10
+    },
+    "description": "It is used in some cooling systems.",
+    "uses": [
+      "It is used in some cooling systems."
+    ],
+    "funFact": "2 different elements appear in this formula, with 14 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 6360,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/6360"
+  },
+  {
+    "id": "cyclopropane",
+    "name": "Cyclopropane",
+    "commonName": "",
+    "formula": "C3H6",
+    "counts": {
+      "C": 3,
+      "H": 6
+    },
+    "description": "Its three carbon atoms form a triangle.",
+    "uses": [
+      "Its three carbon atoms form a triangle."
+    ],
+    "funFact": "2 different elements appear in this formula, with 9 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 6351,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/6351"
+  },
+  {
+    "id": "methyl-formate",
+    "name": "Methyl formate",
+    "commonName": "",
+    "formula": "C2H4O2",
+    "counts": {
+      "C": 2,
+      "H": 4,
+      "O": 2
+    },
+    "description": "It is used in industrial chemistry.",
+    "uses": [
+      "It is used in industrial chemistry."
+    ],
+    "funFact": "3 different elements appear in this formula, with 8 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 7865,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/7865"
+  },
+  {
+    "id": "dimethyl-ether",
+    "name": "Dimethyl ether",
+    "commonName": "",
+    "formula": "C2H6O",
+    "counts": {
+      "C": 2,
+      "H": 6,
+      "O": 1
+    },
+    "description": "It is used as a propellant in some sprays.",
+    "uses": [
+      "It is used as a propellant in some sprays."
+    ],
+    "funFact": "It is an isomer of ethanol.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 8254,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/8254"
+  },
+  {
+    "id": "propanal",
+    "name": "Propanal",
+    "commonName": "",
+    "formula": "C3H6O",
+    "counts": {
+      "C": 3,
+      "H": 6,
+      "O": 1
+    },
+    "description": "It is used in chemical manufacturing.",
+    "uses": [
+      "It is used in chemical manufacturing."
+    ],
+    "funFact": "3 different elements appear in this formula, with 10 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 527,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/527"
+  },
+  {
+    "id": "galactose",
+    "name": "Galactose",
+    "commonName": "",
+    "formula": "C6H12O6",
+    "counts": {
+      "C": 6,
+      "H": 12,
+      "O": 6
+    },
+    "description": "It is one of the sugars that make up lactose.",
+    "uses": [
+      "It is one of the sugars that make up lactose."
+    ],
+    "funFact": "It shares its formula with glucose and fructose.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": false,
+    "cid": 6036,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/6036"
+  },
+  {
+    "id": "2-propanol",
+    "name": "2-Propanol",
+    "commonName": "",
+    "formula": "C3H8O",
+    "counts": {
+      "C": 3,
+      "H": 8,
+      "O": 1
+    },
+    "description": "It is found in some disinfectants.",
+    "uses": [
+      "It is found in some disinfectants."
+    ],
+    "funFact": "3 different elements appear in this formula, with 12 atoms in one molecule.",
+    "category": "Molecular compound",
+    "level": 3,
+    "rarity": "Rare",
+    "hazardous": true,
+    "cid": 3776,
+    "source": "https://pubchem.ncbi.nlm.nih.gov/compound/3776"
+  }
+]

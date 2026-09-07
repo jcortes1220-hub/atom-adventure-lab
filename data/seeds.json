@@ -1,0 +1,2490 @@
+[
+  {
+    "formula": "H2",
+    "name": "Hydrogen",
+    "commonName": "",
+    "level": 1,
+    "use": "Stars contain huge amounts of hydrogen.",
+    "id": "hydrogen"
+  },
+  {
+    "formula": "O2",
+    "name": "Oxygen",
+    "commonName": "",
+    "level": 1,
+    "use": "Animals use oxygen from the air to stay alive.",
+    "id": "oxygen"
+  },
+  {
+    "formula": "N2",
+    "name": "Nitrogen",
+    "commonName": "",
+    "level": 1,
+    "use": "Most of the air around you is nitrogen.",
+    "id": "nitrogen"
+  },
+  {
+    "formula": "Cl2",
+    "name": "Chlorine",
+    "commonName": "",
+    "level": 1,
+    "use": "Scientists use chlorine to help treat drinking water.",
+    "id": "chlorine"
+  },
+  {
+    "formula": "F2",
+    "name": "Fluorine",
+    "commonName": "",
+    "level": 1,
+    "use": "It is studied in special laboratories.",
+    "id": "fluorine"
+  },
+  {
+    "formula": "Br2",
+    "name": "Bromine",
+    "commonName": "",
+    "level": 1,
+    "use": "It is used to make other useful chemicals.",
+    "id": "bromine"
+  },
+  {
+    "formula": "I2",
+    "name": "Iodine",
+    "commonName": "",
+    "level": 1,
+    "use": "Iodine compounds help our bodies work.",
+    "id": "iodine"
+  },
+  {
+    "formula": "H2O",
+    "name": "Water",
+    "commonName": "",
+    "level": 1,
+    "use": "Water fills oceans and helps almost every living thing survive.",
+    "id": "water"
+  },
+  {
+    "formula": "CO2",
+    "name": "Carbon dioxide",
+    "commonName": "",
+    "level": 1,
+    "use": "Plants use carbon dioxide to help make their food.",
+    "id": "carbon-dioxide"
+  },
+  {
+    "formula": "NaCl",
+    "name": "Sodium chloride",
+    "commonName": "table salt",
+    "level": 1,
+    "use": "This salt is found in seawater and salt crystals.",
+    "id": "sodium-chloride"
+  },
+  {
+    "formula": "NH3",
+    "name": "Ammonia",
+    "commonName": "",
+    "level": 1,
+    "use": "It is used to make plant fertilizers.",
+    "id": "ammonia"
+  },
+  {
+    "formula": "CH4",
+    "name": "Methane",
+    "commonName": "",
+    "level": 1,
+    "use": "It is a main part of natural gas.",
+    "id": "methane"
+  },
+  {
+    "formula": "H2O2",
+    "name": "Hydrogen peroxide",
+    "commonName": "",
+    "level": 1,
+    "use": "It is found in some disinfectants.",
+    "id": "hydrogen-peroxide"
+  },
+  {
+    "formula": "NaHCO3",
+    "name": "Sodium bicarbonate",
+    "commonName": "baking soda",
+    "level": 1,
+    "use": "Baking soda is used in baking.",
+    "id": "sodium-bicarbonate"
+  },
+  {
+    "formula": "CaCO3",
+    "name": "Calcium carbonate",
+    "commonName": "",
+    "level": 1,
+    "use": "Limestone, chalk, and many seashells contain it.",
+    "id": "calcium-carbonate"
+  },
+  {
+    "formula": "SiO2",
+    "name": "Silicon dioxide",
+    "commonName": "",
+    "level": 1,
+    "use": "Quartz and much beach sand contain it.",
+    "id": "silicon-dioxide"
+  },
+  {
+    "formula": "MgO",
+    "name": "Magnesium oxide",
+    "commonName": "",
+    "level": 1,
+    "use": "It lines some very hot industrial furnaces.",
+    "id": "magnesium-oxide"
+  },
+  {
+    "formula": "CaO",
+    "name": "Calcium oxide",
+    "commonName": "",
+    "level": 1,
+    "use": "It is used in making cement.",
+    "id": "calcium-oxide"
+  },
+  {
+    "formula": "Fe2O3",
+    "name": "Iron(III) oxide",
+    "commonName": "rust",
+    "level": 1,
+    "use": "It occurs in hematite and is related to rusty materials.",
+    "id": "iron-iii-oxide"
+  },
+  {
+    "formula": "CO",
+    "name": "Carbon monoxide",
+    "commonName": "",
+    "level": 1,
+    "use": "This dangerous gas can occur when fuels burn incompletely.",
+    "id": "carbon-monoxide"
+  },
+  {
+    "formula": "Na2CO3",
+    "name": "Sodium carbonate",
+    "commonName": "",
+    "level": 2,
+    "use": "It is used in glassmaking and cleaners.",
+    "id": "sodium-carbonate"
+  },
+  {
+    "formula": "KCl",
+    "name": "Potassium chloride",
+    "commonName": "",
+    "level": 2,
+    "use": "It occurs in minerals and fertilizers.",
+    "id": "potassium-chloride"
+  },
+  {
+    "formula": "KI",
+    "name": "Potassium iodide",
+    "commonName": "",
+    "level": 2,
+    "use": "Small amounts can supply iodine in iodized salt.",
+    "id": "potassium-iodide"
+  },
+  {
+    "formula": "KBr",
+    "name": "Potassium bromide",
+    "commonName": "",
+    "level": 2,
+    "use": "It has been used in photography.",
+    "id": "potassium-bromide"
+  },
+  {
+    "formula": "CaCl2",
+    "name": "Calcium chloride",
+    "commonName": "",
+    "level": 2,
+    "use": "It helps keep some roads free of ice.",
+    "id": "calcium-chloride"
+  },
+  {
+    "formula": "MgCl2",
+    "name": "Magnesium chloride",
+    "commonName": "",
+    "level": 2,
+    "use": "It is found in seawater.",
+    "id": "magnesium-chloride"
+  },
+  {
+    "formula": "MgSO4",
+    "name": "Magnesium sulfate",
+    "commonName": "",
+    "level": 2,
+    "use": "It occurs in minerals and plant nutrients.",
+    "id": "magnesium-sulfate"
+  },
+  {
+    "formula": "Na2SO4",
+    "name": "Sodium sulfate",
+    "commonName": "",
+    "level": 2,
+    "use": "It is used in some detergents and glassmaking.",
+    "id": "sodium-sulfate"
+  },
+  {
+    "formula": "K2SO4",
+    "name": "Potassium sulfate",
+    "commonName": "",
+    "level": 2,
+    "use": "It supplies nutrients in fertilizers.",
+    "id": "potassium-sulfate"
+  },
+  {
+    "formula": "CaSO4",
+    "name": "Calcium sulfate",
+    "commonName": "",
+    "level": 2,
+    "use": "It is used in building materials.",
+    "id": "calcium-sulfate"
+  },
+  {
+    "formula": "CuSO4",
+    "name": "Copper(II) sulfate",
+    "commonName": "",
+    "level": 2,
+    "use": "Its water-containing crystals are often blue.",
+    "id": "copper-ii-sulfate"
+  },
+  {
+    "formula": "FeSO4",
+    "name": "Iron(II) sulfate",
+    "commonName": "",
+    "level": 2,
+    "use": "It is used in some iron supplements and fertilizers.",
+    "id": "iron-ii-sulfate"
+  },
+  {
+    "formula": "Fe2(SO4)3",
+    "name": "Iron(III) sulfate",
+    "commonName": "",
+    "level": 2,
+    "use": "It is used in water treatment.",
+    "id": "iron-iii-sulfate"
+  },
+  {
+    "formula": "ZnSO4",
+    "name": "Zinc sulfate",
+    "commonName": "",
+    "level": 2,
+    "use": "It supplies zinc in some fertilizers.",
+    "id": "zinc-sulfate"
+  },
+  {
+    "formula": "Al2(SO4)3",
+    "name": "Aluminum sulfate",
+    "commonName": "",
+    "level": 2,
+    "use": "It helps remove tiny particles during water treatment.",
+    "id": "aluminum-sulfate"
+  },
+  {
+    "formula": "NaNO3",
+    "name": "Sodium nitrate",
+    "commonName": "",
+    "level": 2,
+    "use": "It occurs in mineral deposits and fertilizers.",
+    "id": "sodium-nitrate"
+  },
+  {
+    "formula": "KNO3",
+    "name": "Potassium nitrate",
+    "commonName": "",
+    "level": 2,
+    "use": "It is used in some fertilizers.",
+    "id": "potassium-nitrate"
+  },
+  {
+    "formula": "Ca(NO3)2",
+    "name": "Calcium nitrate",
+    "commonName": "",
+    "level": 2,
+    "use": "It supplies nutrients to plants.",
+    "id": "calcium-nitrate"
+  },
+  {
+    "formula": "AgNO3",
+    "name": "Silver nitrate",
+    "commonName": "",
+    "level": 2,
+    "use": "It is used in laboratory analysis.",
+    "id": "silver-nitrate"
+  },
+  {
+    "formula": "NH4NO3",
+    "name": "Ammonium nitrate",
+    "commonName": "",
+    "level": 2,
+    "use": "It is used in some fertilizers.",
+    "id": "ammonium-nitrate"
+  },
+  {
+    "formula": "NH4Cl",
+    "name": "Ammonium chloride",
+    "commonName": "",
+    "level": 2,
+    "use": "It is used in some batteries.",
+    "id": "ammonium-chloride"
+  },
+  {
+    "formula": "NaOH",
+    "name": "Sodium hydroxide",
+    "commonName": "",
+    "level": 2,
+    "use": "Industry uses it to make soap and paper.",
+    "id": "sodium-hydroxide"
+  },
+  {
+    "formula": "KOH",
+    "name": "Potassium hydroxide",
+    "commonName": "",
+    "level": 2,
+    "use": "It is used in some batteries.",
+    "id": "potassium-hydroxide"
+  },
+  {
+    "formula": "Ca(OH)2",
+    "name": "Calcium hydroxide",
+    "commonName": "",
+    "level": 2,
+    "use": "It is used in mortar and water treatment.",
+    "id": "calcium-hydroxide"
+  },
+  {
+    "formula": "Mg(OH)2",
+    "name": "Magnesium hydroxide",
+    "commonName": "",
+    "level": 2,
+    "use": "It is found in some antacid medicines.",
+    "id": "magnesium-hydroxide"
+  },
+  {
+    "formula": "Al(OH)3",
+    "name": "Aluminum hydroxide",
+    "commonName": "",
+    "level": 2,
+    "use": "It occurs in minerals and some antacids.",
+    "id": "aluminum-hydroxide"
+  },
+  {
+    "formula": "HCl",
+    "name": "Hydrogen chloride",
+    "commonName": "",
+    "level": 2,
+    "use": "Dissolved in water it forms hydrochloric acid.",
+    "id": "hydrogen-chloride"
+  },
+  {
+    "formula": "HF",
+    "name": "Hydrogen fluoride",
+    "commonName": "",
+    "level": 2,
+    "use": "It is used only with special care in industry.",
+    "id": "hydrogen-fluoride"
+  },
+  {
+    "formula": "HBr",
+    "name": "Hydrogen bromide",
+    "commonName": "",
+    "level": 2,
+    "use": "It is used to make other chemicals.",
+    "id": "hydrogen-bromide"
+  },
+  {
+    "formula": "HI",
+    "name": "Hydrogen iodide",
+    "commonName": "",
+    "level": 2,
+    "use": "It is studied in laboratories.",
+    "id": "hydrogen-iodide"
+  },
+  {
+    "formula": "H2SO4",
+    "name": "Sulfuric acid",
+    "commonName": "",
+    "level": 2,
+    "use": "It is used in some vehicle batteries.",
+    "id": "sulfuric-acid"
+  },
+  {
+    "formula": "HNO3",
+    "name": "Nitric acid",
+    "commonName": "",
+    "level": 2,
+    "use": "It is used to make fertilizers.",
+    "id": "nitric-acid"
+  },
+  {
+    "formula": "H3PO4",
+    "name": "Phosphoric acid",
+    "commonName": "",
+    "level": 2,
+    "use": "It is used in fertilizer production.",
+    "id": "phosphoric-acid"
+  },
+  {
+    "formula": "H2CO3",
+    "name": "Carbonic acid",
+    "commonName": "",
+    "level": 2,
+    "use": "Small amounts form when carbon dioxide dissolves in water.",
+    "id": "carbonic-acid"
+  },
+  {
+    "formula": "H2S",
+    "name": "Hydrogen sulfide",
+    "commonName": "",
+    "level": 2,
+    "use": "It occurs in some volcanic gases.",
+    "id": "hydrogen-sulfide"
+  },
+  {
+    "formula": "SO2",
+    "name": "Sulfur dioxide",
+    "commonName": "",
+    "level": 2,
+    "use": "It occurs in volcanic gases.",
+    "id": "sulfur-dioxide"
+  },
+  {
+    "formula": "SO3",
+    "name": "Sulfur trioxide",
+    "commonName": "",
+    "level": 2,
+    "use": "Industry uses it in making sulfuric acid.",
+    "id": "sulfur-trioxide"
+  },
+  {
+    "formula": "NO",
+    "name": "Nitric oxide",
+    "commonName": "",
+    "level": 2,
+    "use": "Tiny amounts act as signals inside our bodies.",
+    "id": "nitric-oxide"
+  },
+  {
+    "formula": "NO2",
+    "name": "Nitrogen dioxide",
+    "commonName": "",
+    "level": 2,
+    "use": "It can occur in polluted air.",
+    "id": "nitrogen-dioxide"
+  },
+  {
+    "formula": "N2O",
+    "name": "Nitrous oxide",
+    "commonName": "",
+    "level": 2,
+    "use": "Dentists sometimes use it with oxygen under medical supervision.",
+    "id": "nitrous-oxide"
+  },
+  {
+    "formula": "N2O3",
+    "name": "Dinitrogen trioxide",
+    "commonName": "",
+    "level": 2,
+    "use": "Scientists study this unstable nitrogen oxide.",
+    "id": "dinitrogen-trioxide"
+  },
+  {
+    "formula": "N2O5",
+    "name": "Dinitrogen pentoxide",
+    "commonName": "",
+    "level": 2,
+    "use": "It is studied in atmospheric chemistry.",
+    "id": "dinitrogen-pentoxide"
+  },
+  {
+    "formula": "P4O10",
+    "name": "Phosphorus pentoxide",
+    "commonName": "",
+    "level": 2,
+    "use": "It is studied in chemical laboratories.",
+    "id": "phosphorus-pentoxide"
+  },
+  {
+    "formula": "PCl3",
+    "name": "Phosphorus trichloride",
+    "commonName": "",
+    "level": 2,
+    "use": "Industry uses it to make other substances.",
+    "id": "phosphorus-trichloride"
+  },
+  {
+    "formula": "PCl5",
+    "name": "Phosphorus pentachloride",
+    "commonName": "",
+    "level": 2,
+    "use": "It is used in specialist chemistry.",
+    "id": "phosphorus-pentachloride"
+  },
+  {
+    "formula": "SF6",
+    "name": "Sulfur hexafluoride",
+    "commonName": "",
+    "level": 2,
+    "use": "It is used as electrical insulation in special equipment.",
+    "id": "sulfur-hexafluoride"
+  },
+  {
+    "formula": "C2H6",
+    "name": "Ethane",
+    "commonName": "",
+    "level": 3,
+    "use": "It is found in natural gas.",
+    "id": "ethane"
+  },
+  {
+    "formula": "C3H8",
+    "name": "Propane",
+    "commonName": "",
+    "level": 3,
+    "use": "It is a fuel stored by trained adults.",
+    "id": "propane"
+  },
+  {
+    "formula": "C4H10",
+    "name": "Butane",
+    "commonName": "",
+    "level": 3,
+    "use": "It is used as a fuel.",
+    "id": "butane"
+  },
+  {
+    "formula": "C5H12",
+    "name": "Pentane",
+    "commonName": "",
+    "level": 3,
+    "use": "It is found in petroleum.",
+    "id": "pentane"
+  },
+  {
+    "formula": "C6H14",
+    "name": "Hexane",
+    "commonName": "",
+    "level": 3,
+    "use": "It is used as an industrial solvent.",
+    "id": "hexane"
+  },
+  {
+    "formula": "C7H16",
+    "name": "Heptane",
+    "commonName": "",
+    "level": 3,
+    "use": "It is found in petroleum.",
+    "id": "heptane"
+  },
+  {
+    "formula": "C8H18",
+    "name": "Octane",
+    "commonName": "",
+    "level": 3,
+    "use": "It is one of many molecules related to gasoline.",
+    "id": "octane"
+  },
+  {
+    "formula": "C2H4",
+    "name": "Ethene",
+    "commonName": "",
+    "level": 3,
+    "use": "Plants use it as a signal for ripening fruit.",
+    "id": "ethene"
+  },
+  {
+    "formula": "C3H6",
+    "name": "Propene",
+    "commonName": "",
+    "level": 3,
+    "use": "It is used to make polypropylene plastic.",
+    "id": "propene"
+  },
+  {
+    "formula": "C2H2",
+    "name": "Ethyne",
+    "commonName": "acetylene",
+    "level": 3,
+    "use": "Trained workers use it in specialist equipment.",
+    "id": "ethyne"
+  },
+  {
+    "formula": "C6H6",
+    "name": "Benzene",
+    "commonName": "",
+    "level": 3,
+    "use": "It is an industrial starting material.",
+    "id": "benzene"
+  },
+  {
+    "formula": "CH3OH",
+    "name": "Methanol",
+    "commonName": "",
+    "level": 3,
+    "use": "It is a poisonous industrial solvent.",
+    "id": "methanol"
+  },
+  {
+    "formula": "C2H5OH",
+    "name": "Ethanol",
+    "commonName": "",
+    "level": 3,
+    "use": "It is found in some disinfectants.",
+    "id": "ethanol"
+  },
+  {
+    "formula": "C3H8O",
+    "name": "1-Propanol",
+    "commonName": "Propanol",
+    "level": 3,
+    "use": "It is used as a solvent.",
+    "id": "1-propanol"
+  },
+  {
+    "formula": "C2H6O2",
+    "name": "Ethylene glycol",
+    "commonName": "",
+    "level": 3,
+    "use": "It is used in engine coolants and is poisonous.",
+    "id": "ethylene-glycol"
+  },
+  {
+    "formula": "C3H8O3",
+    "name": "Glycerol",
+    "commonName": "",
+    "level": 3,
+    "use": "It helps some soaps and lotions hold moisture.",
+    "id": "glycerol"
+  },
+  {
+    "formula": "CH2O",
+    "name": "Formaldehyde",
+    "commonName": "",
+    "level": 3,
+    "use": "It is used to make some industrial materials.",
+    "id": "formaldehyde"
+  },
+  {
+    "formula": "CH3CHO",
+    "name": "Acetaldehyde",
+    "commonName": "",
+    "level": 3,
+    "use": "Small amounts occur in ripe fruit.",
+    "id": "acetaldehyde"
+  },
+  {
+    "formula": "CH3COOH",
+    "name": "Acetic acid",
+    "commonName": "",
+    "level": 3,
+    "use": "Dilute acetic acid gives vinegar its sour character.",
+    "id": "acetic-acid"
+  },
+  {
+    "formula": "HCOOH",
+    "name": "Formic acid",
+    "commonName": "",
+    "level": 3,
+    "use": "Some ants use this substance.",
+    "id": "formic-acid"
+  },
+  {
+    "formula": "C3H6O",
+    "name": "Acetone",
+    "commonName": "",
+    "level": 3,
+    "use": "It is found in some nail-polish removers.",
+    "id": "acetone"
+  },
+  {
+    "formula": "C6H12O6",
+    "name": "Glucose",
+    "commonName": "",
+    "level": 3,
+    "use": "Living things use this sugar for energy.",
+    "id": "glucose"
+  },
+  {
+    "formula": "C6H12O6",
+    "name": "Fructose",
+    "commonName": "",
+    "level": 3,
+    "use": "It occurs in fruit and honey.",
+    "id": "fructose"
+  },
+  {
+    "formula": "C12H22O11",
+    "name": "Sucrose",
+    "commonName": "",
+    "level": 3,
+    "use": "It is found in sugar cane and sugar beets.",
+    "id": "sucrose"
+  },
+  {
+    "formula": "C12H22O11",
+    "name": "Lactose",
+    "commonName": "",
+    "level": 3,
+    "use": "This sugar occurs in milk.",
+    "id": "lactose"
+  },
+  {
+    "formula": "C12H22O11",
+    "name": "Maltose",
+    "commonName": "",
+    "level": 3,
+    "use": "It can form when starch breaks into smaller pieces.",
+    "id": "maltose"
+  },
+  {
+    "formula": "C6H8O7",
+    "name": "Citric acid",
+    "commonName": "",
+    "level": 3,
+    "use": "It gives lemons and other citrus fruits a sour taste.",
+    "id": "citric-acid"
+  },
+  {
+    "formula": "C3H6O3",
+    "name": "Lactic acid",
+    "commonName": "",
+    "level": 3,
+    "use": "It is part of the chemistry of yogurt.",
+    "id": "lactic-acid"
+  },
+  {
+    "formula": "C4H6O6",
+    "name": "Tartaric acid",
+    "commonName": "",
+    "level": 3,
+    "use": "It occurs in grapes.",
+    "id": "tartaric-acid"
+  },
+  {
+    "formula": "C4H6O4",
+    "name": "Succinic acid",
+    "commonName": "",
+    "level": 3,
+    "use": "Living cells use it in energy chemistry.",
+    "id": "succinic-acid"
+  },
+  {
+    "formula": "C2H2O4",
+    "name": "Oxalic acid",
+    "commonName": "",
+    "level": 3,
+    "use": "It occurs in some plants.",
+    "id": "oxalic-acid"
+  },
+  {
+    "formula": "C3H4O4",
+    "name": "Malonic acid",
+    "commonName": "",
+    "level": 3,
+    "use": "Scientists use it to build other molecules.",
+    "id": "malonic-acid"
+  },
+  {
+    "formula": "C7H6O2",
+    "name": "Benzoic acid",
+    "commonName": "",
+    "level": 3,
+    "use": "It is used in some food-preservation systems.",
+    "id": "benzoic-acid"
+  },
+  {
+    "formula": "C8H9NO2",
+    "name": "Acetaminophen",
+    "commonName": "",
+    "level": 3,
+    "use": "It is a medicine given only by a trusted adult as directed.",
+    "id": "acetaminophen"
+  },
+  {
+    "formula": "C9H8O4",
+    "name": "Aspirin",
+    "commonName": "",
+    "level": 3,
+    "use": "It is a medicine used under appropriate medical guidance.",
+    "id": "aspirin"
+  },
+  {
+    "formula": "C8H10N4O2",
+    "name": "Caffeine",
+    "commonName": "",
+    "level": 3,
+    "use": "It occurs in coffee and tea.",
+    "id": "caffeine"
+  },
+  {
+    "formula": "C10H14N2",
+    "name": "Nicotine",
+    "commonName": "",
+    "level": 3,
+    "use": "It occurs in tobacco plants and is addictive and poisonous.",
+    "id": "nicotine"
+  },
+  {
+    "formula": "C9H13NO3",
+    "name": "Epinephrine",
+    "commonName": "",
+    "level": 3,
+    "use": "Your body makes it as a signal during excitement.",
+    "id": "epinephrine"
+  },
+  {
+    "formula": "C8H11NO2",
+    "name": "Dopamine",
+    "commonName": "",
+    "level": 3,
+    "use": "It carries signals between some nerve cells.",
+    "id": "dopamine"
+  },
+  {
+    "formula": "C10H12N2O",
+    "name": "Serotonin",
+    "commonName": "",
+    "level": 3,
+    "use": "It helps carry signals in your body.",
+    "id": "serotonin"
+  },
+  {
+    "formula": "C5H9NO4",
+    "name": "Glutamic acid",
+    "commonName": "",
+    "level": 3,
+    "use": "It is an amino acid used to build proteins.",
+    "id": "glutamic-acid"
+  },
+  {
+    "formula": "C2H5NO2",
+    "name": "Glycine",
+    "commonName": "",
+    "level": 3,
+    "use": "It is the smallest common protein-building amino acid.",
+    "id": "glycine"
+  },
+  {
+    "formula": "C3H7NO2",
+    "name": "Alanine",
+    "commonName": "",
+    "level": 3,
+    "use": "It is one of the building blocks of proteins.",
+    "id": "alanine"
+  },
+  {
+    "formula": "C6H13NO2",
+    "name": "Leucine",
+    "commonName": "",
+    "level": 3,
+    "use": "Your body gets this amino acid from food proteins.",
+    "id": "leucine"
+  },
+  {
+    "formula": "CaSO4·2H2O",
+    "name": "Calcium sulfate dihydrate",
+    "commonName": "Gypsum",
+    "level": 4,
+    "use": "Gypsum is used in drywall and plaster products.",
+    "id": "calcium-sulfate-dihydrate"
+  },
+  {
+    "formula": "MgCO3",
+    "name": "Magnesite",
+    "commonName": "",
+    "level": 4,
+    "use": "It is a magnesium mineral.",
+    "id": "magnesite"
+  },
+  {
+    "formula": "Fe3O4",
+    "name": "Iron(II,III) oxide",
+    "commonName": "Magnetite",
+    "level": 4,
+    "use": "Some of this iron mineral is naturally magnetic.",
+    "id": "iron-ii-iii-oxide"
+  },
+  {
+    "formula": "Al2O3",
+    "name": "Aluminum oxide",
+    "commonName": "corundum",
+    "level": 4,
+    "use": "Ruby and sapphire are varieties of corundum.",
+    "id": "aluminum-oxide"
+  },
+  {
+    "formula": "TiO2",
+    "name": "Titanium dioxide",
+    "commonName": "",
+    "level": 4,
+    "use": "It is used as a white pigment in many paints.",
+    "id": "titanium-dioxide"
+  },
+  {
+    "formula": "ZnO",
+    "name": "Zinc oxide",
+    "commonName": "",
+    "level": 4,
+    "use": "It is found in some sunscreens.",
+    "id": "zinc-oxide"
+  },
+  {
+    "formula": "Cu2O",
+    "name": "Copper(I) oxide",
+    "commonName": "",
+    "level": 4,
+    "use": "It occurs in the red mineral cuprite.",
+    "id": "copper-i-oxide"
+  },
+  {
+    "formula": "CuO",
+    "name": "Copper(II) oxide",
+    "commonName": "",
+    "level": 4,
+    "use": "It occurs in the dark mineral tenorite.",
+    "id": "copper-ii-oxide"
+  },
+  {
+    "formula": "MnO2",
+    "name": "Manganese dioxide",
+    "commonName": "",
+    "level": 4,
+    "use": "It is used in some batteries.",
+    "id": "manganese-dioxide"
+  },
+  {
+    "formula": "PbO",
+    "name": "Lead(II) oxide",
+    "commonName": "",
+    "level": 4,
+    "use": "It is used in specialist industrial materials.",
+    "id": "lead-ii-oxide"
+  },
+  {
+    "formula": "SnO2",
+    "name": "Tin(IV) oxide",
+    "commonName": "",
+    "level": 4,
+    "use": "Cassiterite is an important source of tin.",
+    "id": "tin-iv-oxide"
+  },
+  {
+    "formula": "Cr2O3",
+    "name": "Chromium(III) oxide",
+    "commonName": "",
+    "level": 4,
+    "use": "It is used as a green pigment.",
+    "id": "chromium-iii-oxide"
+  },
+  {
+    "formula": "Ca3(PO4)2",
+    "name": "Tricalcium phosphate",
+    "commonName": "",
+    "level": 4,
+    "use": "It is used in mineral and ceramic materials.",
+    "id": "tricalcium-phosphate"
+  },
+  {
+    "formula": "Na3PO4",
+    "name": "Trisodium phosphate",
+    "commonName": "",
+    "level": 4,
+    "use": "It is used in some industrial cleaners.",
+    "id": "trisodium-phosphate"
+  },
+  {
+    "formula": "K3PO4",
+    "name": "Tripotassium phosphate",
+    "commonName": "",
+    "level": 4,
+    "use": "It is used in specialized industrial chemistry.",
+    "id": "tripotassium-phosphate"
+  },
+  {
+    "formula": "Mg3(PO4)2",
+    "name": "Magnesium phosphate",
+    "commonName": "",
+    "level": 4,
+    "use": "It occurs in mineral chemistry.",
+    "id": "magnesium-phosphate"
+  },
+  {
+    "formula": "CaF2",
+    "name": "Calcium fluoride",
+    "commonName": "",
+    "level": 4,
+    "use": "It occurs in the colorful mineral fluorite.",
+    "id": "calcium-fluoride"
+  },
+  {
+    "formula": "NaF",
+    "name": "Sodium fluoride",
+    "commonName": "",
+    "level": 4,
+    "use": "Tiny controlled amounts are used in some toothpastes.",
+    "id": "sodium-fluoride"
+  },
+  {
+    "formula": "LiF",
+    "name": "Lithium fluoride",
+    "commonName": "",
+    "level": 4,
+    "use": "It is used in special optical materials.",
+    "id": "lithium-fluoride"
+  },
+  {
+    "formula": "MgF2",
+    "name": "Magnesium fluoride",
+    "commonName": "",
+    "level": 4,
+    "use": "It is used in coatings that reduce reflections on lenses.",
+    "id": "magnesium-fluoride"
+  },
+  {
+    "formula": "AlF3",
+    "name": "Aluminum fluoride",
+    "commonName": "",
+    "level": 4,
+    "use": "It is used in aluminum production.",
+    "id": "aluminum-fluoride"
+  },
+  {
+    "formula": "FeS",
+    "name": "Iron(II) sulfide",
+    "commonName": "",
+    "level": 4,
+    "use": "It occurs in mineral chemistry.",
+    "id": "iron-ii-sulfide"
+  },
+  {
+    "formula": "FeS2",
+    "name": "Iron disulfide",
+    "commonName": "pyrite",
+    "level": 4,
+    "use": "Pyrite is called fools gold because of its shiny color.",
+    "id": "iron-disulfide"
+  },
+  {
+    "formula": "ZnS",
+    "name": "Zinc sulfide",
+    "commonName": "",
+    "level": 4,
+    "use": "Sphalerite is an important source of zinc.",
+    "id": "zinc-sulfide"
+  },
+  {
+    "formula": "PbS",
+    "name": "Lead sulfide",
+    "commonName": "",
+    "level": 4,
+    "use": "Galena is a lead mineral with shiny crystals.",
+    "id": "lead-sulfide"
+  },
+  {
+    "formula": "CuS",
+    "name": "Copper(II) sulfide",
+    "commonName": "",
+    "level": 4,
+    "use": "Covellite is a deep blue copper mineral.",
+    "id": "copper-ii-sulfide"
+  },
+  {
+    "formula": "KMnO4",
+    "name": "Potassium permanganate",
+    "commonName": "",
+    "level": 5,
+    "use": "Its solutions have a strong purple color.",
+    "id": "potassium-permanganate"
+  },
+  {
+    "formula": "K2Cr2O7",
+    "name": "Potassium dichromate",
+    "commonName": "",
+    "level": 5,
+    "use": "Its crystals are orange.",
+    "id": "potassium-dichromate"
+  },
+  {
+    "formula": "Na2Cr2O7",
+    "name": "Sodium dichromate",
+    "commonName": "",
+    "level": 5,
+    "use": "It is an industrial chromium compound.",
+    "id": "sodium-dichromate"
+  },
+  {
+    "formula": "K2CrO4",
+    "name": "Potassium chromate",
+    "commonName": "",
+    "level": 5,
+    "use": "Its crystals are yellow.",
+    "id": "potassium-chromate"
+  },
+  {
+    "formula": "Na2CrO4",
+    "name": "Sodium chromate",
+    "commonName": "",
+    "level": 5,
+    "use": "It is an industrial chromium compound.",
+    "id": "sodium-chromate"
+  },
+  {
+    "formula": "CuCl2",
+    "name": "Copper(II) chloride",
+    "commonName": "",
+    "level": 5,
+    "use": "It is used in specialist chemistry.",
+    "id": "copper-ii-chloride"
+  },
+  {
+    "formula": "CuCl",
+    "name": "Copper(I) chloride",
+    "commonName": "",
+    "level": 5,
+    "use": "It is studied in laboratories.",
+    "id": "copper-i-chloride"
+  },
+  {
+    "formula": "FeCl2",
+    "name": "Iron(II) chloride",
+    "commonName": "",
+    "level": 5,
+    "use": "It is used in water-treatment chemistry.",
+    "id": "iron-ii-chloride"
+  },
+  {
+    "formula": "FeCl3",
+    "name": "Iron(III) chloride",
+    "commonName": "",
+    "level": 5,
+    "use": "It helps treat water in industrial systems.",
+    "id": "iron-iii-chloride"
+  },
+  {
+    "formula": "ZnCl2",
+    "name": "Zinc chloride",
+    "commonName": "",
+    "level": 5,
+    "use": "It is used in some batteries.",
+    "id": "zinc-chloride"
+  },
+  {
+    "formula": "AlCl3",
+    "name": "Aluminum chloride",
+    "commonName": "",
+    "level": 5,
+    "use": "It helps chemists make other substances.",
+    "id": "aluminum-chloride"
+  },
+  {
+    "formula": "AgCl",
+    "name": "Silver chloride",
+    "commonName": "",
+    "level": 5,
+    "use": "It has been used in photography because light can change it.",
+    "id": "silver-chloride"
+  },
+  {
+    "formula": "AgBr",
+    "name": "Silver bromide",
+    "commonName": "",
+    "level": 5,
+    "use": "It is used in photographic materials.",
+    "id": "silver-bromide"
+  },
+  {
+    "formula": "AgI",
+    "name": "Silver iodide",
+    "commonName": "",
+    "level": 5,
+    "use": "It is used in specialist weather research.",
+    "id": "silver-iodide"
+  },
+  {
+    "formula": "PbCl2",
+    "name": "Lead(II) chloride",
+    "commonName": "",
+    "level": 5,
+    "use": "It is studied in laboratories.",
+    "id": "lead-ii-chloride"
+  },
+  {
+    "formula": "SnCl2",
+    "name": "Tin(II) chloride",
+    "commonName": "",
+    "level": 5,
+    "use": "It is used in metal-treatment chemistry.",
+    "id": "tin-ii-chloride"
+  },
+  {
+    "formula": "SnCl4",
+    "name": "Tin(IV) chloride",
+    "commonName": "",
+    "level": 5,
+    "use": "It is used in chemical manufacturing.",
+    "id": "tin-iv-chloride"
+  },
+  {
+    "formula": "CoCl2",
+    "name": "Cobalt(II) chloride",
+    "commonName": "",
+    "level": 5,
+    "use": "It has been used in moisture indicators.",
+    "id": "cobalt-ii-chloride"
+  },
+  {
+    "formula": "NiCl2",
+    "name": "Nickel(II) chloride",
+    "commonName": "",
+    "level": 5,
+    "use": "It is used in metal plating.",
+    "id": "nickel-ii-chloride"
+  },
+  {
+    "formula": "MnCl2",
+    "name": "Manganese(II) chloride",
+    "commonName": "",
+    "level": 5,
+    "use": "It is used in specialist chemistry.",
+    "id": "manganese-ii-chloride"
+  },
+  {
+    "formula": "O3",
+    "name": "Ozone",
+    "use": "The upper atmosphere absorbs ultraviolet light with help from ozone.",
+    "commonName": "",
+    "level": 5,
+    "id": "ozone"
+  },
+  {
+    "formula": "N2O4",
+    "name": "Dinitrogen tetroxide",
+    "use": "Scientists study this gas alongside nitrogen dioxide.",
+    "commonName": "",
+    "level": 5,
+    "id": "dinitrogen-tetroxide"
+  },
+  {
+    "formula": "S8",
+    "name": "Sulfur",
+    "use": "Sulfur occurs around some volcanoes.",
+    "commonName": "",
+    "level": 5,
+    "id": "sulfur"
+  },
+  {
+    "formula": "P4",
+    "name": "White phosphorus",
+    "use": "This form of phosphorus is studied only with special safety equipment.",
+    "commonName": "",
+    "level": 5,
+    "id": "white-phosphorus"
+  },
+  {
+    "formula": "MgSO4·7H2O",
+    "name": "Magnesium sulfate heptahydrate",
+    "use": "Epsom salt is this water-containing crystal.",
+    "commonName": "",
+    "level": 5,
+    "id": "magnesium-sulfate-heptahydrate"
+  },
+  {
+    "formula": "CuSO4·5H2O",
+    "name": "Copper(II) sulfate pentahydrate",
+    "use": "This is a familiar blue laboratory crystal.",
+    "commonName": "",
+    "level": 5,
+    "id": "copper-ii-sulfate-pentahydrate"
+  },
+  {
+    "formula": "Na2CO3·10H2O",
+    "name": "Sodium carbonate decahydrate",
+    "use": "This water-containing crystal is a form of washing soda.",
+    "commonName": "",
+    "level": 5,
+    "id": "sodium-carbonate-decahydrate"
+  },
+  {
+    "formula": "CaMg(CO3)2",
+    "name": "Dolomite",
+    "use": "This mineral makes up some mountain rocks.",
+    "commonName": "",
+    "level": 5,
+    "id": "dolomite"
+  },
+  {
+    "formula": "KAlSi3O8",
+    "name": "Potassium feldspar",
+    "use": "This mineral is common in rocks.",
+    "commonName": "",
+    "level": 5,
+    "id": "potassium-feldspar"
+  },
+  {
+    "formula": "NaAlSi3O8",
+    "name": "Albite",
+    "use": "Albite belongs to the feldspar family of minerals.",
+    "commonName": "",
+    "level": 5,
+    "id": "albite"
+  },
+  {
+    "formula": "CaAl2Si2O8",
+    "name": "Anorthite",
+    "use": "This feldspar occurs in some Moon rocks.",
+    "commonName": "",
+    "level": 5,
+    "id": "anorthite"
+  },
+  {
+    "formula": "Mg2SiO4",
+    "name": "Forsterite",
+    "use": "This mineral belongs to the olivine family.",
+    "commonName": "",
+    "level": 5,
+    "id": "forsterite"
+  },
+  {
+    "formula": "Fe2SiO4",
+    "name": "Fayalite",
+    "use": "This mineral is an iron-rich olivine.",
+    "commonName": "",
+    "level": 5,
+    "id": "fayalite"
+  },
+  {
+    "formula": "ZrSiO4",
+    "name": "Zircon",
+    "use": "Some zircon crystals are billions of years old.",
+    "commonName": "",
+    "level": 5,
+    "id": "zircon"
+  },
+  {
+    "formula": "Be3Al2Si6O18",
+    "name": "Beryl",
+    "use": "Emerald and aquamarine are varieties of beryl.",
+    "commonName": "",
+    "level": 5,
+    "id": "beryl"
+  },
+  {
+    "formula": "Al2Si2O5(OH)4",
+    "name": "Kaolinite",
+    "use": "This mineral occurs in clay used for ceramics.",
+    "commonName": "",
+    "level": 5,
+    "id": "kaolinite"
+  },
+  {
+    "formula": "Mg3Si4O10(OH)2",
+    "name": "Talc",
+    "use": "Talc is the softest mineral on the Mohs hardness scale.",
+    "commonName": "",
+    "level": 5,
+    "id": "talc"
+  },
+  {
+    "formula": "CaSiO3",
+    "name": "Wollastonite",
+    "use": "This mineral is used in ceramics.",
+    "commonName": "",
+    "level": 5,
+    "id": "wollastonite"
+  },
+  {
+    "formula": "BaSO4",
+    "name": "Barium sulfate",
+    "use": "Barite is a dense mineral used in industry.",
+    "commonName": "",
+    "level": 5,
+    "id": "barium-sulfate"
+  },
+  {
+    "formula": "SrSO4",
+    "name": "Strontium sulfate",
+    "use": "This mineral is also called celestine.",
+    "commonName": "",
+    "level": 5,
+    "id": "strontium-sulfate"
+  },
+  {
+    "formula": "BaCO3",
+    "name": "Barium carbonate",
+    "use": "This mineral is also called witherite.",
+    "commonName": "",
+    "level": 5,
+    "id": "barium-carbonate"
+  },
+  {
+    "formula": "SrCO3",
+    "name": "Strontium carbonate",
+    "use": "This occurs as the mineral strontianite.",
+    "commonName": "",
+    "level": 5,
+    "id": "strontium-carbonate"
+  },
+  {
+    "formula": "Li2CO3",
+    "name": "Lithium carbonate",
+    "use": "It is used in glass and ceramic manufacturing.",
+    "commonName": "",
+    "level": 5,
+    "id": "lithium-carbonate"
+  },
+  {
+    "formula": "ZnCO3",
+    "name": "Zinc carbonate",
+    "use": "It occurs in the mineral smithsonite.",
+    "commonName": "",
+    "level": 5,
+    "id": "zinc-carbonate"
+  },
+  {
+    "formula": "MnCO3",
+    "name": "Manganese carbonate",
+    "use": "It occurs in the pink mineral rhodochrosite.",
+    "commonName": "",
+    "level": 5,
+    "id": "manganese-carbonate"
+  },
+  {
+    "formula": "FeCO3",
+    "name": "Iron(II) carbonate",
+    "use": "It occurs in the mineral siderite.",
+    "commonName": "",
+    "level": 5,
+    "id": "iron-ii-carbonate"
+  },
+  {
+    "formula": "Cu2CO3(OH)2",
+    "name": "Copper carbonate hydroxide",
+    "use": "Green malachite is this copper mineral.",
+    "commonName": "",
+    "level": 5,
+    "id": "copper-carbonate-hydroxide"
+  },
+  {
+    "formula": "Cu3(CO3)2(OH)2",
+    "name": "Azurite",
+    "use": "This copper mineral is deep blue.",
+    "commonName": "",
+    "level": 5,
+    "id": "azurite"
+  },
+  {
+    "formula": "Ca5(PO4)3OH",
+    "name": "Hydroxyapatite",
+    "use": "A related mineral makes bones and teeth hard.",
+    "commonName": "",
+    "level": 3,
+    "id": "hydroxyapatite"
+  },
+  {
+    "formula": "Ca5(PO4)3F",
+    "name": "Fluorapatite",
+    "use": "This mineral is related to tooth enamel's mineral.",
+    "commonName": "",
+    "level": 3,
+    "id": "fluorapatite"
+  },
+  {
+    "formula": "Ag2S",
+    "name": "Silver sulfide",
+    "use": "This forms part of silver tarnish.",
+    "commonName": "",
+    "level": 5,
+    "id": "silver-sulfide"
+  },
+  {
+    "formula": "Cu2S",
+    "name": "Copper(I) sulfide",
+    "use": "It occurs in the copper ore chalcocite.",
+    "commonName": "",
+    "level": 5,
+    "id": "copper-i-sulfide"
+  },
+  {
+    "formula": "MoS2",
+    "name": "Molybdenum disulfide",
+    "use": "Its slippery layers make it useful as a lubricant.",
+    "commonName": "",
+    "level": 5,
+    "id": "molybdenum-disulfide"
+  },
+  {
+    "formula": "WS2",
+    "name": "Tungsten disulfide",
+    "use": "Its thin layers are studied in materials science.",
+    "commonName": "",
+    "level": 5,
+    "id": "tungsten-disulfide"
+  },
+  {
+    "formula": "LiCl",
+    "name": "Lithium chloride",
+    "use": "It is used in specialist industrial chemistry.",
+    "commonName": "",
+    "level": 5,
+    "id": "lithium-chloride"
+  },
+  {
+    "formula": "LiBr",
+    "name": "Lithium bromide",
+    "use": "It is used in some cooling systems.",
+    "commonName": "",
+    "level": 5,
+    "id": "lithium-bromide"
+  },
+  {
+    "formula": "LiI",
+    "name": "Lithium iodide",
+    "use": "It is used in specialist batteries.",
+    "commonName": "",
+    "level": 5,
+    "id": "lithium-iodide"
+  },
+  {
+    "formula": "NaBr",
+    "name": "Sodium bromide",
+    "use": "It is used in chemical manufacturing.",
+    "commonName": "",
+    "level": 5,
+    "id": "sodium-bromide"
+  },
+  {
+    "formula": "NaI",
+    "name": "Sodium iodide",
+    "use": "Special crystals are used in radiation detectors.",
+    "commonName": "",
+    "level": 5,
+    "id": "sodium-iodide"
+  },
+  {
+    "formula": "KF",
+    "name": "Potassium fluoride",
+    "use": "It is used in laboratory chemistry.",
+    "commonName": "",
+    "level": 5,
+    "id": "potassium-fluoride"
+  },
+  {
+    "formula": "RbCl",
+    "name": "Rubidium chloride",
+    "use": "It is used in scientific research.",
+    "commonName": "",
+    "level": 5,
+    "id": "rubidium-chloride"
+  },
+  {
+    "formula": "CsCl",
+    "name": "Cesium chloride",
+    "use": "It is used in scientific research.",
+    "commonName": "",
+    "level": 5,
+    "id": "cesium-chloride"
+  },
+  {
+    "formula": "SrCl2",
+    "name": "Strontium chloride",
+    "use": "It is used in specialist chemistry.",
+    "commonName": "",
+    "level": 5,
+    "id": "strontium-chloride"
+  },
+  {
+    "formula": "BaCl2",
+    "name": "Barium chloride",
+    "use": "It is used in laboratory tests.",
+    "commonName": "",
+    "level": 5,
+    "id": "barium-chloride"
+  },
+  {
+    "formula": "CaBr2",
+    "name": "Calcium bromide",
+    "use": "It is used in industrial fluids.",
+    "commonName": "",
+    "level": 5,
+    "id": "calcium-bromide"
+  },
+  {
+    "formula": "MgBr2",
+    "name": "Magnesium bromide",
+    "use": "It is used in chemistry research.",
+    "commonName": "",
+    "level": 5,
+    "id": "magnesium-bromide"
+  },
+  {
+    "formula": "CaI2",
+    "name": "Calcium iodide",
+    "use": "It is studied in laboratories.",
+    "commonName": "",
+    "level": 3,
+    "id": "calcium-iodide"
+  },
+  {
+    "formula": "MgI2",
+    "name": "Magnesium iodide",
+    "use": "It is used in specialist chemistry.",
+    "commonName": "",
+    "level": 5,
+    "id": "magnesium-iodide"
+  },
+  {
+    "formula": "Na2S",
+    "name": "Sodium sulfide",
+    "use": "It is used in industrial manufacturing.",
+    "commonName": "",
+    "level": 5,
+    "id": "sodium-sulfide"
+  },
+  {
+    "formula": "K2S",
+    "name": "Potassium sulfide",
+    "use": "It is studied in chemical laboratories.",
+    "commonName": "",
+    "level": 5,
+    "id": "potassium-sulfide"
+  },
+  {
+    "formula": "Na2SO3",
+    "name": "Sodium sulfite",
+    "use": "It is used in paper production.",
+    "commonName": "",
+    "level": 5,
+    "id": "sodium-sulfite"
+  },
+  {
+    "formula": "Na2S2O3",
+    "name": "Sodium thiosulfate",
+    "use": "It is used in water testing and photography.",
+    "commonName": "",
+    "level": 5,
+    "id": "sodium-thiosulfate"
+  },
+  {
+    "formula": "Na2S2O3·5H2O",
+    "name": "Sodium thiosulfate pentahydrate",
+    "use": "This water-containing crystal is used in photography.",
+    "commonName": "",
+    "level": 5,
+    "id": "sodium-thiosulfate-pentahydrate"
+  },
+  {
+    "formula": "NaHSO4",
+    "name": "Sodium hydrogen sulfate",
+    "use": "It is used in some water-treatment products.",
+    "commonName": "",
+    "level": 5,
+    "id": "sodium-hydrogen-sulfate"
+  },
+  {
+    "formula": "NaHSO3",
+    "name": "Sodium hydrogen sulfite",
+    "use": "It is used in industrial chemistry.",
+    "commonName": "",
+    "level": 5,
+    "id": "sodium-hydrogen-sulfite"
+  },
+  {
+    "formula": "Na2S2O5",
+    "name": "Sodium metabisulfite",
+    "use": "It is used in some preservation processes.",
+    "commonName": "",
+    "level": 5,
+    "id": "sodium-metabisulfite"
+  },
+  {
+    "formula": "KHCO3",
+    "name": "Potassium bicarbonate",
+    "use": "It is used in some fire-extinguishing powders.",
+    "commonName": "",
+    "level": 5,
+    "id": "potassium-bicarbonate"
+  },
+  {
+    "formula": "K2CO3",
+    "name": "Potassium carbonate",
+    "use": "Potash is used in glassmaking.",
+    "commonName": "",
+    "level": 5,
+    "id": "potassium-carbonate"
+  },
+  {
+    "formula": "Na2HPO4",
+    "name": "Disodium hydrogen phosphate",
+    "use": "It helps control acidity in some products.",
+    "commonName": "",
+    "level": 5,
+    "id": "disodium-hydrogen-phosphate"
+  },
+  {
+    "formula": "NaH2PO4",
+    "name": "Sodium dihydrogen phosphate",
+    "use": "It is used in some chemical buffers.",
+    "commonName": "",
+    "level": 5,
+    "id": "sodium-dihydrogen-phosphate"
+  },
+  {
+    "formula": "KH2PO4",
+    "name": "Potassium dihydrogen phosphate",
+    "use": "It supplies nutrients to plants.",
+    "commonName": "",
+    "level": 5,
+    "id": "potassium-dihydrogen-phosphate"
+  },
+  {
+    "formula": "K2HPO4",
+    "name": "Dipotassium hydrogen phosphate",
+    "use": "It helps keep acidity steady in laboratory buffers.",
+    "commonName": "",
+    "level": 5,
+    "id": "dipotassium-hydrogen-phosphate"
+  },
+  {
+    "formula": "(NH4)2SO4",
+    "name": "Ammonium sulfate",
+    "use": "It is used in fertilizer.",
+    "commonName": "",
+    "level": 5,
+    "id": "ammonium-sulfate"
+  },
+  {
+    "formula": "(NH4)2CO3",
+    "name": "Ammonium carbonate",
+    "use": "It is used in specialist manufacturing.",
+    "commonName": "",
+    "level": 5,
+    "id": "ammonium-carbonate"
+  },
+  {
+    "formula": "NH4HCO3",
+    "name": "Ammonium bicarbonate",
+    "use": "It is used in some commercial baking.",
+    "commonName": "",
+    "level": 5,
+    "id": "ammonium-bicarbonate"
+  },
+  {
+    "formula": "NH4H2PO4",
+    "name": "Ammonium dihydrogen phosphate",
+    "use": "It is used in fertilizers.",
+    "commonName": "",
+    "level": 5,
+    "id": "ammonium-dihydrogen-phosphate"
+  },
+  {
+    "formula": "(NH4)2HPO4",
+    "name": "Diammonium hydrogen phosphate",
+    "use": "It is used in fertilizers.",
+    "commonName": "",
+    "level": 5,
+    "id": "diammonium-hydrogen-phosphate"
+  },
+  {
+    "formula": "H3BO3",
+    "name": "Boric acid",
+    "use": "It occurs in some minerals and industrial products.",
+    "commonName": "",
+    "level": 5,
+    "id": "boric-acid"
+  },
+  {
+    "formula": "Na2B4O7·10H2O",
+    "name": "Sodium tetraborate decahydrate",
+    "use": "Borax is found in mineral deposits and cleaners.",
+    "commonName": "",
+    "level": 5,
+    "id": "sodium-tetraborate-decahydrate"
+  },
+  {
+    "formula": "B2O3",
+    "name": "Boron trioxide",
+    "use": "It is used in special glasses.",
+    "commonName": "",
+    "level": 5,
+    "id": "boron-trioxide"
+  },
+  {
+    "formula": "SiC",
+    "name": "Silicon carbide",
+    "use": "It is used in tough cutting and grinding materials.",
+    "commonName": "",
+    "level": 5,
+    "id": "silicon-carbide"
+  },
+  {
+    "formula": "BN",
+    "name": "Boron nitride",
+    "use": "Different atom arrangements make this material soft or very hard.",
+    "commonName": "",
+    "level": 5,
+    "id": "boron-nitride"
+  },
+  {
+    "formula": "WC",
+    "name": "Tungsten carbide",
+    "use": "It is used in strong cutting tools.",
+    "commonName": "",
+    "level": 5,
+    "id": "tungsten-carbide"
+  },
+  {
+    "formula": "WO3",
+    "name": "Tungsten trioxide",
+    "use": "It is studied in smart-window materials.",
+    "commonName": "",
+    "level": 5,
+    "id": "tungsten-trioxide"
+  },
+  {
+    "formula": "V2O5",
+    "name": "Vanadium pentoxide",
+    "use": "It helps some industrial chemical processes as a catalyst.",
+    "commonName": "",
+    "level": 5,
+    "id": "vanadium-pentoxide"
+  },
+  {
+    "formula": "MoO3",
+    "name": "Molybdenum trioxide",
+    "use": "It is used in materials manufacturing.",
+    "commonName": "",
+    "level": 5,
+    "id": "molybdenum-trioxide"
+  },
+  {
+    "formula": "NiO",
+    "name": "Nickel(II) oxide",
+    "use": "It is used in ceramics and materials research.",
+    "commonName": "",
+    "level": 5,
+    "id": "nickel-ii-oxide"
+  },
+  {
+    "formula": "CoO",
+    "name": "Cobalt(II) oxide",
+    "use": "It is used in pigments and ceramics.",
+    "commonName": "",
+    "level": 5,
+    "id": "cobalt-ii-oxide"
+  },
+  {
+    "formula": "Co3O4",
+    "name": "Cobalt(II,III) oxide",
+    "use": "It is used in materials research.",
+    "commonName": "",
+    "level": 5,
+    "id": "cobalt-ii-iii-oxide"
+  },
+  {
+    "formula": "CrO3",
+    "name": "Chromium trioxide",
+    "use": "It is used only with strict industrial controls.",
+    "commonName": "",
+    "level": 5,
+    "id": "chromium-trioxide"
+  },
+  {
+    "formula": "Mn3O4",
+    "name": "Manganese(II,III) oxide",
+    "use": "It occurs as the mineral hausmannite.",
+    "commonName": "",
+    "level": 5,
+    "id": "manganese-ii-iii-oxide"
+  },
+  {
+    "formula": "SnO",
+    "name": "Tin(II) oxide",
+    "use": "It is studied in materials science.",
+    "commonName": "",
+    "level": 5,
+    "id": "tin-ii-oxide"
+  },
+  {
+    "formula": "PbO2",
+    "name": "Lead(IV) oxide",
+    "use": "It is used in lead-acid batteries.",
+    "commonName": "",
+    "level": 5,
+    "id": "lead-iv-oxide"
+  },
+  {
+    "formula": "Ag2O",
+    "name": "Silver(I) oxide",
+    "use": "It is used in some small batteries.",
+    "commonName": "",
+    "level": 5,
+    "id": "silver-i-oxide"
+  },
+  {
+    "formula": "Cu(NO3)2",
+    "name": "Copper(II) nitrate",
+    "use": "It is used in laboratory chemistry.",
+    "commonName": "",
+    "level": 5,
+    "id": "copper-ii-nitrate"
+  },
+  {
+    "formula": "Zn(NO3)2",
+    "name": "Zinc nitrate",
+    "use": "It is used in specialist chemistry.",
+    "commonName": "",
+    "level": 5,
+    "id": "zinc-nitrate"
+  },
+  {
+    "formula": "Mg(NO3)2",
+    "name": "Magnesium nitrate",
+    "use": "It is used in some fertilizers.",
+    "commonName": "",
+    "level": 5,
+    "id": "magnesium-nitrate"
+  },
+  {
+    "formula": "Ba(NO3)2",
+    "name": "Barium nitrate",
+    "use": "It is used in industrial chemistry.",
+    "commonName": "",
+    "level": 5,
+    "id": "barium-nitrate"
+  },
+  {
+    "formula": "Pb(NO3)2",
+    "name": "Lead(II) nitrate",
+    "use": "It is studied in laboratories.",
+    "commonName": "",
+    "level": 5,
+    "id": "lead-ii-nitrate"
+  },
+  {
+    "formula": "Fe(NO3)3",
+    "name": "Iron(III) nitrate",
+    "use": "It is used in chemical research.",
+    "commonName": "",
+    "level": 5,
+    "id": "iron-iii-nitrate"
+  },
+  {
+    "formula": "CoSO4",
+    "name": "Cobalt(II) sulfate",
+    "use": "It is used in industrial materials.",
+    "commonName": "",
+    "level": 5,
+    "id": "cobalt-ii-sulfate"
+  },
+  {
+    "formula": "NiSO4",
+    "name": "Nickel(II) sulfate",
+    "use": "It is used in metal plating.",
+    "commonName": "",
+    "level": 5,
+    "id": "nickel-ii-sulfate"
+  },
+  {
+    "formula": "MnSO4",
+    "name": "Manganese(II) sulfate",
+    "use": "It supplies manganese in some fertilizers.",
+    "commonName": "",
+    "level": 5,
+    "id": "manganese-ii-sulfate"
+  },
+  {
+    "formula": "CrCl3",
+    "name": "Chromium(III) chloride",
+    "use": "It is used in specialist chemistry.",
+    "commonName": "",
+    "level": 5,
+    "id": "chromium-iii-chloride"
+  },
+  {
+    "formula": "CH4N2O",
+    "name": "Urea",
+    "use": "Your body uses urea to help remove extra nitrogen.",
+    "commonName": "",
+    "level": 3,
+    "id": "urea"
+  },
+  {
+    "formula": "C6H8O6",
+    "name": "Ascorbic acid",
+    "use": "Vitamin C is found in many fruits and vegetables.",
+    "commonName": "",
+    "level": 3,
+    "id": "ascorbic-acid"
+  },
+  {
+    "formula": "C8H8O3",
+    "name": "Vanillin",
+    "use": "It helps give vanilla its familiar smell.",
+    "commonName": "",
+    "level": 3,
+    "id": "vanillin"
+  },
+  {
+    "formula": "C10H16",
+    "name": "Limonene",
+    "use": "It gives citrus peels some of their smell.",
+    "commonName": "",
+    "level": 3,
+    "id": "limonene"
+  },
+  {
+    "formula": "C10H16",
+    "name": "Alpha-pinene",
+    "use": "It occurs in pine trees.",
+    "commonName": "",
+    "level": 3,
+    "id": "alpha-pinene"
+  },
+  {
+    "formula": "C10H20O",
+    "name": "Menthol",
+    "use": "It gives mint products a cooling sensation.",
+    "commonName": "",
+    "level": 3,
+    "id": "menthol"
+  },
+  {
+    "formula": "C9H8O",
+    "name": "Cinnamaldehyde",
+    "use": "It helps give cinnamon its smell.",
+    "commonName": "",
+    "level": 3,
+    "id": "cinnamaldehyde"
+  },
+  {
+    "formula": "C5H8O4",
+    "name": "Glutaric acid",
+    "use": "It is used in polymer chemistry.",
+    "commonName": "",
+    "level": 3,
+    "id": "glutaric-acid"
+  },
+  {
+    "formula": "C6H10O4",
+    "name": "Adipic acid",
+    "use": "It is used to make some kinds of nylon.",
+    "commonName": "",
+    "level": 3,
+    "id": "adipic-acid"
+  },
+  {
+    "formula": "C7H6O3",
+    "name": "Salicylic acid",
+    "use": "It is used in some skin-care products.",
+    "commonName": "",
+    "level": 3,
+    "id": "salicylic-acid"
+  },
+  {
+    "formula": "C8H8O2",
+    "name": "Methyl benzoate",
+    "use": "It is used in fragrance chemistry.",
+    "commonName": "",
+    "level": 3,
+    "id": "methyl-benzoate"
+  },
+  {
+    "formula": "C4H8O2",
+    "name": "Ethyl acetate",
+    "use": "It is used in some glues and solvents.",
+    "commonName": "",
+    "level": 3,
+    "id": "ethyl-acetate"
+  },
+  {
+    "formula": "C4H8O2",
+    "name": "Butyric acid",
+    "use": "It occurs in small amounts in butter.",
+    "commonName": "",
+    "level": 3,
+    "id": "butyric-acid"
+  },
+  {
+    "formula": "C3H6O2",
+    "name": "Propionic acid",
+    "use": "It is used in some food-preservation systems.",
+    "commonName": "",
+    "level": 3,
+    "id": "propionic-acid"
+  },
+  {
+    "formula": "C7H5NaO2",
+    "name": "Sodium benzoate",
+    "use": "It is used as a preservative in some foods.",
+    "commonName": "",
+    "level": 3,
+    "id": "sodium-benzoate"
+  },
+  {
+    "formula": "C6H7KO2",
+    "name": "Potassium sorbate",
+    "use": "It helps preserve some foods.",
+    "commonName": "",
+    "level": 3,
+    "id": "potassium-sorbate"
+  },
+  {
+    "formula": "C6H8O2",
+    "name": "Sorbic acid",
+    "use": "It is used in some food-preservation systems.",
+    "commonName": "",
+    "level": 3,
+    "id": "sorbic-acid"
+  },
+  {
+    "formula": "C6H5Na3O7",
+    "name": "Trisodium citrate",
+    "use": "It helps control acidity in some foods.",
+    "commonName": "",
+    "level": 3,
+    "id": "trisodium-citrate"
+  },
+  {
+    "formula": "C4H5KO6",
+    "name": "Potassium hydrogen tartrate",
+    "use": "Cream of tartar is used in baking.",
+    "commonName": "",
+    "level": 3,
+    "id": "potassium-hydrogen-tartrate"
+  },
+  {
+    "formula": "C2H3NaO2",
+    "name": "Sodium acetate",
+    "use": "Its hydrated form is used in some reusable hand warmers.",
+    "commonName": "",
+    "level": 3,
+    "id": "sodium-acetate"
+  },
+  {
+    "formula": "Ca(C2H3O2)2",
+    "name": "Calcium acetate",
+    "use": "It is used in specialist manufacturing.",
+    "commonName": "",
+    "level": 3,
+    "id": "calcium-acetate"
+  },
+  {
+    "formula": "C2H7NO3S",
+    "name": "Taurine",
+    "use": "It occurs naturally in the body.",
+    "commonName": "",
+    "level": 3,
+    "id": "taurine"
+  },
+  {
+    "formula": "C3H7NO3",
+    "name": "Serine",
+    "use": "It is an amino acid used in proteins.",
+    "commonName": "",
+    "level": 3,
+    "id": "serine"
+  },
+  {
+    "formula": "C3H7NO2S",
+    "name": "Cysteine",
+    "use": "Its sulfur helps some proteins hold their shape.",
+    "commonName": "",
+    "level": 3,
+    "id": "cysteine"
+  },
+  {
+    "formula": "C5H11NO2S",
+    "name": "Methionine",
+    "use": "It is an amino acid obtained from food.",
+    "commonName": "",
+    "level": 3,
+    "id": "methionine"
+  },
+  {
+    "formula": "C5H11NO2",
+    "name": "Valine",
+    "use": "Your body obtains this amino acid from food proteins.",
+    "commonName": "",
+    "level": 3,
+    "id": "valine"
+  },
+  {
+    "formula": "C6H13NO2",
+    "name": "Isoleucine",
+    "use": "It is an amino acid in proteins.",
+    "commonName": "",
+    "level": 3,
+    "id": "isoleucine"
+  },
+  {
+    "formula": "C6H14N2O2",
+    "name": "Lysine",
+    "use": "It is an amino acid from food proteins.",
+    "commonName": "",
+    "level": 3,
+    "id": "lysine"
+  },
+  {
+    "formula": "C6H14N4O2",
+    "name": "Arginine",
+    "use": "It is an amino acid used by your body.",
+    "commonName": "",
+    "level": 3,
+    "id": "arginine"
+  },
+  {
+    "formula": "C6H9N3O2",
+    "name": "Histidine",
+    "use": "It is an amino acid in proteins.",
+    "commonName": "",
+    "level": 3,
+    "id": "histidine"
+  },
+  {
+    "formula": "C9H11NO2",
+    "name": "Phenylalanine",
+    "use": "It is an amino acid found in food.",
+    "commonName": "",
+    "level": 3,
+    "id": "phenylalanine"
+  },
+  {
+    "formula": "C9H11NO3",
+    "name": "Tyrosine",
+    "use": "Your body uses it to make proteins and some messengers.",
+    "commonName": "",
+    "level": 3,
+    "id": "tyrosine"
+  },
+  {
+    "formula": "C11H12N2O2",
+    "name": "Tryptophan",
+    "use": "It is an amino acid found in many foods.",
+    "commonName": "",
+    "level": 3,
+    "id": "tryptophan"
+  },
+  {
+    "formula": "C4H7NO4",
+    "name": "Aspartic acid",
+    "use": "It is an amino acid in proteins.",
+    "commonName": "",
+    "level": 3,
+    "id": "aspartic-acid"
+  },
+  {
+    "formula": "C4H8N2O3",
+    "name": "Asparagine",
+    "use": "This amino acid was first found in asparagus juice.",
+    "commonName": "",
+    "level": 3,
+    "id": "asparagine"
+  },
+  {
+    "formula": "C5H10N2O3",
+    "name": "Glutamine",
+    "use": "It helps move nitrogen around the body.",
+    "commonName": "",
+    "level": 3,
+    "id": "glutamine"
+  },
+  {
+    "formula": "C5H9NO2",
+    "name": "Proline",
+    "use": "It is an amino acid in collagen.",
+    "commonName": "",
+    "level": 3,
+    "id": "proline"
+  },
+  {
+    "formula": "C4H9NO3",
+    "name": "Threonine",
+    "use": "It is an amino acid obtained from food.",
+    "commonName": "",
+    "level": 3,
+    "id": "threonine"
+  },
+  {
+    "formula": "C5H5N5",
+    "name": "Adenine",
+    "use": "This DNA building block pairs with thymine.",
+    "commonName": "",
+    "level": 3,
+    "id": "adenine"
+  },
+  {
+    "formula": "C5H5N5O",
+    "name": "Guanine",
+    "use": "This DNA building block pairs with cytosine.",
+    "commonName": "",
+    "level": 3,
+    "id": "guanine"
+  },
+  {
+    "formula": "C4H5N3O",
+    "name": "Cytosine",
+    "use": "This is one of the building blocks of DNA.",
+    "commonName": "",
+    "level": 3,
+    "id": "cytosine"
+  },
+  {
+    "formula": "C5H6N2O2",
+    "name": "Thymine",
+    "use": "This is one of the building blocks of DNA.",
+    "commonName": "",
+    "level": 3,
+    "id": "thymine"
+  },
+  {
+    "formula": "C4H4N2O2",
+    "name": "Uracil",
+    "use": "This is a building block of RNA.",
+    "commonName": "",
+    "level": 3,
+    "id": "uracil"
+  },
+  {
+    "formula": "C5H10O5",
+    "name": "Ribose",
+    "use": "This sugar is part of RNA.",
+    "commonName": "",
+    "level": 3,
+    "id": "ribose"
+  },
+  {
+    "formula": "C5H10O4",
+    "name": "2-Deoxyribose",
+    "use": "This sugar is part of DNA.",
+    "commonName": "",
+    "level": 3,
+    "id": "2-deoxyribose"
+  },
+  {
+    "formula": "C6H14O6",
+    "name": "Sorbitol",
+    "use": "It occurs in some fruit and sugar-free products.",
+    "commonName": "",
+    "level": 3,
+    "id": "sorbitol"
+  },
+  {
+    "formula": "C5H12O5",
+    "name": "Xylitol",
+    "use": "It is used in some sugar-free products and is dangerous for dogs.",
+    "commonName": "",
+    "level": 3,
+    "id": "xylitol"
+  },
+  {
+    "formula": "C4H10O4",
+    "name": "Erythritol",
+    "use": "It is used in some sweetened foods.",
+    "commonName": "",
+    "level": 3,
+    "id": "erythritol"
+  },
+  {
+    "formula": "C6H14O6",
+    "name": "Mannitol",
+    "use": "It occurs in plants and is used in medicine.",
+    "commonName": "",
+    "level": 3,
+    "id": "mannitol"
+  },
+  {
+    "formula": "C18H36O2",
+    "name": "Stearic acid",
+    "use": "It occurs in fats and is used in some candles.",
+    "commonName": "",
+    "level": 3,
+    "id": "stearic-acid"
+  },
+  {
+    "formula": "C16H32O2",
+    "name": "Palmitic acid",
+    "use": "It is found in many natural fats.",
+    "commonName": "",
+    "level": 3,
+    "id": "palmitic-acid"
+  },
+  {
+    "formula": "C18H34O2",
+    "name": "Oleic acid",
+    "use": "It is a major fatty acid in olive oil.",
+    "commonName": "",
+    "level": 3,
+    "id": "oleic-acid"
+  },
+  {
+    "formula": "C18H32O2",
+    "name": "Linoleic acid",
+    "use": "It is found in many plant oils.",
+    "commonName": "",
+    "level": 3,
+    "id": "linoleic-acid"
+  },
+  {
+    "formula": "C27H46O",
+    "name": "Cholesterol",
+    "use": "It is part of animal cell membranes.",
+    "commonName": "",
+    "level": 3,
+    "id": "cholesterol"
+  },
+  {
+    "formula": "C4H10",
+    "name": "Isobutane",
+    "use": "It is used in some cooling systems.",
+    "commonName": "",
+    "level": 3,
+    "id": "isobutane"
+  },
+  {
+    "formula": "C3H6",
+    "name": "Cyclopropane",
+    "use": "Its three carbon atoms form a triangle.",
+    "commonName": "",
+    "level": 3,
+    "id": "cyclopropane"
+  },
+  {
+    "formula": "C2H4O2",
+    "name": "Methyl formate",
+    "use": "It is used in industrial chemistry.",
+    "commonName": "",
+    "level": 3,
+    "id": "methyl-formate"
+  },
+  {
+    "formula": "C2H6O",
+    "name": "Dimethyl ether",
+    "use": "It is used as a propellant in some sprays.",
+    "commonName": "",
+    "level": 3,
+    "id": "dimethyl-ether"
+  },
+  {
+    "formula": "C3H6O",
+    "name": "Propanal",
+    "use": "It is used in chemical manufacturing.",
+    "commonName": "",
+    "level": 3,
+    "id": "propanal"
+  },
+  {
+    "formula": "C6H12O6",
+    "name": "Galactose",
+    "use": "It is one of the sugars that make up lactose.",
+    "commonName": "",
+    "level": 3,
+    "id": "galactose"
+  },
+  {
+    "formula": "C3H8O",
+    "name": "2-Propanol",
+    "use": "It is found in some disinfectants.",
+    "commonName": "",
+    "level": 3,
+    "id": "2-propanol"
+  }
+]

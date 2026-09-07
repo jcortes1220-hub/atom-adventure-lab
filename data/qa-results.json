@@ -1,0 +1,42 @@
+{
+  "passed": true,
+  "viewportWidths": [
+    390,
+    768,
+    1600
+  ],
+  "webmcp": {
+    "name": "stage_lab_atoms",
+    "valid": {
+      "counts": {
+        "H": 2,
+        "O": 1
+      },
+      "total": 3,
+      "status": "staged"
+    },
+    "rejected": true,
+    "schema": {
+      "type": "object",
+      "properties": {
+        "counts": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 999
+          }
+        }
+      },
+      "required": [
+        "counts"
+      ],
+      "additionalProperties": false
+    },
+    "annotations": {
+      "readOnlyHint": false,
+      "untrustedContentHint": false
+    }
+  },
+  "errors": []
+}

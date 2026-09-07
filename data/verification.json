@@ -1,0 +1,1876 @@
+[
+  {
+    "id": "hydrogen",
+    "name": "Hydrogen",
+    "cid": 783,
+    "formula": "H2"
+  },
+  {
+    "id": "oxygen",
+    "name": "Oxygen",
+    "cid": 977,
+    "formula": "O2"
+  },
+  {
+    "id": "nitrogen",
+    "name": "Nitrogen",
+    "cid": 947,
+    "formula": "N2"
+  },
+  {
+    "id": "chlorine",
+    "name": "Chlorine",
+    "cid": 24526,
+    "formula": "Cl2"
+  },
+  {
+    "id": "bromine",
+    "name": "Bromine",
+    "cid": 24408,
+    "formula": "Br2"
+  },
+  {
+    "id": "fluorine",
+    "name": "Fluorine",
+    "cid": 24524,
+    "formula": "F2"
+  },
+  {
+    "id": "water",
+    "name": "Water",
+    "cid": 962,
+    "formula": "H2O"
+  },
+  {
+    "id": "iodine",
+    "name": "Iodine",
+    "cid": 807,
+    "formula": "I2"
+  },
+  {
+    "id": "sodium-chloride",
+    "name": "Sodium chloride",
+    "cid": 5234,
+    "formula": "ClNa"
+  },
+  {
+    "id": "carbon-dioxide",
+    "name": "Carbon dioxide",
+    "cid": 280,
+    "formula": "CO2"
+  },
+  {
+    "id": "ammonia",
+    "name": "Ammonia",
+    "cid": 222,
+    "formula": "H3N"
+  },
+  {
+    "id": "methane",
+    "name": "Methane",
+    "cid": 297,
+    "formula": "CH4"
+  },
+  {
+    "id": "hydrogen-peroxide",
+    "name": "Hydrogen peroxide",
+    "cid": 784,
+    "formula": "H2O2"
+  },
+  {
+    "id": "sodium-bicarbonate",
+    "name": "Sodium bicarbonate",
+    "cid": 516892,
+    "formula": "CHNaO3"
+  },
+  {
+    "id": "calcium-carbonate",
+    "name": "Calcium carbonate",
+    "cid": 10112,
+    "formula": "CCaO3"
+  },
+  {
+    "id": "silicon-dioxide",
+    "name": "Silicon dioxide",
+    "cid": 24261,
+    "formula": "O2Si"
+  },
+  {
+    "id": "magnesium-oxide",
+    "name": "Magnesium oxide",
+    "cid": 14792,
+    "formula": "MgO"
+  },
+  {
+    "id": "calcium-oxide",
+    "name": "Calcium oxide",
+    "cid": 14778,
+    "formula": "CaO"
+  },
+  {
+    "id": "carbon-monoxide",
+    "name": "Carbon monoxide",
+    "cid": 281,
+    "formula": "CO"
+  },
+  {
+    "id": "sodium-carbonate",
+    "name": "Sodium carbonate",
+    "cid": 10340,
+    "formula": "CNa2O3"
+  },
+  {
+    "id": "potassium-chloride",
+    "name": "Potassium chloride",
+    "cid": 4873,
+    "formula": "ClK"
+  },
+  {
+    "id": "potassium-iodide",
+    "name": "Potassium iodide",
+    "cid": 4875,
+    "formula": "IK"
+  },
+  {
+    "id": "potassium-bromide",
+    "name": "Potassium bromide",
+    "cid": 253877,
+    "formula": "BrK"
+  },
+  {
+    "id": "calcium-chloride",
+    "name": "Calcium chloride",
+    "cid": 5284359,
+    "formula": "CaCl2"
+  },
+  {
+    "id": "magnesium-chloride",
+    "name": "Magnesium chloride",
+    "cid": 5360315,
+    "formula": "Cl2Mg"
+  },
+  {
+    "id": "iron-iii-oxide",
+    "name": "Iron(III) oxide",
+    "cid": 518696,
+    "formula": "Fe2O3",
+    "lookup": "ferric oxide"
+  },
+  {
+    "id": "magnesium-sulfate",
+    "name": "Magnesium sulfate",
+    "cid": 24083,
+    "formula": "MgO4S"
+  },
+  {
+    "id": "sodium-sulfate",
+    "name": "Sodium sulfate",
+    "cid": 24436,
+    "formula": "Na2O4S"
+  },
+  {
+    "id": "potassium-sulfate",
+    "name": "Potassium sulfate",
+    "cid": 24507,
+    "formula": "K2O4S"
+  },
+  {
+    "id": "calcium-sulfate",
+    "name": "Calcium sulfate",
+    "cid": 24497,
+    "formula": "CaO4S"
+  },
+  {
+    "id": "copper-ii-sulfate",
+    "name": "Copper(II) sulfate",
+    "cid": 24462,
+    "formula": "CuO4S"
+  },
+  {
+    "id": "iron-ii-sulfate",
+    "name": "Iron(II) sulfate",
+    "cid": 24393,
+    "formula": "FeO4S"
+  },
+  {
+    "id": "iron-iii-sulfate",
+    "name": "Iron(III) sulfate",
+    "cid": 24826,
+    "formula": "Fe2O12S3"
+  },
+  {
+    "id": "zinc-sulfate",
+    "name": "Zinc sulfate",
+    "cid": 24424,
+    "formula": "O4SZn"
+  },
+  {
+    "id": "aluminum-sulfate",
+    "name": "Aluminum sulfate",
+    "cid": 24850,
+    "formula": "Al2O12S3"
+  },
+  {
+    "id": "sodium-nitrate",
+    "name": "Sodium nitrate",
+    "cid": 24268,
+    "formula": "NNaO3"
+  },
+  {
+    "id": "potassium-nitrate",
+    "name": "Potassium nitrate",
+    "cid": 24434,
+    "formula": "KNO3"
+  },
+  {
+    "id": "calcium-nitrate",
+    "name": "Calcium nitrate",
+    "cid": 24963,
+    "formula": "CaN2O6"
+  },
+  {
+    "id": "silver-nitrate",
+    "name": "Silver nitrate",
+    "cid": 24470,
+    "formula": "AgNO3"
+  },
+  {
+    "id": "ammonium-nitrate",
+    "name": "Ammonium nitrate",
+    "cid": 22985,
+    "formula": "H4N2O3"
+  },
+  {
+    "id": "ammonium-chloride",
+    "name": "Ammonium chloride",
+    "cid": 25517,
+    "formula": "ClH4N"
+  },
+  {
+    "id": "potassium-hydroxide",
+    "name": "Potassium hydroxide",
+    "cid": 14797,
+    "formula": "HKO"
+  },
+  {
+    "id": "calcium-hydroxide",
+    "name": "Calcium hydroxide",
+    "cid": 6093208,
+    "formula": "CaH2O2"
+  },
+  {
+    "id": "magnesium-hydroxide",
+    "name": "Magnesium hydroxide",
+    "cid": 73981,
+    "formula": "H2MgO2"
+  },
+  {
+    "id": "sodium-hydroxide",
+    "name": "Sodium hydroxide",
+    "cid": 14798,
+    "formula": "HNaO"
+  },
+  {
+    "id": "aluminum-hydroxide",
+    "name": "Aluminum hydroxide",
+    "cid": 10176082,
+    "formula": "AlH3O3"
+  },
+  {
+    "id": "hydrogen-chloride",
+    "name": "Hydrogen chloride",
+    "cid": 313,
+    "formula": "ClH"
+  },
+  {
+    "id": "hydrogen-fluoride",
+    "name": "Hydrogen fluoride",
+    "cid": 14917,
+    "formula": "FH"
+  },
+  {
+    "id": "hydrogen-bromide",
+    "name": "Hydrogen bromide",
+    "cid": 260,
+    "formula": "BrH"
+  },
+  {
+    "id": "hydrogen-iodide",
+    "name": "Hydrogen iodide",
+    "cid": 24841,
+    "formula": "HI"
+  },
+  {
+    "id": "sulfuric-acid",
+    "name": "Sulfuric acid",
+    "cid": 1118,
+    "formula": "H2O4S"
+  },
+  {
+    "id": "nitric-acid",
+    "name": "Nitric acid",
+    "cid": 944,
+    "formula": "HNO3"
+  },
+  {
+    "id": "phosphoric-acid",
+    "name": "Phosphoric acid",
+    "cid": 1004,
+    "formula": "H3O4P"
+  },
+  {
+    "id": "carbonic-acid",
+    "name": "Carbonic acid",
+    "cid": 767,
+    "formula": "CH2O3"
+  },
+  {
+    "id": "hydrogen-sulfide",
+    "name": "Hydrogen sulfide",
+    "cid": 402,
+    "formula": "H2S"
+  },
+  {
+    "id": "sulfur-dioxide",
+    "name": "Sulfur dioxide",
+    "cid": 1119,
+    "formula": "O2S"
+  },
+  {
+    "id": "sulfur-trioxide",
+    "name": "Sulfur trioxide",
+    "cid": 24682,
+    "formula": "O3S"
+  },
+  {
+    "id": "nitrogen-dioxide",
+    "name": "Nitrogen dioxide",
+    "cid": 3032552,
+    "formula": "NO2"
+  },
+  {
+    "id": "nitric-oxide",
+    "name": "Nitric oxide",
+    "cid": 145068,
+    "formula": "NO"
+  },
+  {
+    "id": "nitrous-oxide",
+    "name": "Nitrous oxide",
+    "cid": 948,
+    "formula": "N2O"
+  },
+  {
+    "id": "dinitrogen-trioxide",
+    "name": "Dinitrogen trioxide",
+    "cid": 61526,
+    "formula": "N2O3"
+  },
+  {
+    "id": "dinitrogen-pentoxide",
+    "name": "Dinitrogen pentoxide",
+    "cid": 66242,
+    "formula": "N2O5"
+  },
+  {
+    "id": "phosphorus-pentoxide",
+    "name": "Phosphorus pentoxide",
+    "cid": 14812,
+    "formula": "O10P4",
+    "lookup": "tetraphosphorus decaoxide"
+  },
+  {
+    "id": "phosphorus-trichloride",
+    "name": "Phosphorus trichloride",
+    "cid": 24387,
+    "formula": "Cl3P"
+  },
+  {
+    "id": "phosphorus-pentachloride",
+    "name": "Phosphorus pentachloride",
+    "cid": 24819,
+    "formula": "Cl5P"
+  },
+  {
+    "id": "sulfur-hexafluoride",
+    "name": "Sulfur hexafluoride",
+    "cid": 17358,
+    "formula": "F6S"
+  },
+  {
+    "id": "ethane",
+    "name": "Ethane",
+    "cid": 6324,
+    "formula": "C2H6"
+  },
+  {
+    "id": "propane",
+    "name": "Propane",
+    "cid": 6334,
+    "formula": "C3H8"
+  },
+  {
+    "id": "butane",
+    "name": "Butane",
+    "cid": 7843,
+    "formula": "C4H10"
+  },
+  {
+    "id": "pentane",
+    "name": "Pentane",
+    "cid": 8003,
+    "formula": "C5H12"
+  },
+  {
+    "id": "hexane",
+    "name": "Hexane",
+    "cid": 8058,
+    "formula": "C6H14"
+  },
+  {
+    "id": "heptane",
+    "name": "Heptane",
+    "cid": 8900,
+    "formula": "C7H16"
+  },
+  {
+    "id": "octane",
+    "name": "Octane",
+    "cid": 356,
+    "formula": "C8H18"
+  },
+  {
+    "id": "ethene",
+    "name": "Ethene",
+    "cid": 6325,
+    "formula": "C2H4"
+  },
+  {
+    "id": "propene",
+    "name": "Propene",
+    "cid": 8252,
+    "formula": "C3H6"
+  },
+  {
+    "id": "ethyne",
+    "name": "Ethyne",
+    "cid": 6326,
+    "formula": "C2H2"
+  },
+  {
+    "id": "benzene",
+    "name": "Benzene",
+    "cid": 241,
+    "formula": "C6H6"
+  },
+  {
+    "id": "methanol",
+    "name": "Methanol",
+    "cid": 887,
+    "formula": "CH4O"
+  },
+  {
+    "id": "ethanol",
+    "name": "Ethanol",
+    "cid": 702,
+    "formula": "C2H6O"
+  },
+  {
+    "id": "1-propanol",
+    "name": "1-Propanol",
+    "cid": 1031,
+    "formula": "C3H8O"
+  },
+  {
+    "id": "ethylene-glycol",
+    "name": "Ethylene glycol",
+    "cid": 174,
+    "formula": "C2H6O2"
+  },
+  {
+    "id": "formaldehyde",
+    "name": "Formaldehyde",
+    "cid": 712,
+    "formula": "CH2O"
+  },
+  {
+    "id": "glycerol",
+    "name": "Glycerol",
+    "cid": 753,
+    "formula": "C3H8O3"
+  },
+  {
+    "id": "acetaldehyde",
+    "name": "Acetaldehyde",
+    "cid": 177,
+    "formula": "C2H4O"
+  },
+  {
+    "id": "acetic-acid",
+    "name": "Acetic acid",
+    "cid": 176,
+    "formula": "C2H4O2"
+  },
+  {
+    "id": "formic-acid",
+    "name": "Formic acid",
+    "cid": 284,
+    "formula": "CH2O2"
+  },
+  {
+    "id": "acetone",
+    "name": "Acetone",
+    "cid": 180,
+    "formula": "C3H6O"
+  },
+  {
+    "id": "glucose",
+    "name": "Glucose",
+    "cid": 5793,
+    "formula": "C6H12O6"
+  },
+  {
+    "id": "fructose",
+    "name": "Fructose",
+    "cid": 2723872,
+    "formula": "C6H12O6"
+  },
+  {
+    "id": "sucrose",
+    "name": "Sucrose",
+    "cid": 5988,
+    "formula": "C12H22O11"
+  },
+  {
+    "id": "lactose",
+    "name": "Lactose",
+    "cid": 6134,
+    "formula": "C12H22O11"
+  },
+  {
+    "id": "maltose",
+    "name": "Maltose",
+    "cid": 439186,
+    "formula": "C12H22O11"
+  },
+  {
+    "id": "citric-acid",
+    "name": "Citric acid",
+    "cid": 311,
+    "formula": "C6H8O7"
+  },
+  {
+    "id": "lactic-acid",
+    "name": "Lactic acid",
+    "cid": 612,
+    "formula": "C3H6O3"
+  },
+  {
+    "id": "tartaric-acid",
+    "name": "Tartaric acid",
+    "cid": 444305,
+    "formula": "C4H6O6"
+  },
+  {
+    "id": "succinic-acid",
+    "name": "Succinic acid",
+    "cid": 1110,
+    "formula": "C4H6O4"
+  },
+  {
+    "id": "oxalic-acid",
+    "name": "Oxalic acid",
+    "cid": 971,
+    "formula": "C2H2O4"
+  },
+  {
+    "id": "malonic-acid",
+    "name": "Malonic acid",
+    "cid": 867,
+    "formula": "C3H4O4"
+  },
+  {
+    "id": "benzoic-acid",
+    "name": "Benzoic acid",
+    "cid": 243,
+    "formula": "C7H6O2"
+  },
+  {
+    "id": "acetaminophen",
+    "name": "Acetaminophen",
+    "cid": 1983,
+    "formula": "C8H9NO2"
+  },
+  {
+    "id": "aspirin",
+    "name": "Aspirin",
+    "cid": 2244,
+    "formula": "C9H8O4"
+  },
+  {
+    "id": "caffeine",
+    "name": "Caffeine",
+    "cid": 2519,
+    "formula": "C8H10N4O2"
+  },
+  {
+    "id": "nicotine",
+    "name": "Nicotine",
+    "cid": 89594,
+    "formula": "C10H14N2"
+  },
+  {
+    "id": "epinephrine",
+    "name": "Epinephrine",
+    "cid": 5816,
+    "formula": "C9H13NO3"
+  },
+  {
+    "id": "dopamine",
+    "name": "Dopamine",
+    "cid": 681,
+    "formula": "C8H11NO2"
+  },
+  {
+    "id": "serotonin",
+    "name": "Serotonin",
+    "cid": 5202,
+    "formula": "C10H12N2O"
+  },
+  {
+    "id": "glutamic-acid",
+    "name": "Glutamic acid",
+    "cid": 33032,
+    "formula": "C5H9NO4"
+  },
+  {
+    "id": "glycine",
+    "name": "Glycine",
+    "cid": 750,
+    "formula": "C2H5NO2"
+  },
+  {
+    "id": "alanine",
+    "name": "Alanine",
+    "cid": 5950,
+    "formula": "C3H7NO2"
+  },
+  {
+    "id": "leucine",
+    "name": "Leucine",
+    "cid": 6106,
+    "formula": "C6H13NO2"
+  },
+  {
+    "id": "calcium-sulfate-dihydrate",
+    "name": "Calcium sulfate dihydrate",
+    "cid": 24928,
+    "formula": "CaH4O6S"
+  },
+  {
+    "id": "magnesite",
+    "name": "Magnesite",
+    "cid": 11029,
+    "formula": "CMgO3"
+  },
+  {
+    "id": "aluminum-oxide",
+    "name": "Aluminum oxide",
+    "cid": 9989226,
+    "formula": "Al2O3"
+  },
+  {
+    "id": "titanium-dioxide",
+    "name": "Titanium dioxide",
+    "cid": 26042,
+    "formula": "O2Ti"
+  },
+  {
+    "id": "zinc-oxide",
+    "name": "Zinc oxide",
+    "cid": 3007857,
+    "formula": "OZn"
+  },
+  {
+    "id": "copper-i-oxide",
+    "name": "Copper(I) oxide",
+    "cid": 18346908,
+    "formula": "Cu2O"
+  },
+  {
+    "id": "copper-ii-oxide",
+    "name": "Copper(II) oxide",
+    "cid": 164827,
+    "formula": "CuO"
+  },
+  {
+    "id": "manganese-dioxide",
+    "name": "Manganese dioxide",
+    "cid": 14801,
+    "formula": "MnO2"
+  },
+  {
+    "id": "iron-ii-iii-oxide",
+    "name": "Iron(II,III) oxide",
+    "formula": "Fe3O4",
+    "source": "https://www.ncbi.nlm.nih.gov/mesh/68052203"
+  },
+  {
+    "id": "lead-ii-oxide",
+    "name": "Lead(II) oxide",
+    "cid": 14827,
+    "formula": "OPb"
+  },
+  {
+    "id": "tin-iv-oxide",
+    "name": "Tin(IV) oxide",
+    "cid": 16747781,
+    "formula": "O2Sn"
+  },
+  {
+    "id": "chromium-iii-oxide",
+    "name": "Chromium(III) oxide",
+    "cid": 517277,
+    "formula": "Cr2O3"
+  },
+  {
+    "id": "tricalcium-phosphate",
+    "name": "Tricalcium phosphate",
+    "cid": 24456,
+    "formula": "Ca3O8P2"
+  },
+  {
+    "id": "trisodium-phosphate",
+    "name": "Trisodium phosphate",
+    "cid": 24243,
+    "formula": "Na3O4P"
+  },
+  {
+    "id": "tripotassium-phosphate",
+    "name": "Tripotassium phosphate",
+    "cid": 62657,
+    "formula": "K3O4P"
+  },
+  {
+    "id": "magnesium-phosphate",
+    "name": "Magnesium phosphate",
+    "cid": 24439,
+    "formula": "Mg3O8P2"
+  },
+  {
+    "id": "calcium-fluoride",
+    "name": "Calcium fluoride",
+    "cid": 84512,
+    "formula": "CaF2"
+  },
+  {
+    "id": "sodium-fluoride",
+    "name": "Sodium fluoride",
+    "cid": 5235,
+    "formula": "FNa"
+  },
+  {
+    "id": "lithium-fluoride",
+    "name": "Lithium fluoride",
+    "cid": 224478,
+    "formula": "FLi"
+  },
+  {
+    "id": "magnesium-fluoride",
+    "name": "Magnesium fluoride",
+    "cid": 24546,
+    "formula": "F2Mg"
+  },
+  {
+    "id": "aluminum-fluoride",
+    "name": "Aluminum fluoride",
+    "cid": 2124,
+    "formula": "AlF3"
+  },
+  {
+    "id": "iron-ii-sulfide",
+    "name": "Iron(II) sulfide",
+    "cid": 14828,
+    "formula": "FeS"
+  },
+  {
+    "id": "iron-disulfide",
+    "name": "Iron disulfide",
+    "cid": 14788,
+    "formula": "FeS2"
+  },
+  {
+    "id": "zinc-sulfide",
+    "name": "Zinc sulfide",
+    "cid": 9833931,
+    "formula": "SZn"
+  },
+  {
+    "id": "lead-sulfide",
+    "name": "Lead sulfide",
+    "cid": 14819,
+    "formula": "PbS"
+  },
+  {
+    "id": "copper-ii-sulfide",
+    "name": "Copper(II) sulfide",
+    "cid": 165914,
+    "formula": "CuS"
+  },
+  {
+    "id": "potassium-permanganate",
+    "name": "Potassium permanganate",
+    "cid": 516875,
+    "formula": "KMnO4"
+  },
+  {
+    "id": "potassium-dichromate",
+    "name": "Potassium dichromate",
+    "cid": 24502,
+    "formula": "Cr2K2O7"
+  },
+  {
+    "id": "potassium-chromate",
+    "name": "Potassium chromate",
+    "cid": 24597,
+    "formula": "CrK2O4"
+  },
+  {
+    "id": "sodium-dichromate",
+    "name": "Sodium dichromate",
+    "cid": 25408,
+    "formula": "Cr2Na2O7"
+  },
+  {
+    "id": "sodium-chromate",
+    "name": "Sodium chromate",
+    "cid": 24488,
+    "formula": "CrNa2O4"
+  },
+  {
+    "id": "copper-ii-chloride",
+    "name": "Copper(II) chloride",
+    "cid": 24014,
+    "formula": "Cl2Cu"
+  },
+  {
+    "id": "copper-i-chloride",
+    "name": "Copper(I) chloride",
+    "cid": 62652,
+    "formula": "ClCu"
+  },
+  {
+    "id": "iron-ii-chloride",
+    "name": "Iron(II) chloride",
+    "cid": 24458,
+    "formula": "Cl2Fe"
+  },
+  {
+    "id": "iron-iii-chloride",
+    "name": "Iron(III) chloride",
+    "cid": 24380,
+    "formula": "Cl3Fe"
+  },
+  {
+    "id": "zinc-chloride",
+    "name": "Zinc chloride",
+    "cid": 5727,
+    "formula": "Cl2Zn"
+  },
+  {
+    "id": "aluminum-chloride",
+    "name": "Aluminum chloride",
+    "cid": 24012,
+    "formula": "AlCl3"
+  },
+  {
+    "id": "silver-chloride",
+    "name": "Silver chloride",
+    "cid": 24561,
+    "formula": "AgCl"
+  },
+  {
+    "id": "silver-bromide",
+    "name": "Silver bromide",
+    "cid": 66199,
+    "formula": "AgBr"
+  },
+  {
+    "id": "silver-iodide",
+    "name": "Silver iodide",
+    "cid": 24563,
+    "formula": "AgI"
+  },
+  {
+    "id": "lead-ii-chloride",
+    "name": "Lead(II) chloride",
+    "cid": 24459,
+    "formula": "Cl2Pb"
+  },
+  {
+    "id": "tin-ii-chloride",
+    "name": "Tin(II) chloride",
+    "cid": 24479,
+    "formula": "Cl2Sn"
+  },
+  {
+    "id": "tin-iv-chloride",
+    "name": "Tin(IV) chloride",
+    "cid": 24287,
+    "formula": "Cl4Sn"
+  },
+  {
+    "id": "nickel-ii-chloride",
+    "name": "Nickel(II) chloride",
+    "cid": 24385,
+    "formula": "Cl2Ni"
+  },
+  {
+    "id": "cobalt-ii-chloride",
+    "name": "Cobalt(II) chloride",
+    "cid": 3032536,
+    "formula": "Cl2Co",
+    "lookup": "cobalt dichloride"
+  },
+  {
+    "id": "ozone",
+    "name": "Ozone",
+    "cid": 24823,
+    "formula": "O3"
+  },
+  {
+    "id": "manganese-ii-chloride",
+    "name": "Manganese(II) chloride",
+    "formula": "MnCl2",
+    "cid": 24480
+  },
+  {
+    "id": "dinitrogen-tetroxide",
+    "name": "Dinitrogen tetroxide",
+    "cid": 25352,
+    "formula": "N2O4"
+  },
+  {
+    "id": "sulfur",
+    "name": "Sulfur",
+    "cid": 66348,
+    "formula": "S8",
+    "lookup": "cyclooctasulfur"
+  },
+  {
+    "id": "white-phosphorus",
+    "name": "White phosphorus",
+    "cid": 123286,
+    "formula": "P4",
+    "lookup": "tetraphosphorus"
+  },
+  {
+    "id": "magnesium-sulfate-heptahydrate",
+    "name": "Magnesium sulfate heptahydrate",
+    "cid": 24843,
+    "formula": "H14MgO11S"
+  },
+  {
+    "id": "copper-ii-sulfate-pentahydrate",
+    "name": "Copper(II) sulfate pentahydrate",
+    "cid": 24463,
+    "formula": "CuH10O9S"
+  },
+  {
+    "id": "sodium-carbonate-decahydrate",
+    "name": "Sodium carbonate decahydrate",
+    "cid": 151402,
+    "formula": "CH20Na2O13"
+  },
+  {
+    "id": "dolomite",
+    "name": "Dolomite",
+    "cid": 61833,
+    "formula": "C2CaMgO6"
+  },
+  {
+    "id": "potassium-feldspar",
+    "name": "Potassium feldspar",
+    "cid": 3080680,
+    "formula": "AlKO8Si3"
+  },
+  {
+    "id": "anorthite",
+    "name": "Anorthite",
+    "cid": 56843091,
+    "formula": "Al2CaO8Si2"
+  },
+  {
+    "id": "albite",
+    "name": "Albite",
+    "formula": "NaAlSi3O8",
+    "source": "https://www.handbookofmineralogy.org/pdfs/albite.pdf"
+  },
+  {
+    "id": "fayalite",
+    "name": "Fayalite",
+    "cid": 15863737,
+    "formula": "Fe2O4Si"
+  },
+  {
+    "id": "forsterite",
+    "name": "Forsterite",
+    "cid": 66225,
+    "formula": "Mg2O4Si",
+    "lookup": "magnesium orthosilicate"
+  },
+  {
+    "id": "zircon",
+    "name": "Zircon",
+    "cid": 61775,
+    "formula": "O4SiZr"
+  },
+  {
+    "id": "beryl",
+    "name": "Beryl",
+    "cid": 14767,
+    "formula": "Al2Be3O18Si6"
+  },
+  {
+    "id": "kaolinite",
+    "name": "Kaolinite",
+    "cid": 71300855,
+    "formula": "Al2H4O9Si2"
+  },
+  {
+    "id": "talc",
+    "name": "Talc",
+    "cid": 165411828,
+    "formula": "H2Mg3O12Si4"
+  },
+  {
+    "id": "wollastonite",
+    "name": "Wollastonite",
+    "cid": 26370,
+    "formula": "CaO3Si"
+  },
+  {
+    "id": "strontium-sulfate",
+    "name": "Strontium sulfate",
+    "cid": 3084026,
+    "formula": "O4SSr"
+  },
+  {
+    "id": "barium-sulfate",
+    "name": "Barium sulfate",
+    "cid": 24414,
+    "formula": "BaO4S"
+  },
+  {
+    "id": "barium-carbonate",
+    "name": "Barium carbonate",
+    "cid": 10563,
+    "formula": "CBaO3"
+  },
+  {
+    "id": "strontium-carbonate",
+    "name": "Strontium carbonate",
+    "cid": 15407,
+    "formula": "CO3Sr"
+  },
+  {
+    "id": "lithium-carbonate",
+    "name": "Lithium carbonate",
+    "cid": 11125,
+    "formula": "CLi2O3"
+  },
+  {
+    "id": "zinc-carbonate",
+    "name": "Zinc carbonate",
+    "cid": 19005,
+    "formula": "CO3Zn"
+  },
+  {
+    "id": "manganese-carbonate",
+    "name": "Manganese carbonate",
+    "cid": 11726,
+    "formula": "CMnO3"
+  },
+  {
+    "id": "iron-ii-carbonate",
+    "name": "Iron(II) carbonate",
+    "cid": 11248,
+    "formula": "CFeO3"
+  },
+  {
+    "id": "azurite",
+    "name": "Azurite",
+    "cid": 9884557,
+    "formula": "C2H2Cu3O8"
+  },
+  {
+    "id": "hydroxyapatite",
+    "name": "Hydroxyapatite",
+    "cid": 14781,
+    "formula": "Ca5HO13P3"
+  },
+  {
+    "id": "fluorapatite",
+    "name": "Fluorapatite",
+    "cid": 10207414,
+    "formula": "Ca5FO12P3"
+  },
+  {
+    "id": "silver-sulfide",
+    "name": "Silver sulfide",
+    "cid": 166738,
+    "formula": "Ag2S"
+  },
+  {
+    "id": "copper-i-sulfide",
+    "name": "Copper(I) sulfide",
+    "cid": 10130093,
+    "formula": "Cu2S"
+  },
+  {
+    "id": "molybdenum-disulfide",
+    "name": "Molybdenum disulfide",
+    "cid": 14823,
+    "formula": "MoS2"
+  },
+  {
+    "id": "tungsten-disulfide",
+    "name": "Tungsten disulfide",
+    "cid": 82938,
+    "formula": "S2W"
+  },
+  {
+    "id": "copper-carbonate-hydroxide",
+    "name": "Copper carbonate hydroxide",
+    "cid": 25503,
+    "formula": "CH2Cu2O5",
+    "lookup": "malachite"
+  },
+  {
+    "id": "lithium-chloride",
+    "name": "Lithium chloride",
+    "cid": 433294,
+    "formula": "ClLi"
+  },
+  {
+    "id": "lithium-bromide",
+    "name": "Lithium bromide",
+    "cid": 82050,
+    "formula": "BrLi"
+  },
+  {
+    "id": "lithium-iodide",
+    "name": "Lithium iodide",
+    "cid": 66321,
+    "formula": "ILi"
+  },
+  {
+    "id": "sodium-bromide",
+    "name": "Sodium bromide",
+    "cid": 253881,
+    "formula": "BrNa"
+  },
+  {
+    "id": "sodium-iodide",
+    "name": "Sodium iodide",
+    "cid": 5238,
+    "formula": "INa"
+  },
+  {
+    "id": "potassium-fluoride",
+    "name": "Potassium fluoride",
+    "cid": 522689,
+    "formula": "FK"
+  },
+  {
+    "id": "rubidium-chloride",
+    "name": "Rubidium chloride",
+    "cid": 62683,
+    "formula": "ClRb"
+  },
+  {
+    "id": "cesium-chloride",
+    "name": "Cesium chloride",
+    "cid": 24293,
+    "formula": "ClCs"
+  },
+  {
+    "id": "strontium-chloride",
+    "name": "Strontium chloride",
+    "cid": 5362485,
+    "formula": "Cl2Sr"
+  },
+  {
+    "id": "barium-chloride",
+    "name": "Barium chloride",
+    "cid": 25204,
+    "formula": "BaCl2"
+  },
+  {
+    "id": "calcium-bromide",
+    "name": "Calcium bromide",
+    "cid": 5360316,
+    "formula": "Br2Ca"
+  },
+  {
+    "id": "magnesium-bromide",
+    "name": "Magnesium bromide",
+    "cid": 82241,
+    "formula": "Br2Mg"
+  },
+  {
+    "id": "calcium-iodide",
+    "name": "Calcium iodide",
+    "cid": 5462722,
+    "formula": "CaI2"
+  },
+  {
+    "id": "magnesium-iodide",
+    "name": "Magnesium iodide",
+    "cid": 66322,
+    "formula": "I2Mg"
+  },
+  {
+    "id": "sodium-sulfide",
+    "name": "Sodium sulfide",
+    "formula": "Na2S",
+    "source": "https://janaf.nist.gov/tables/Na-032.html"
+  },
+  {
+    "id": "potassium-sulfide",
+    "name": "Potassium sulfide",
+    "cid": 162263,
+    "formula": "K2S"
+  },
+  {
+    "id": "sodium-sulfite",
+    "name": "Sodium sulfite",
+    "cid": 24437,
+    "formula": "Na2O3S"
+  },
+  {
+    "id": "sodium-thiosulfate",
+    "name": "Sodium thiosulfate",
+    "cid": 24477,
+    "formula": "Na2O3S2"
+  },
+  {
+    "id": "sodium-thiosulfate-pentahydrate",
+    "name": "Sodium thiosulfate pentahydrate",
+    "cid": 61475,
+    "formula": "H10Na2O8S2"
+  },
+  {
+    "id": "sodium-hydrogen-sulfate",
+    "name": "Sodium hydrogen sulfate",
+    "cid": 516919,
+    "formula": "HNaO4S"
+  },
+  {
+    "id": "sodium-hydrogen-sulfite",
+    "name": "Sodium hydrogen sulfite",
+    "cid": 23665763,
+    "formula": "HNaO3S"
+  },
+  {
+    "id": "sodium-metabisulfite",
+    "name": "Sodium metabisulfite",
+    "cid": 656671,
+    "formula": "Na2O5S2"
+  },
+  {
+    "id": "potassium-bicarbonate",
+    "name": "Potassium bicarbonate",
+    "cid": 516893,
+    "formula": "CHKO3"
+  },
+  {
+    "id": "potassium-carbonate",
+    "name": "Potassium carbonate",
+    "cid": 11430,
+    "formula": "CK2O3"
+  },
+  {
+    "id": "disodium-hydrogen-phosphate",
+    "name": "Disodium hydrogen phosphate",
+    "cid": 24203,
+    "formula": "HNa2O4P"
+  },
+  {
+    "id": "sodium-dihydrogen-phosphate",
+    "name": "Sodium dihydrogen phosphate",
+    "cid": 23672064,
+    "formula": "H2NaO4P"
+  },
+  {
+    "id": "potassium-dihydrogen-phosphate",
+    "name": "Potassium dihydrogen phosphate",
+    "cid": 516951,
+    "formula": "H2KO4P"
+  },
+  {
+    "id": "dipotassium-hydrogen-phosphate",
+    "name": "Dipotassium hydrogen phosphate",
+    "cid": 24450,
+    "formula": "HK2O4P"
+  },
+  {
+    "id": "ammonium-sulfate",
+    "name": "Ammonium sulfate",
+    "cid": 6097028,
+    "formula": "H8N2O4S"
+  },
+  {
+    "id": "ammonium-carbonate",
+    "name": "Ammonium carbonate",
+    "cid": 517111,
+    "formula": "CH8N2O3"
+  },
+  {
+    "id": "ammonium-bicarbonate",
+    "name": "Ammonium bicarbonate",
+    "cid": 14013,
+    "formula": "CH5NO3"
+  },
+  {
+    "id": "ammonium-dihydrogen-phosphate",
+    "name": "Ammonium dihydrogen phosphate",
+    "cid": 24402,
+    "formula": "H6NO4P"
+  },
+  {
+    "id": "diammonium-hydrogen-phosphate",
+    "name": "Diammonium hydrogen phosphate",
+    "cid": 24540,
+    "formula": "H9N2O4P"
+  },
+  {
+    "id": "boric-acid",
+    "name": "Boric acid",
+    "cid": 7628,
+    "formula": "BH3O3"
+  },
+  {
+    "id": "sodium-tetraborate-decahydrate",
+    "name": "Sodium tetraborate decahydrate",
+    "cid": 16211214,
+    "formula": "B4H20Na2O17"
+  },
+  {
+    "id": "boron-trioxide",
+    "name": "Boron trioxide",
+    "cid": 518682,
+    "formula": "B2O3"
+  },
+  {
+    "id": "silicon-carbide",
+    "name": "Silicon carbide",
+    "cid": 9863,
+    "formula": "CSi"
+  },
+  {
+    "id": "boron-nitride",
+    "name": "Boron nitride",
+    "cid": 66227,
+    "formula": "BN"
+  },
+  {
+    "id": "tungsten-carbide",
+    "name": "Tungsten carbide",
+    "cid": 2724274,
+    "formula": "CW"
+  },
+  {
+    "id": "tungsten-trioxide",
+    "name": "Tungsten trioxide",
+    "cid": 14811,
+    "formula": "O3W"
+  },
+  {
+    "id": "vanadium-pentoxide",
+    "name": "Vanadium pentoxide",
+    "cid": 14814,
+    "formula": "O5V2"
+  },
+  {
+    "id": "molybdenum-trioxide",
+    "name": "Molybdenum trioxide",
+    "cid": 14802,
+    "formula": "MoO3"
+  },
+  {
+    "id": "nickel-ii-oxide",
+    "name": "Nickel(II) oxide",
+    "cid": 179931,
+    "formula": "NiO"
+  },
+  {
+    "id": "cobalt-ii-oxide",
+    "name": "Cobalt(II) oxide",
+    "cid": 14786,
+    "formula": "CoO"
+  },
+  {
+    "id": "chromium-trioxide",
+    "name": "Chromium trioxide",
+    "cid": 14915,
+    "formula": "CrO3"
+  },
+  {
+    "id": "manganese-ii-iii-oxide",
+    "name": "Manganese(II,III) oxide",
+    "cid": 90479253,
+    "formula": "Mn3O4"
+  },
+  {
+    "id": "tin-ii-oxide",
+    "name": "Tin(II) oxide",
+    "cid": 88989,
+    "formula": "OSn"
+  },
+  {
+    "id": "lead-iv-oxide",
+    "name": "Lead(IV) oxide",
+    "cid": 14793,
+    "formula": "O2Pb"
+  },
+  {
+    "id": "cobalt-ii-iii-oxide",
+    "name": "Cobalt(II,III) oxide",
+    "formula": "Co3O4",
+    "cid": 6432046
+  },
+  {
+    "id": "copper-ii-nitrate",
+    "name": "Copper(II) nitrate",
+    "cid": 18616,
+    "formula": "CuN2O6"
+  },
+  {
+    "id": "zinc-nitrate",
+    "name": "Zinc nitrate",
+    "cid": 24518,
+    "formula": "N2O6Zn"
+  },
+  {
+    "id": "silver-i-oxide",
+    "name": "Silver(I) oxide",
+    "cid": 9794626,
+    "formula": "Ag2O",
+    "lookup": "disilver oxide"
+  },
+  {
+    "id": "magnesium-nitrate",
+    "name": "Magnesium nitrate",
+    "cid": 25212,
+    "formula": "MgN2O6"
+  },
+  {
+    "id": "lead-ii-nitrate",
+    "name": "Lead(II) nitrate",
+    "cid": 24924,
+    "formula": "N2O6Pb"
+  },
+  {
+    "id": "barium-nitrate",
+    "name": "Barium nitrate",
+    "cid": 24798,
+    "formula": "BaN2O6"
+  },
+  {
+    "id": "cobalt-ii-sulfate",
+    "name": "Cobalt(II) sulfate",
+    "cid": 24965,
+    "formula": "CoO4S"
+  },
+  {
+    "id": "iron-iii-nitrate",
+    "name": "Iron(III) nitrate",
+    "cid": 25251,
+    "formula": "FeN3O9"
+  },
+  {
+    "id": "nickel-ii-sulfate",
+    "name": "Nickel(II) sulfate",
+    "cid": 24586,
+    "formula": "NiO4S"
+  },
+  {
+    "id": "manganese-ii-sulfate",
+    "name": "Manganese(II) sulfate",
+    "cid": 24580,
+    "formula": "MnO4S"
+  },
+  {
+    "id": "chromium-iii-chloride",
+    "name": "Chromium(III) chloride",
+    "cid": 24808,
+    "formula": "Cl3Cr"
+  },
+  {
+    "id": "urea",
+    "name": "Urea",
+    "cid": 1176,
+    "formula": "CH4N2O"
+  },
+  {
+    "id": "ascorbic-acid",
+    "name": "Ascorbic acid",
+    "cid": 54670067,
+    "formula": "C6H8O6"
+  },
+  {
+    "id": "vanillin",
+    "name": "Vanillin",
+    "cid": 1183,
+    "formula": "C8H8O3"
+  },
+  {
+    "id": "limonene",
+    "name": "Limonene",
+    "cid": 22311,
+    "formula": "C10H16"
+  },
+  {
+    "id": "alpha-pinene",
+    "name": "Alpha-pinene",
+    "cid": 6654,
+    "formula": "C10H16"
+  },
+  {
+    "id": "menthol",
+    "name": "Menthol",
+    "cid": 1254,
+    "formula": "C10H20O"
+  },
+  {
+    "id": "cinnamaldehyde",
+    "name": "Cinnamaldehyde",
+    "cid": 637511,
+    "formula": "C9H8O"
+  },
+  {
+    "id": "adipic-acid",
+    "name": "Adipic acid",
+    "cid": 196,
+    "formula": "C6H10O4"
+  },
+  {
+    "id": "glutaric-acid",
+    "name": "Glutaric acid",
+    "cid": 743,
+    "formula": "C5H8O4"
+  },
+  {
+    "id": "salicylic-acid",
+    "name": "Salicylic acid",
+    "cid": 338,
+    "formula": "C7H6O3"
+  },
+  {
+    "id": "methyl-benzoate",
+    "name": "Methyl benzoate",
+    "cid": 7150,
+    "formula": "C8H8O2"
+  },
+  {
+    "id": "ethyl-acetate",
+    "name": "Ethyl acetate",
+    "cid": 8857,
+    "formula": "C4H8O2"
+  },
+  {
+    "id": "propionic-acid",
+    "name": "Propionic acid",
+    "cid": 1032,
+    "formula": "C3H6O2"
+  },
+  {
+    "id": "sodium-benzoate",
+    "name": "Sodium benzoate",
+    "cid": 517055,
+    "formula": "C7H5NaO2"
+  },
+  {
+    "id": "potassium-sorbate",
+    "name": "Potassium sorbate",
+    "cid": 23676745,
+    "formula": "C6H7KO2"
+  },
+  {
+    "id": "butyric-acid",
+    "name": "Butyric acid",
+    "cid": 264,
+    "formula": "C4H8O2"
+  },
+  {
+    "id": "sorbic-acid",
+    "name": "Sorbic acid",
+    "cid": 643460,
+    "formula": "C6H8O2"
+  },
+  {
+    "id": "trisodium-citrate",
+    "name": "Trisodium citrate",
+    "cid": 6224,
+    "formula": "C6H5Na3O7"
+  },
+  {
+    "id": "potassium-hydrogen-tartrate",
+    "name": "Potassium hydrogen tartrate",
+    "cid": 23666342,
+    "formula": "C4H5KO6"
+  },
+  {
+    "id": "sodium-acetate",
+    "name": "Sodium acetate",
+    "cid": 31372,
+    "formula": "C2H3NaO2"
+  },
+  {
+    "id": "calcium-acetate",
+    "name": "Calcium acetate",
+    "cid": 6116,
+    "formula": "C4H6CaO4"
+  },
+  {
+    "id": "taurine",
+    "name": "Taurine",
+    "cid": 1123,
+    "formula": "C2H7NO3S"
+  },
+  {
+    "id": "serine",
+    "name": "Serine",
+    "cid": 5951,
+    "formula": "C3H7NO3"
+  },
+  {
+    "id": "cysteine",
+    "name": "Cysteine",
+    "cid": 5862,
+    "formula": "C3H7NO2S"
+  },
+  {
+    "id": "methionine",
+    "name": "Methionine",
+    "cid": 6137,
+    "formula": "C5H11NO2S"
+  },
+  {
+    "id": "valine",
+    "name": "Valine",
+    "cid": 6287,
+    "formula": "C5H11NO2"
+  },
+  {
+    "id": "lysine",
+    "name": "Lysine",
+    "cid": 5962,
+    "formula": "C6H14N2O2"
+  },
+  {
+    "id": "isoleucine",
+    "name": "Isoleucine",
+    "cid": 6306,
+    "formula": "C6H13NO2"
+  },
+  {
+    "id": "arginine",
+    "name": "Arginine",
+    "cid": 6322,
+    "formula": "C6H14N4O2"
+  },
+  {
+    "id": "histidine",
+    "name": "Histidine",
+    "cid": 6274,
+    "formula": "C6H9N3O2"
+  },
+  {
+    "id": "tyrosine",
+    "name": "Tyrosine",
+    "cid": 6057,
+    "formula": "C9H11NO3"
+  },
+  {
+    "id": "phenylalanine",
+    "name": "Phenylalanine",
+    "cid": 6140,
+    "formula": "C9H11NO2"
+  },
+  {
+    "id": "aspartic-acid",
+    "name": "Aspartic acid",
+    "cid": 5960,
+    "formula": "C4H7NO4"
+  },
+  {
+    "id": "tryptophan",
+    "name": "Tryptophan",
+    "cid": 6305,
+    "formula": "C11H12N2O2"
+  },
+  {
+    "id": "asparagine",
+    "name": "Asparagine",
+    "cid": 6267,
+    "formula": "C4H8N2O3"
+  },
+  {
+    "id": "glutamine",
+    "name": "Glutamine",
+    "cid": 5961,
+    "formula": "C5H10N2O3"
+  },
+  {
+    "id": "threonine",
+    "name": "Threonine",
+    "cid": 6288,
+    "formula": "C4H9NO3"
+  },
+  {
+    "id": "proline",
+    "name": "Proline",
+    "cid": 145742,
+    "formula": "C5H9NO2"
+  },
+  {
+    "id": "adenine",
+    "name": "Adenine",
+    "cid": 190,
+    "formula": "C5H5N5"
+  },
+  {
+    "id": "guanine",
+    "name": "Guanine",
+    "cid": 135398634,
+    "formula": "C5H5N5O"
+  },
+  {
+    "id": "cytosine",
+    "name": "Cytosine",
+    "cid": 597,
+    "formula": "C4H5N3O"
+  },
+  {
+    "id": "thymine",
+    "name": "Thymine",
+    "cid": 1135,
+    "formula": "C5H6N2O2"
+  },
+  {
+    "id": "uracil",
+    "name": "Uracil",
+    "cid": 1174,
+    "formula": "C4H4N2O2"
+  },
+  {
+    "id": "ribose",
+    "name": "Ribose",
+    "cid": 10975657,
+    "formula": "C5H10O5"
+  },
+  {
+    "id": "2-deoxyribose",
+    "name": "2-Deoxyribose",
+    "cid": 5460005,
+    "formula": "C5H10O4"
+  },
+  {
+    "id": "sorbitol",
+    "name": "Sorbitol",
+    "cid": 5780,
+    "formula": "C6H14O6"
+  },
+  {
+    "id": "xylitol",
+    "name": "Xylitol",
+    "cid": 6912,
+    "formula": "C5H12O5"
+  },
+  {
+    "id": "erythritol",
+    "name": "Erythritol",
+    "cid": 222285,
+    "formula": "C4H10O4"
+  },
+  {
+    "id": "mannitol",
+    "name": "Mannitol",
+    "cid": 6251,
+    "formula": "C6H14O6"
+  },
+  {
+    "id": "stearic-acid",
+    "name": "Stearic acid",
+    "cid": 5281,
+    "formula": "C18H36O2"
+  },
+  {
+    "id": "oleic-acid",
+    "name": "Oleic acid",
+    "cid": 445639,
+    "formula": "C18H34O2"
+  },
+  {
+    "id": "palmitic-acid",
+    "name": "Palmitic acid",
+    "cid": 985,
+    "formula": "C16H32O2"
+  },
+  {
+    "id": "linoleic-acid",
+    "name": "Linoleic acid",
+    "cid": 5280450,
+    "formula": "C18H32O2"
+  },
+  {
+    "id": "cholesterol",
+    "name": "Cholesterol",
+    "cid": 5997,
+    "formula": "C27H46O"
+  },
+  {
+    "id": "isobutane",
+    "name": "Isobutane",
+    "cid": 6360,
+    "formula": "C4H10"
+  },
+  {
+    "id": "cyclopropane",
+    "name": "Cyclopropane",
+    "cid": 6351,
+    "formula": "C3H6"
+  },
+  {
+    "id": "methyl-formate",
+    "name": "Methyl formate",
+    "cid": 7865,
+    "formula": "C2H4O2"
+  },
+  {
+    "id": "dimethyl-ether",
+    "name": "Dimethyl ether",
+    "cid": 8254,
+    "formula": "C2H6O"
+  },
+  {
+    "id": "propanal",
+    "name": "Propanal",
+    "cid": 527,
+    "formula": "C3H6O"
+  },
+  {
+    "id": "galactose",
+    "name": "Galactose",
+    "cid": 6036,
+    "formula": "C6H12O6"
+  },
+  {
+    "id": "2-propanol",
+    "name": "2-Propanol",
+    "cid": 3776,
+    "formula": "C3H8O"
+  }
+]

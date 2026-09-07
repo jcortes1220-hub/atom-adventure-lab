@@ -1,0 +1,155 @@
+O3|Ozone|The upper atmosphere absorbs ultraviolet light with help from ozone.
+N2O4|Dinitrogen tetroxide|Scientists study this gas alongside nitrogen dioxide.
+S8|Sulfur|Sulfur occurs around some volcanoes.
+P4|White phosphorus|This form of phosphorus is studied only with special safety equipment.
+MgSO4·7H2O|Magnesium sulfate heptahydrate|Epsom salt is this water-containing crystal.
+CuSO4·5H2O|Copper(II) sulfate pentahydrate|This is a familiar blue laboratory crystal.
+Na2CO3·10H2O|Sodium carbonate decahydrate|This water-containing crystal is a form of washing soda.
+CaMg(CO3)2|Dolomite|This mineral makes up some mountain rocks.
+KAlSi3O8|Potassium feldspar|This mineral is common in rocks.
+NaAlSi3O8|Albite|Albite belongs to the feldspar family of minerals.
+CaAl2Si2O8|Anorthite|This feldspar occurs in some Moon rocks.
+Mg2SiO4|Forsterite|This mineral belongs to the olivine family.
+Fe2SiO4|Fayalite|This mineral is an iron-rich olivine.
+ZrSiO4|Zircon|Some zircon crystals are billions of years old.
+Be3Al2Si6O18|Beryl|Emerald and aquamarine are varieties of beryl.
+Al2Si2O5(OH)4|Kaolinite|This mineral occurs in clay used for ceramics.
+Mg3Si4O10(OH)2|Talc|Talc is the softest mineral on the Mohs hardness scale.
+CaSiO3|Wollastonite|This mineral is used in ceramics.
+BaSO4|Barium sulfate|Barite is a dense mineral used in industry.
+SrSO4|Strontium sulfate|This mineral is also called celestine.
+BaCO3|Barium carbonate|This mineral is also called witherite.
+SrCO3|Strontium carbonate|This occurs as the mineral strontianite.
+Li2CO3|Lithium carbonate|It is used in glass and ceramic manufacturing.
+ZnCO3|Zinc carbonate|It occurs in the mineral smithsonite.
+MnCO3|Manganese carbonate|It occurs in the pink mineral rhodochrosite.
+FeCO3|Iron(II) carbonate|It occurs in the mineral siderite.
+Cu2CO3(OH)2|Copper carbonate hydroxide|Green malachite is this copper mineral.
+Cu3(CO3)2(OH)2|Azurite|This copper mineral is deep blue.
+Ca5(PO4)3OH|Hydroxyapatite|A related mineral makes bones and teeth hard.
+Ca5(PO4)3F|Fluorapatite|This mineral is related to tooth enamel's mineral.
+Ag2S|Silver sulfide|This forms part of silver tarnish.
+Cu2S|Copper(I) sulfide|It occurs in the copper ore chalcocite.
+MoS2|Molybdenum disulfide|Its slippery layers make it useful as a lubricant.
+WS2|Tungsten disulfide|Its thin layers are studied in materials science.
+LiCl|Lithium chloride|It is used in specialist industrial chemistry.
+LiBr|Lithium bromide|It is used in some cooling systems.
+LiI|Lithium iodide|It is used in specialist batteries.
+NaBr|Sodium bromide|It is used in chemical manufacturing.
+NaI|Sodium iodide|Special crystals are used in radiation detectors.
+KF|Potassium fluoride|It is used in laboratory chemistry.
+RbCl|Rubidium chloride|It is used in scientific research.
+CsCl|Cesium chloride|It is used in scientific research.
+SrCl2|Strontium chloride|It is used in specialist chemistry.
+BaCl2|Barium chloride|It is used in laboratory tests.
+CaBr2|Calcium bromide|It is used in industrial fluids.
+MgBr2|Magnesium bromide|It is used in chemistry research.
+CaI2|Calcium iodide|It is studied in laboratories.
+MgI2|Magnesium iodide|It is used in specialist chemistry.
+Na2S|Sodium sulfide|It is used in industrial manufacturing.
+K2S|Potassium sulfide|It is studied in chemical laboratories.
+Na2SO3|Sodium sulfite|It is used in paper production.
+Na2S2O3|Sodium thiosulfate|It is used in water testing and photography.
+Na2S2O3·5H2O|Sodium thiosulfate pentahydrate|This water-containing crystal is used in photography.
+NaHSO4|Sodium hydrogen sulfate|It is used in some water-treatment products.
+NaHSO3|Sodium hydrogen sulfite|It is used in industrial chemistry.
+Na2S2O5|Sodium metabisulfite|It is used in some preservation processes.
+KHCO3|Potassium bicarbonate|It is used in some fire-extinguishing powders.
+K2CO3|Potassium carbonate|Potash is used in glassmaking.
+Na2HPO4|Disodium hydrogen phosphate|It helps control acidity in some products.
+NaH2PO4|Sodium dihydrogen phosphate|It is used in some chemical buffers.
+KH2PO4|Potassium dihydrogen phosphate|It supplies nutrients to plants.
+K2HPO4|Dipotassium hydrogen phosphate|It helps keep acidity steady in laboratory buffers.
+(NH4)2SO4|Ammonium sulfate|It is used in fertilizer.
+(NH4)2CO3|Ammonium carbonate|It is used in specialist manufacturing.
+NH4HCO3|Ammonium bicarbonate|It is used in some commercial baking.
+NH4H2PO4|Ammonium dihydrogen phosphate|It is used in fertilizers.
+(NH4)2HPO4|Diammonium hydrogen phosphate|It is used in fertilizers.
+H3BO3|Boric acid|It occurs in some minerals and industrial products.
+Na2B4O7·10H2O|Sodium tetraborate decahydrate|Borax is found in mineral deposits and cleaners.
+B2O3|Boron trioxide|It is used in special glasses.
+SiC|Silicon carbide|It is used in tough cutting and grinding materials.
+BN|Boron nitride|Different atom arrangements make this material soft or very hard.
+WC|Tungsten carbide|It is used in strong cutting tools.
+WO3|Tungsten trioxide|It is studied in smart-window materials.
+V2O5|Vanadium pentoxide|It helps some industrial chemical processes as a catalyst.
+MoO3|Molybdenum trioxide|It is used in materials manufacturing.
+NiO|Nickel(II) oxide|It is used in ceramics and materials research.
+CoO|Cobalt(II) oxide|It is used in pigments and ceramics.
+Co3O4|Cobalt(II,III) oxide|It is used in materials research.
+CrO3|Chromium trioxide|It is used only with strict industrial controls.
+Mn3O4|Manganese(II,III) oxide|It occurs as the mineral hausmannite.
+SnO|Tin(II) oxide|It is studied in materials science.
+PbO2|Lead(IV) oxide|It is used in lead-acid batteries.
+Ag2O|Silver(I) oxide|It is used in some small batteries.
+Cu(NO3)2|Copper(II) nitrate|It is used in laboratory chemistry.
+Zn(NO3)2|Zinc nitrate|It is used in specialist chemistry.
+Mg(NO3)2|Magnesium nitrate|It is used in some fertilizers.
+Ba(NO3)2|Barium nitrate|It is used in industrial chemistry.
+Pb(NO3)2|Lead(II) nitrate|It is studied in laboratories.
+Fe(NO3)3|Iron(III) nitrate|It is used in chemical research.
+CoSO4|Cobalt(II) sulfate|It is used in industrial materials.
+NiSO4|Nickel(II) sulfate|It is used in metal plating.
+MnSO4|Manganese(II) sulfate|It supplies manganese in some fertilizers.
+CrCl3|Chromium(III) chloride|It is used in specialist chemistry.
+CH4N2O|Urea|Your body uses urea to help remove extra nitrogen.
+C6H8O6|Ascorbic acid|Vitamin C is found in many fruits and vegetables.
+C8H8O3|Vanillin|It helps give vanilla its familiar smell.
+C10H16|Limonene|It gives citrus peels some of their smell.
+C10H16|Alpha-pinene|It occurs in pine trees.
+C10H20O|Menthol|It gives mint products a cooling sensation.
+C9H8O|Cinnamaldehyde|It helps give cinnamon its smell.
+C5H8O4|Glutaric acid|It is used in polymer chemistry.
+C6H10O4|Adipic acid|It is used to make some kinds of nylon.
+C7H6O3|Salicylic acid|It is used in some skin-care products.
+C8H8O2|Methyl benzoate|It is used in fragrance chemistry.
+C4H8O2|Ethyl acetate|It is used in some glues and solvents.
+C4H8O2|Butyric acid|It occurs in small amounts in butter.
+C3H6O2|Propionic acid|It is used in some food-preservation systems.
+C6H5NaO2|Sodium benzoate|It is used as a preservative in some foods.
+C6H7KO2|Potassium sorbate|It helps preserve some foods.
+C6H8O2|Sorbic acid|It is used in some food-preservation systems.
+C6H5Na3O7|Trisodium citrate|It helps control acidity in some foods.
+C4H5KO6|Potassium hydrogen tartrate|Cream of tartar is used in baking.
+C2H3NaO2|Sodium acetate|Its hydrated form is used in some reusable hand warmers.
+Ca(C2H3O2)2|Calcium acetate|It is used in specialist manufacturing.
+C2H7NO3S|Taurine|It occurs naturally in the body.
+C3H7NO3|Serine|It is an amino acid used in proteins.
+C3H7NO2S|Cysteine|Its sulfur helps some proteins hold their shape.
+C5H11NO2S|Methionine|It is an amino acid obtained from food.
+C5H11NO2|Valine|Your body obtains this amino acid from food proteins.
+C6H13NO2|Isoleucine|It is an amino acid in proteins.
+C6H14N2O2|Lysine|It is an amino acid from food proteins.
+C6H14N4O2|Arginine|It is an amino acid used by your body.
+C6H9N3O2|Histidine|It is an amino acid in proteins.
+C9H11NO2|Phenylalanine|It is an amino acid found in food.
+C9H11NO3|Tyrosine|Your body uses it to make proteins and some messengers.
+C11H12N2O2|Tryptophan|It is an amino acid found in many foods.
+C4H7NO4|Aspartic acid|It is an amino acid in proteins.
+C4H8N2O3|Asparagine|This amino acid was first found in asparagus juice.
+C5H10N2O3|Glutamine|It helps move nitrogen around the body.
+C5H9NO2|Proline|It is an amino acid in collagen.
+C4H9NO3|Threonine|It is an amino acid obtained from food.
+C5H5N5|Adenine|This DNA building block pairs with thymine.
+C5H5N5O|Guanine|This DNA building block pairs with cytosine.
+C4H5N3O|Cytosine|This is one of the building blocks of DNA.
+C5H6N2O2|Thymine|This is one of the building blocks of DNA.
+C4H4N2O2|Uracil|This is a building block of RNA.
+C5H10O5|Ribose|This sugar is part of RNA.
+C5H10O4|2-Deoxyribose|This sugar is part of DNA.
+C6H14O6|Sorbitol|It occurs in some fruit and sugar-free products.
+C5H12O5|Xylitol|It is used in some sugar-free products and is dangerous for dogs.
+C4H10O4|Erythritol|It is used in some sweetened foods.
+C6H14O6|Mannitol|It occurs in plants and is used in medicine.
+C18H36O2|Stearic acid|It occurs in fats and is used in some candles.
+C16H32O2|Palmitic acid|It is found in many natural fats.
+C18H34O2|Oleic acid|It is a major fatty acid in olive oil.
+C18H32O2|Linoleic acid|It is found in many plant oils.
+C27H46O|Cholesterol|It is part of animal cell membranes.
+C4H10|Isobutane|It is used in some cooling systems.
+C3H6|Cyclopropane|Its three carbon atoms form a triangle.
+C2H4O2|Methyl formate|It is used in industrial chemistry.
+C2H6O|Dimethyl ether|It is used as a propellant in some sprays.
+C3H6O|Propanal|It is used in chemical manufacturing.
+C6H12O6|Galactose|It is one of the sugars that make up lactose.
+C3H8O|2-Propanol|It is found in some disinfectants.
