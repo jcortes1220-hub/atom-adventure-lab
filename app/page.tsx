@@ -1,5 +1,5 @@
 'use client';
-import DataCredits from "../components/lab/DataCredits";
+import DataCredits from "@/components/lab/DataCredits";
 import { useEffect, useMemo, useState } from 'react';
 import {
   Atom,
