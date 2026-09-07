@@ -36,21 +36,6 @@ import {
   validateCounts,
   type Counts,
   type Compound,
-} from '../lib/chemistry';
-import {
-  emptyProgress,
-  readProgress,
-  storageKey,
-  type Progress,
-} from '../lib/progress';
-import { playSound } from '../lib/sound';
-import {
-  AtomModel,
-  Formula,
-  MoleculeModel,
-  atomColor,
-} from '../components/lab/Models';
-import { ElementCard } from '../components/lab/ElementCard';
 } from '@/lib/chemistry';
 import {
   emptyProgress,
