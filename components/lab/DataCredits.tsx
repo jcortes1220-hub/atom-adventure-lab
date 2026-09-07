@@ -1,4 +1,4 @@
-export function DataCredits() {
+export default function DataCredits() {
   return (
     <details className="data-credits">
       <summary>For grown-ups: sources & model notes</summary>
