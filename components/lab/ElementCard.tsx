@@ -4,10 +4,11 @@ import {
   SheetContent,
   SheetTitle,
   SheetDescription,
-} from '@/components/ui/sheet';
-import { bySymbol, categoryClass, type Element } from '@/data/elements';
+} from '../ui/sheet';
+import { bySymbol, categoryClass, type Element } from '../../data/elements';
 import { AtomModel, Formula } from './Models';
-import type { Compound } from '@/lib/chemistry';
+import type { Compound } from '../../lib/chemistry';
+
 export function ElementCard({
   element: e,
   onClose,
