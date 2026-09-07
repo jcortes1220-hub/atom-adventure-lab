@@ -18,17 +18,17 @@ import {
   Check,
   Lightbulb,
 } from 'lucide-react';
-import { Tabs, TabsList, TabsTrigger, TabsContent } from '@/components/ui/tabs';
-import { Progress as ProgressBar } from '@/components/ui/progress';
+import { Tabs, TabsList, TabsTrigger, TabsContent } from '../components/ui/tabs';
+import { Progress as ProgressBar } from '../components/ui/progress';
 import {
   Sheet,
   SheetContent,
   SheetTitle,
   SheetDescription,
-} from '@/components/ui/sheet';
-import { elements, bySymbol, categoryClass } from '@/data/elements';
-import rawCompounds from '@/data/compounds.json';
-import { challenges } from '@/data/challenges';
+} from '../components/ui/sheet';
+import { elements, bySymbol, categoryClass } from '../data/elements';
+import rawCompounds from '../data/compounds.json';
+import { challenges } from '../data/challenges';
 import {
   atomTotal,
   matchCompounds,
@@ -36,6 +36,21 @@ import {
   validateCounts,
   type Counts,
   type Compound,
+} from '../lib/chemistry';
+import {
+  emptyProgress,
+  readProgress,
+  storageKey,
+  type Progress,
+} from '../lib/progress';
+import { playSound } from '../lib/sound';
+import {
+  AtomModel,
+  Formula,
+  MoleculeModel,
+  atomColor,
+} from '../components/lab/Models';
+import { ElementCard } from '../components/lab/ElementCard';
 } from '@/lib/chemistry';
 import {
   emptyProgress,
